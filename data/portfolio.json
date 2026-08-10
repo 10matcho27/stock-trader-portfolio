@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-11T05:05:21.545718+09:00",
+  "generated_at": "2026-08-11T05:06:08.215337+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
@@ -755,16 +755,16 @@
         },
         {
           "date": "2026-08-10",
-          "index": 101.9742
+          "index": 101.9889
         }
       ],
-      "period_return_pct": 1.97,
+      "period_return_pct": 1.99,
       "filled_dates": [
         "2026-07-03"
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 159.289,
+      "fx_rate_last": 159.312,
       "fx_rate_last_date": "2026-08-10"
     }
   ],
