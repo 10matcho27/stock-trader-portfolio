@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-11T04:56:53.279582+09:00",
+  "generated_at": "2026-08-11T05:05:21.545718+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
@@ -755,10 +755,10 @@
         },
         {
           "date": "2026-08-10",
-          "index": 101.8993
+          "index": 101.9742
         }
       ],
-      "period_return_pct": 1.9,
+      "period_return_pct": 1.97,
       "filled_dates": [
         "2026-07-03"
       ],
