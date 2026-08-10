@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-10T15:05:12+09:00",
+  "detail_level": "full",
+  "market": "JP",
+  "source": "runtime_api",
+  "valuation_available": true,
+  "summary": {
+    "currency": "JPY",
+    "initial_cash": 10000000,
+    "cash": 3000000,
+    "holding_value": 7200000,
+    "total_assets": 10200000,
+    "realized_pnl": 150000,
+    "unrealized_pnl": 50000,
+    "total_pnl": 200000,
+    "total_return_pct": 2.0,
+    "position_count": 1
+  },
+  "positions": [
+    {
+      "ticker": "JP.0000",
+      "company_name": "サンプル株式会社",
+      "sector": "電気機器",
+      "qty": 1000,
+      "avg_cost": 2400.0,
+      "last_price": 2450.0,
+      "market_value": 2450000,
+      "unrealized_pnl": 50000,
+      "unrealized_pct": 2.08,
+      "entered_at": "2026-08-05T09:04:11+09:00",
+      "entry_catalyst": "上方修正（サンプル）",
+      "hold_rationale": "20日相対強度が継続、ストップまで距離あり（サンプル）"
+    }
+  ],
+  "equity_curve": [
+    { "date": "2026-08-06", "total_assets": 10120000, "realized_pnl": 120000, "unrealized_pnl": 0, "index": 100.0 },
+    { "date": "2026-08-07", "total_assets": 10200000, "realized_pnl": 150000, "unrealized_pnl": 50000, "index": 100.79 }
+  ],
+  "benchmark_baseline_date": "2026-08-06",
+  "invested_ratio_pct": 70.6,
+  "ui_defaults": { "visible_benchmark_keys": ["n225", "sp500"], "range": "all" },
+  "benchmarks": [
+    {
+      "key": "n225",
+      "label": "日経平均株価",
+      "symbol": "^N225",
+      "currency": "JPY",
+      "fx_adjusted": false,
+      "series": [
+        { "date": "2026-08-06", "index": 100.0 },
+        { "date": "2026-08-07", "index": 100.42 }
+      ],
+      "period_return_pct": 0.42,
+      "filled_dates": []
+    },
+    {
+      "key": "sp500",
+      "label": "S&P 500（円換算）",
+      "symbol": "^GSPC",
+      "currency": "JPY",
+      "quote_currency": "USD",
+      "fx_adjusted": true,
+      "fx_symbol": "USDJPY=X",
+      "fx_rate_last": 157.745,
+      "fx_rate_last_date": "2026-08-07",
+      "series": [
+        { "date": "2026-08-06", "index": 100.0 },
+        { "date": "2026-08-07", "index": 100.63 }
+      ],
+      "period_return_pct": 0.63,
+      "filled_dates": ["2026-08-06"]
+    }
+  ],
+  "recent_trades": [
+    { "time": "2026-08-07T09:04:11+09:00", "ticker": "JP.0000", "side": "BUY", "qty": 1000, "price": 2400.0 }
+  ],
+  "notes": ["これはプレースホルダです。実データではありません。"]
+}
