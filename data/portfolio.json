@@ -1,45 +1,405 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-10T15:05:12+09:00",
+  "generated_at": "2026-08-11T04:52:31.803140+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
   "valuation_available": true,
   "summary": {
     "currency": "JPY",
-    "initial_cash": 10000000,
-    "cash": 3000000,
-    "holding_value": 7200000,
-    "total_assets": 10200000,
-    "realized_pnl": 150000,
-    "unrealized_pnl": 50000,
-    "total_pnl": 200000,
-    "total_return_pct": 2.0,
-    "position_count": 1
+    "position_count": 6,
+    "initial_cash": 160000000.0,
+    "cash": 82817239.96,
+    "realized_pnl": 7880439.96,
+    "holding_value": 90455200.0,
+    "total_assets": 173272439.96,
+    "unrealized_pnl": 5392000.0,
+    "total_pnl": 13272439.96,
+    "total_return_pct": 8.3
   },
   "positions": [
     {
-      "ticker": "JP.0000",
-      "company_name": "サンプル株式会社",
-      "sector": "電気機器",
-      "qty": 1000,
-      "avg_cost": 2400.0,
-      "last_price": 2450.0,
-      "market_value": 2450000,
-      "unrealized_pnl": 50000,
-      "unrealized_pct": 2.08,
-      "entered_at": "2026-08-05T09:04:11+09:00",
-      "entry_catalyst": "上方修正（サンプル）",
-      "hold_rationale": "20日相対強度が継続、ストップまで距離あり（サンプル）"
+      "ticker": "JP.2371",
+      "company_name": "カカクコム",
+      "sector": "Communication Services",
+      "entered_at": "2026-07-02T12:40:53.622956+09:00",
+      "entry_catalyst": "カカクコム、TOB価格引き上げの協議要請(共同通信)",
+      "hold_rationale": "fundamental catalyst: mna",
+      "unrealized_pct": 5.86,
+      "qty": 4700.0,
+      "avg_cost": 3514.0,
+      "last_price": 3720.0,
+      "market_value": 17484000.0,
+      "unrealized_pnl": 968200.0
+    },
+    {
+      "ticker": "JP.7751",
+      "company_name": "キヤノン",
+      "sector": "Technology",
+      "entered_at": "2026-07-28T09:26:38.642150+09:00",
+      "entry_catalyst": "キヤノン、２６年１２月期業績予想を上方修正...",
+      "hold_rationale": "fundamental catalyst: guidance",
+      "unrealized_pct": 2.75,
+      "qty": 3700.0,
+      "avg_cost": 4504.0,
+      "last_price": 4628.0,
+      "market_value": 17123600.0,
+      "unrealized_pnl": 458800.0
+    },
+    {
+      "ticker": "JP.7609",
+      "company_name": "ダイトロン",
+      "sector": "Technology",
+      "entered_at": "2026-08-04T09:26:39.536938+09:00",
+      "entry_catalyst": "ダイトロン、今期経常を20％上方修正・最高...",
+      "hold_rationale": "fundamental catalyst: guidance",
+      "unrealized_pct": 14.85,
+      "qty": 4300.0,
+      "avg_cost": 3905.0,
+      "last_price": 4485.0,
+      "market_value": 19285500.0,
+      "unrealized_pnl": 2494000.0
+    },
+    {
+      "ticker": "JP.6952",
+      "company_name": "カシオ計算機",
+      "sector": "Technology",
+      "entered_at": "2026-08-04T12:41:37.367342+09:00",
+      "entry_catalyst": "好調「G-SHOCK」が市場を驚かせた カシオ株が22％急騰のストップ高で年初来高値",
+      "hold_rationale": "fundamental catalyst: guidance",
+      "unrealized_pct": 4.85,
+      "qty": 7700.0,
+      "avg_cost": 2204.0,
+      "last_price": 2311.0,
+      "market_value": 17794700.0,
+      "unrealized_pnl": 823900.0
+    },
+    {
+      "ticker": "JP.7272",
+      "company_name": "ヤマハ発動機",
+      "sector": "Consumer Cyclical",
+      "entered_at": "2026-08-05T09:32:43.861146+09:00",
+      "entry_catalyst": "【ヤマハ発動機（7272）】中間営業利益88.6%増で通期予想を上方修正、一方でOLV事業は構造改革に着手した決算の中身とは(LIMO) 2026年8月5日の東京株式市場は大幅続伸となりました。 前日の米国市場におけるハイテク株高を受け、市場全体に広がったリスクオンの流れを引き継ぐ展開となっています。国内ではアドバンテストや東京エレク",
+      "hold_rationale": "fundamental catalyst: guidance",
+      "unrealized_pct": 3.48,
+      "qty": 9200.0,
+      "avg_cost": 1857.32,
+      "last_price": 1922.0,
+      "market_value": 17682400.0,
+      "unrealized_pnl": 595100.0
+    },
+    {
+      "ticker": "JP.3923",
+      "company_name": "(株)ラクス",
+      "sector": "Technology",
+      "entered_at": "2026-08-06T09:22:21.918890+09:00",
+      "entry_catalyst": "ラクスル、MBO後初の戦略発表 経営支援に注力、経済圏拡大へ(日本ネット経済新聞) 印刷EC事業のラクスルは7月30日、今年5月のMBO後初の戦略発表会を行い、現業に加えて金融や営業を含むマーケティングの新たな展開を加速させ中小企業向け支援の拡大を軸に、経営全般の課題解決を主力とする",
+      "hold_rationale": "fundamental catalyst: mna",
+      "unrealized_pct": 5.03,
+      "qty": 1000.0,
+      "avg_cost": 1033.0,
+      "last_price": 1085.0,
+      "market_value": 1085000.0,
+      "unrealized_pnl": 52000.0
     }
   ],
   "equity_curve": [
-    { "date": "2026-08-06", "total_assets": 10120000, "realized_pnl": 120000, "unrealized_pnl": 0, "index": 100.0 },
-    { "date": "2026-08-07", "total_assets": 10200000, "realized_pnl": 150000, "unrealized_pnl": 50000, "index": 100.79 }
+    {
+      "date": "2026-06-01",
+      "index": 100.0,
+      "total_assets": 165079300.0,
+      "realized_pnl": 1758500.0,
+      "unrealized_pnl": 3320800.0
+    },
+    {
+      "date": "2026-06-02",
+      "index": 100.1498,
+      "total_assets": 165326600.0,
+      "realized_pnl": 1758500.0,
+      "unrealized_pnl": 3568100.0
+    },
+    {
+      "date": "2026-06-03",
+      "index": 100.5028,
+      "total_assets": 165909400.0,
+      "realized_pnl": 3304200.0,
+      "unrealized_pnl": 2605200.0
+    },
+    {
+      "date": "2026-06-04",
+      "index": 100.4007,
+      "total_assets": 165740800.0,
+      "realized_pnl": 3304200.0,
+      "unrealized_pnl": 2436600.0
+    },
+    {
+      "date": "2026-06-05",
+      "index": 100.1732,
+      "total_assets": 165365200.0,
+      "realized_pnl": 3304200.0,
+      "unrealized_pnl": 2061000.0
+    },
+    {
+      "date": "2026-06-08",
+      "index": 99.9242,
+      "total_assets": 164954200.0,
+      "realized_pnl": 3304200.0,
+      "unrealized_pnl": 1650000.0
+    },
+    {
+      "date": "2026-06-09",
+      "index": 100.3317,
+      "total_assets": 165626800.0,
+      "realized_pnl": 3304200.0,
+      "unrealized_pnl": 2322600.0
+    },
+    {
+      "date": "2026-06-10",
+      "index": 100.2368,
+      "total_assets": 165470200.0,
+      "realized_pnl": 3304200.0,
+      "unrealized_pnl": 2166000.0
+    },
+    {
+      "date": "2026-06-11",
+      "index": 99.9573,
+      "total_assets": 165008800.0,
+      "realized_pnl": 3304200.0,
+      "unrealized_pnl": 1704600.0
+    },
+    {
+      "date": "2026-06-12",
+      "index": 99.9758,
+      "total_assets": 165039300.0,
+      "realized_pnl": 2617800.0,
+      "unrealized_pnl": 2421500.0
+    },
+    {
+      "date": "2026-06-24",
+      "index": 100.1602,
+      "total_assets": 165343800.0,
+      "realized_pnl": 2617800.0,
+      "unrealized_pnl": 2726000.0
+    },
+    {
+      "date": "2026-06-26",
+      "index": 100.0642,
+      "total_assets": 165185300.0,
+      "realized_pnl": 2617800.0,
+      "unrealized_pnl": 2567500.0
+    },
+    {
+      "date": "2026-06-29",
+      "index": 99.8961,
+      "total_assets": 164907800.0,
+      "realized_pnl": 2617800.0,
+      "unrealized_pnl": 2290000.0
+    },
+    {
+      "date": "2026-06-30",
+      "index": 100.1381,
+      "total_assets": 165307300.0,
+      "realized_pnl": 5299800.0,
+      "unrealized_pnl": 7500.0
+    },
+    {
+      "date": "2026-07-01",
+      "index": 100.2063,
+      "total_assets": 165419800.0,
+      "realized_pnl": 5419800.0,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "date": "2026-07-02",
+      "index": 100.2205,
+      "total_assets": 165443300.0,
+      "realized_pnl": 5419800.0,
+      "unrealized_pnl": 23500.0
+    },
+    {
+      "date": "2026-07-03",
+      "index": 100.3742,
+      "total_assets": 165697100.0,
+      "realized_pnl": 5419800.0,
+      "unrealized_pnl": 277300.0
+    },
+    {
+      "date": "2026-07-06",
+      "index": 100.3913,
+      "total_assets": 165725300.0,
+      "realized_pnl": 5419800.0,
+      "unrealized_pnl": 305500.0
+    },
+    {
+      "date": "2026-07-07",
+      "index": 100.4062,
+      "total_assets": 165749800.0,
+      "realized_pnl": 5419800.0,
+      "unrealized_pnl": 330000.0
+    },
+    {
+      "date": "2026-07-08",
+      "index": 100.4813,
+      "total_assets": 165873900.0,
+      "realized_pnl": 5419800.0,
+      "unrealized_pnl": 454100.0
+    },
+    {
+      "date": "2026-07-09",
+      "index": 99.8023,
+      "total_assets": 164752950.0,
+      "realized_pnl": 5122800.0,
+      "unrealized_pnl": -369850.0
+    },
+    {
+      "date": "2026-07-10",
+      "index": 99.615,
+      "total_assets": 164443750.0,
+      "realized_pnl": 5122800.0,
+      "unrealized_pnl": -679050.0
+    },
+    {
+      "date": "2026-07-13",
+      "index": 100.2526,
+      "total_assets": 165496250.0,
+      "realized_pnl": 4972800.0,
+      "unrealized_pnl": 523450.0
+    },
+    {
+      "date": "2026-07-14",
+      "index": 101.064,
+      "total_assets": 166835750.0,
+      "realized_pnl": 5370800.0,
+      "unrealized_pnl": 1464950.0
+    },
+    {
+      "date": "2026-07-15",
+      "index": 101.3496,
+      "total_assets": 167307200.0,
+      "realized_pnl": 5601800.0,
+      "unrealized_pnl": 1705400.0
+    },
+    {
+      "date": "2026-07-16",
+      "index": 100.8411,
+      "total_assets": 166467800.0,
+      "realized_pnl": 5591400.0,
+      "unrealized_pnl": 876400.0
+    },
+    {
+      "date": "2026-07-17",
+      "index": 100.7301,
+      "total_assets": 166284500.0,
+      "realized_pnl": 5591400.0,
+      "unrealized_pnl": 693100.0
+    },
+    {
+      "date": "2026-07-21",
+      "index": 101.6001,
+      "total_assets": 167720800.0,
+      "realized_pnl": 5591400.0,
+      "unrealized_pnl": 2129400.0
+    },
+    {
+      "date": "2026-07-22",
+      "index": 100.913,
+      "total_assets": 166586450.0,
+      "realized_pnl": 5591400.0,
+      "unrealized_pnl": 995050.0
+    },
+    {
+      "date": "2026-07-23",
+      "index": 100.6585,
+      "total_assets": 166166300.0,
+      "realized_pnl": 4703700.0,
+      "unrealized_pnl": 1462600.0
+    },
+    {
+      "date": "2026-07-24",
+      "index": 101.4975,
+      "total_assets": 167551400.0,
+      "realized_pnl": 5421300.0,
+      "unrealized_pnl": 2130100.0
+    },
+    {
+      "date": "2026-07-27",
+      "index": 103.5863,
+      "total_assets": 170999550.0,
+      "realized_pnl": 6112900.0,
+      "unrealized_pnl": 4886650.0
+    },
+    {
+      "date": "2026-07-28",
+      "index": 103.1936,
+      "total_assets": 170351250.0,
+      "realized_pnl": 5570100.0,
+      "unrealized_pnl": 4781150.0
+    },
+    {
+      "date": "2026-07-29",
+      "index": 105.7763,
+      "total_assets": 174614800.0,
+      "realized_pnl": 4910400.0,
+      "unrealized_pnl": 9704400.0
+    },
+    {
+      "date": "2026-07-30",
+      "index": 104.8608,
+      "total_assets": 173103500.0,
+      "realized_pnl": 4764600.0,
+      "unrealized_pnl": 8338900.0
+    },
+    {
+      "date": "2026-07-31",
+      "index": 103.6739,
+      "total_assets": 171144200.0,
+      "realized_pnl": 4764600.0,
+      "unrealized_pnl": 6379600.0
+    },
+    {
+      "date": "2026-08-03",
+      "index": 102.1589,
+      "total_assets": 168643150.0,
+      "realized_pnl": 7231050.0,
+      "unrealized_pnl": 1412100.0
+    },
+    {
+      "date": "2026-08-04",
+      "index": 102.9827,
+      "total_assets": 170003130.96,
+      "realized_pnl": 6534450.0,
+      "unrealized_pnl": 3468680.96
+    },
+    {
+      "date": "2026-08-05",
+      "index": 103.2527,
+      "total_assets": 170448839.96,
+      "realized_pnl": 6543039.96,
+      "unrealized_pnl": 3905800.0
+    },
+    {
+      "date": "2026-08-06",
+      "index": 103.7978,
+      "total_assets": 171348639.96,
+      "realized_pnl": 7613939.96,
+      "unrealized_pnl": 3734700.0
+    },
+    {
+      "date": "2026-08-07",
+      "index": 103.2581,
+      "total_assets": 170457789.96,
+      "realized_pnl": 7915939.96,
+      "unrealized_pnl": 2541850.0
+    },
+    {
+      "date": "2026-08-10",
+      "index": 105.0109,
+      "total_assets": 173351239.96,
+      "realized_pnl": 7880439.96,
+      "unrealized_pnl": 5470800.0
+    }
   ],
-  "benchmark_baseline_date": "2026-08-06",
-  "invested_ratio_pct": 70.6,
-  "ui_defaults": { "visible_benchmark_keys": ["n225", "sp500"], "range": "all" },
+  "benchmark_baseline_date": "2026-06-01",
   "benchmarks": [
     {
       "key": "n225",
@@ -48,32 +408,445 @@
       "currency": "JPY",
       "fx_adjusted": false,
       "series": [
-        { "date": "2026-08-06", "index": 100.0 },
-        { "date": "2026-08-07", "index": 100.42 }
+        {
+          "date": "2026-06-01",
+          "index": 100.0
+        },
+        {
+          "date": "2026-06-02",
+          "index": 99.7011
+        },
+        {
+          "date": "2026-06-03",
+          "index": 102.1929
+        },
+        {
+          "date": "2026-06-04",
+          "index": 100.8013
+        },
+        {
+          "date": "2026-06-05",
+          "index": 99.4828
+        },
+        {
+          "date": "2026-06-08",
+          "index": 95.6529
+        },
+        {
+          "date": "2026-06-09",
+          "index": 97.7326
+        },
+        {
+          "date": "2026-06-10",
+          "index": 95.8839
+        },
+        {
+          "date": "2026-06-11",
+          "index": 95.9407
+        },
+        {
+          "date": "2026-06-12",
+          "index": 98.6341
+        },
+        {
+          "date": "2026-06-24",
+          "index": 103.3475
+        },
+        {
+          "date": "2026-06-26",
+          "index": 103.6253
+        },
+        {
+          "date": "2026-06-29",
+          "index": 103.7855
+        },
+        {
+          "date": "2026-06-30",
+          "index": 104.6732
+        },
+        {
+          "date": "2026-07-01",
+          "index": 105.2897
+        },
+        {
+          "date": "2026-07-02",
+          "index": 102.6874
+        },
+        {
+          "date": "2026-07-03",
+          "index": 104.1978
+        },
+        {
+          "date": "2026-07-06",
+          "index": 104.1882
+        },
+        {
+          "date": "2026-07-07",
+          "index": 101.976
+        },
+        {
+          "date": "2026-07-08",
+          "index": 99.8278
+        },
+        {
+          "date": "2026-07-09",
+          "index": 101.2094
+        },
+        {
+          "date": "2026-07-10",
+          "index": 102.4254
+        },
+        {
+          "date": "2026-07-13",
+          "index": 100.4607
+        },
+        {
+          "date": "2026-07-14",
+          "index": 101.2089
+        },
+        {
+          "date": "2026-07-15",
+          "index": 102.7149
+        },
+        {
+          "date": "2026-07-16",
+          "index": 99.8524
+        },
+        {
+          "date": "2026-07-17",
+          "index": 95.8269
+        },
+        {
+          "date": "2026-07-21",
+          "index": 98.951
+        },
+        {
+          "date": "2026-07-22",
+          "index": 98.7768
+        },
+        {
+          "date": "2026-07-23",
+          "index": 99.2355
+        },
+        {
+          "date": "2026-07-24",
+          "index": 96.5292
+        },
+        {
+          "date": "2026-07-27",
+          "index": 97.0073
+        },
+        {
+          "date": "2026-07-28",
+          "index": 93.1733
+        },
+        {
+          "date": "2026-07-29",
+          "index": 91.7828
+        },
+        {
+          "date": "2026-07-30",
+          "index": 92.43
+        },
+        {
+          "date": "2026-07-31",
+          "index": 96.157
+        },
+        {
+          "date": "2026-08-03",
+          "index": 95.2499
+        },
+        {
+          "date": "2026-08-04",
+          "index": 95.5527
+        },
+        {
+          "date": "2026-08-05",
+          "index": 99.053
+        },
+        {
+          "date": "2026-08-06",
+          "index": 98.1309
+        },
+        {
+          "date": "2026-08-07",
+          "index": 98.0165
+        },
+        {
+          "date": "2026-08-10",
+          "index": 98.0165
+        }
       ],
-      "period_return_pct": 0.42,
-      "filled_dates": []
+      "period_return_pct": -1.98,
+      "filled_dates": [
+        "2026-08-10"
+      ]
     },
     {
       "key": "sp500",
       "label": "S&P 500（円換算）",
       "symbol": "^GSPC",
       "currency": "JPY",
-      "quote_currency": "USD",
       "fx_adjusted": true,
-      "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 157.745,
-      "fx_rate_last_date": "2026-08-07",
       "series": [
-        { "date": "2026-08-06", "index": 100.0 },
-        { "date": "2026-08-07", "index": 100.63 }
+        {
+          "date": "2026-06-01",
+          "index": 100.0
+        },
+        {
+          "date": "2026-06-02",
+          "index": 100.307
+        },
+        {
+          "date": "2026-06-03",
+          "index": 99.7746
+        },
+        {
+          "date": "2026-06-04",
+          "index": 100.1617
+        },
+        {
+          "date": "2026-06-05",
+          "index": 97.5434
+        },
+        {
+          "date": "2026-06-08",
+          "index": 98.0399
+        },
+        {
+          "date": "2026-06-09",
+          "index": 97.694
+        },
+        {
+          "date": "2026-06-10",
+          "index": 96.2374
+        },
+        {
+          "date": "2026-06-11",
+          "index": 98.0107
+        },
+        {
+          "date": "2026-06-12",
+          "index": 98.2597
+        },
+        {
+          "date": "2026-06-24",
+          "index": 98.1838
+        },
+        {
+          "date": "2026-06-26",
+          "index": 98.2529
+        },
+        {
+          "date": "2026-06-29",
+          "index": 99.3963
+        },
+        {
+          "date": "2026-06-30",
+          "index": 100.2677
+        },
+        {
+          "date": "2026-07-01",
+          "index": 100.4877
+        },
+        {
+          "date": "2026-07-02",
+          "index": 100.4328
+        },
+        {
+          "date": "2026-07-03",
+          "index": 99.7593
+        },
+        {
+          "date": "2026-07-06",
+          "index": 100.4836
+        },
+        {
+          "date": "2026-07-07",
+          "index": 100.43
+        },
+        {
+          "date": "2026-07-08",
+          "index": 100.317
+        },
+        {
+          "date": "2026-07-09",
+          "index": 101.2435
+        },
+        {
+          "date": "2026-07-10",
+          "index": 101.5595
+        },
+        {
+          "date": "2026-07-13",
+          "index": 100.4535
+        },
+        {
+          "date": "2026-07-14",
+          "index": 101.1743
+        },
+        {
+          "date": "2026-07-15",
+          "index": 101.4094
+        },
+        {
+          "date": "2026-07-16",
+          "index": 100.8205
+        },
+        {
+          "date": "2026-07-17",
+          "index": 99.9896
+        },
+        {
+          "date": "2026-07-21",
+          "index": 100.749
+        },
+        {
+          "date": "2026-07-22",
+          "index": 101.0444
+        },
+        {
+          "date": "2026-07-23",
+          "index": 99.7586
+        },
+        {
+          "date": "2026-07-24",
+          "index": 100.2678
+        },
+        {
+          "date": "2026-07-27",
+          "index": 100.1487
+        },
+        {
+          "date": "2026-07-28",
+          "index": 100.4576
+        },
+        {
+          "date": "2026-07-29",
+          "index": 98.9907
+        },
+        {
+          "date": "2026-07-30",
+          "index": 100.2881
+        },
+        {
+          "date": "2026-07-31",
+          "index": 99.0628
+        },
+        {
+          "date": "2026-08-03",
+          "index": 98.8957
+        },
+        {
+          "date": "2026-08-04",
+          "index": 100.6317
+        },
+        {
+          "date": "2026-08-05",
+          "index": 100.5669
+        },
+        {
+          "date": "2026-08-06",
+          "index": 100.3314
+        },
+        {
+          "date": "2026-08-07",
+          "index": 101.4701
+        },
+        {
+          "date": "2026-08-10",
+          "index": 101.9102
+        }
       ],
-      "period_return_pct": 0.63,
-      "filled_dates": ["2026-08-06"]
+      "period_return_pct": 1.91,
+      "filled_dates": [
+        "2026-07-03"
+      ],
+      "quote_currency": "USD",
+      "fx_symbol": "USDJPY=X",
+      "fx_rate_last": 159.286,
+      "fx_rate_last_date": "2026-08-10"
     }
   ],
+  "invested_ratio_pct": 52.2,
+  "ui_defaults": {
+    "visible_benchmark_keys": [
+      "n225",
+      "sp500"
+    ],
+    "range": "all"
+  },
   "recent_trades": [
-    { "time": "2026-08-07T09:04:11+09:00", "ticker": "JP.0000", "side": "BUY", "qty": 1000, "price": 2400.0 }
+    {
+      "time": "2026-08-10T13:21:57+09:00",
+      "ticker": "JP.7476",
+      "side": "SELL",
+      "qty": 7100.0,
+      "price": 2378.0
+    },
+    {
+      "time": "2026-08-10T09:17:06+09:00",
+      "ticker": "JP.7476",
+      "side": "BUY",
+      "qty": 7100.0,
+      "price": 2383.0
+    },
+    {
+      "time": "2026-08-07T09:30:52+09:00",
+      "ticker": "JP.6845",
+      "side": "SELL",
+      "qty": 11000.0,
+      "price": 1558.5
+    },
+    {
+      "time": "2026-08-07T09:29:31+09:00",
+      "ticker": "JP.6845",
+      "side": "BUY",
+      "qty": 11000.0,
+      "price": 1544.0
+    },
+    {
+      "time": "2026-08-07T09:22:53+09:00",
+      "ticker": "JP.9037",
+      "side": "SELL",
+      "qty": 9500.0,
+      "price": 1811.0
+    },
+    {
+      "time": "2026-08-06T10:00:00+09:00",
+      "ticker": "JP.9418",
+      "side": "SELL",
+      "qty": 9800.0,
+      "price": 1685.0
+    },
+    {
+      "time": "2026-08-06T09:59:58+09:00",
+      "ticker": "JP.6963",
+      "side": "SELL",
+      "qty": 3600.0,
+      "price": 4742.0
+    },
+    {
+      "time": "2026-08-06T09:59:37+09:00",
+      "ticker": "JP.9278",
+      "side": "SELL",
+      "qty": 6500.0,
+      "price": 2836.0
+    },
+    {
+      "time": "2026-08-06T09:33:59+09:00",
+      "ticker": "JP.4062",
+      "side": "SELL",
+      "qty": 700.0,
+      "price": 19230.0
+    },
+    {
+      "time": "2026-08-06T09:22:21+09:00",
+      "ticker": "JP.3923",
+      "side": "BUY",
+      "qty": 1000.0,
+      "price": 1033.0
+    }
   ],
-  "notes": ["これはプレースホルダです。実データではありません。"]
+  "notes": []
 }
