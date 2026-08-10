@@ -379,3 +379,97 @@ a:hover { color: var(--accent-line); }
 @media (prefers-reduced-motion: reduce) {
   * { transition-duration: 0.001ms !important; animation-duration: 0.001ms !important; }
 }
+
+/* ==== モーション ====
+   モックアップ StatusScreenMotion.dc.html の keyframes をそのままの名前・秒数で持つ。
+   出現の制御は motion.js が行う。ここには「動き」だけを置き、レイアウトは変えない。 */
+
+@keyframes scRise { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: none; } }
+@keyframes scRiseSm { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+@keyframes scPop { 0% { opacity: 0; transform: scale(0.88) translateY(12px); } 62% { opacity: 1; transform: scale(1.03) translateY(0); } 100% { opacity: 1; transform: none; } }
+@keyframes scSlide { from { opacity: 0; transform: translateX(-16px); } to { opacity: 1; transform: none; } }
+@keyframes scFade { from { opacity: 0; } to { opacity: 1; } }
+@keyframes scGrow { from { opacity: 0; transform: scaleX(0); } to { opacity: 1; transform: scaleX(1); } }
+@keyframes scRow { from { opacity: 0; transform: translateY(-8px); } to { opacity: 1; transform: none; } }
+@keyframes scPulse {
+  0% { box-shadow: 0 0 0 0 var(--dot-glow); }
+  70% { box-shadow: 0 0 0 8px transparent; }
+  100% { box-shadow: 0 0 0 0 transparent; }
+}
+
+/* 出現前の状態。付けるのは motion.js だけで、HTML には書かない。
+   JS が読まれなければ「動かない」だけで、要素が消えることはない。 */
+.mo-pre { opacity: 0; }
+
+#heroRule { transform-origin: left center; }
+
+/* ---- 更新ドットの脈動 ---- */
+
+.dot { --dot-glow: rgba(15, 122, 84, 0.45); animation: scPulse 2.6s ease-out infinite; }
+.dot.is-stale { --dot-glow: rgba(138, 83, 0, 0.42); }
+.dot.is-unknown { --dot-glow: rgba(91, 95, 116, 0.38); }
+
+@media (prefers-color-scheme: dark) {
+  .dot { --dot-glow: rgba(95, 199, 154, 0.5); }
+  .dot.is-stale { --dot-glow: rgba(224, 164, 74, 0.45); }
+  .dot.is-unknown { --dot-glow: rgba(147, 151, 171, 0.4); }
+}
+
+/* ---- 上端の進捗バーとミニヘッダ ---- */
+
+.topbar {
+  position: fixed; top: 0; left: 0; right: 0; z-index: 40;
+  pointer-events: none;
+}
+.topbar-prog {
+  height: 2px; width: 0;
+  background: linear-gradient(90deg, var(--accent), var(--accent-line));
+  transition: width 0.12s linear;
+}
+.topbar-mini {
+  display: flex; align-items: center; gap: 9px;
+  padding: 9px 20px;
+  background: var(--mini-bg);
+  border-bottom: 1px solid var(--line-soft);
+  -webkit-backdrop-filter: blur(14px); backdrop-filter: blur(14px);
+  transform: translateY(-140%); opacity: 0;
+  transition: transform 0.42s cubic-bezier(0.16, 0.84, 0.44, 1), opacity 0.3s ease;
+}
+:root { --mini-bg: rgba(238, 240, 246, 0.86); }
+@media (prefers-color-scheme: dark) { :root { --mini-bg: rgba(22, 24, 38, 0.86); } }
+
+.mini-name {
+  min-width: 0; flex: 1 1 auto; font-size: 13px; font-weight: 600;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.mini-val {
+  flex: none; font-family: var(--mono); font-size: 13px;
+  font-variant-numeric: tabular-nums;
+}
+.mini-val.is-miss { font-size: 11px; color: var(--warn); }
+
+/* スキップリンクはミニヘッダより手前に出す。飛んだ先が隠れないよう余白も取る。 */
+.skip:focus { z-index: 60; }
+#main { scroll-margin-top: 58px; }
+
+/* ---- 触ったときの反応 ---- */
+
+.tile { transition: transform 0.25s cubic-bezier(0.16, 0.84, 0.44, 1), box-shadow 0.25s; }
+.pos { transition: transform 0.25s cubic-bezier(0.16, 0.84, 0.44, 1), box-shadow 0.25s; }
+.trade { transition: background 0.22s, transform 0.22s; }
+.seg-opt, .legend-btn { transition: background 0.18s, color 0.18s, border-color 0.18s, opacity 0.18s, transform 0.18s; }
+
+@media (hover: hover) {
+  .tile:hover { transform: translateY(-2px); box-shadow: inset 0 0 0 1px var(--accent-edge); }
+  .pos:hover { transform: translateY(-2px); box-shadow: 0 0 0 1px var(--accent-edge); }
+  .trade:hover { background: var(--accent-soft); transform: translateX(3px); }
+}
+
+.seg-opt:active { transform: scale(0.95); }
+.legend-btn:active { transform: scale(0.95); }
+
+/* 無限に回るのは更新ドットだけ。reduce では 0.001ms で回り続けないよう回数も 1 に落とす。 */
+@media (prefers-reduced-motion: reduce) {
+  * { animation-iteration-count: 1 !important; }
+  .mo-pre { opacity: 1 !important; }
+}
