@@ -1,50 +1,111 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="ja">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="robots" content="noindex, nofollow">
-<title>wiring check — stock-trader-portfolio</title>
-<style>
-  body { font-family: system-ui, sans-serif; margin: 2rem auto; max-width: 40rem; padding: 0 1rem; line-height: 1.6; }
-  h1 { font-size: 1.1rem; color: #b45309; }
-  pre { background: #f4f4f5; padding: 1rem; border-radius: 6px; overflow-x: auto; }
-  .ok { color: #15803d; } .ng { color: #b91c1c; }
-</style>
+<meta name="color-scheme" content="light dark">
+<title>運用状況 — Demo Stock Trader</title>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
-<h1>PLACEHOLDER — WIRING CHECK ONLY</h1>
-<p>この仮ページは GitHub Pages の配線確認用です。実ページに差し替えたら消えます。
-表示されているデータはすべて<strong>合成値</strong>で、実際の取引記録ではありません。</p>
+<a class="skip" href="#main">本文へスキップ</a>
 
-<h2>fetch 結果</h2>
-<pre id="out">loading…</pre>
+<div class="wrap">
 
-<script>
-  // 相対パス。先頭に / を付けない（project site は /stock-trader-portfolio/ 配下で配信される）
-  fetch('data/portfolio.json?t=' + Date.now())
-    .then(function (r) { return r.ok ? r.json() : Promise.reject(new Error('HTTP ' + r.status)); })
-    .then(function (j) {
-      var el = document.getElementById('out');
-      el.className = 'ok';
-      el.textContent =
-        'FETCH OK\n' +
-        'schema_version = ' + j.schema_version + '\n' +
-        'generated_at   = ' + j.generated_at + '\n' +
-        'detail_level   = ' + j.detail_level + '\n' +
-        'market         = ' + j.market + '\n' +
-        'source         = ' + j.source + '\n' +
-        'valuation_available = ' + j.valuation_available + '\n' +
-        'positions      = ' + (j.positions ? j.positions.length : '(key absent)') + '\n' +
-        'equity_curve   = ' + (j.equity_curve ? j.equity_curve.length : '(key absent)') + '\n' +
-        'benchmarks     = ' + (j.benchmarks ? j.benchmarks.length : '(key absent)') + '\n' +
-        'notes          = ' + JSON.stringify(j.notes);
-    })
-    .catch(function (e) {
-      var el = document.getElementById('out');
-      el.className = 'ng';
-      el.textContent = 'FETCH FAILED: ' + e.message;
-    });
-</script>
+  <header class="hd">
+    <p class="kicker">AUTOMATED TRADING · JP EQUITIES</p>
+    <h1>Demo Stock Trader</h1>
+    <p class="lede">日本株を対象に、適時開示（TDnet）とニュースを起点として売買を判断する自動売買システムの運用記録です。判断はすべてルールベースで、建玉は買いのみ、決済条件を満たした時点で手仕舞います。売買は仮想口座で行っており、平日 11:35 / 15:05 JST に更新しています。</p>
+    <p class="meta">
+      <span class="meta-item"><span class="dot" id="freshDot" aria-hidden="true"></span>更新 <span id="genAt">—</span></span>
+      <span class="meta-sep" aria-hidden="true"></span>
+      <span class="meta-item" id="srcLabel">source: —</span>
+      <span class="meta-sep" aria-hidden="true"></span>
+      <span class="meta-item" id="lvlLabel">detail: —</span>
+    </p>
+  </header>
+
+  <div id="banners" class="banners"></div>
+
+  <div id="fatal" class="fatal" hidden>
+    <p class="fatal-title">データを読み込めませんでした</p>
+    <p class="fatal-body" id="fatalBody"></p>
+    <p class="fatal-note">ページの構造は保たれています。数値の代わりに、読み込みに失敗した事実を表示しています。</p>
+  </div>
+
+  <main id="main" hidden>
+
+    <section class="sec" id="sec-summary" aria-labelledby="h-summary">
+      <h2 class="sr-only" id="h-summary">サマリ</h2>
+      <p class="lbl">トータルリターン</p>
+      <p class="hero"><span class="hero-mark" id="heroMark" aria-hidden="true"></span><span class="hero-val" id="heroVal">—</span></p>
+      <div class="rule" id="heroRule"></div>
+      <div class="tiles" id="tiles"></div>
+    </section>
+
+    <section class="sec" id="sec-chart" aria-labelledby="h-chart">
+      <div class="sec-head">
+        <h2 id="h-chart">資産推移</h2>
+        <div class="seg" id="ranges" role="group" aria-label="比較期間" hidden>
+          <button type="button" class="seg-opt" data-range="all" aria-pressed="true">全期間</button>
+          <button type="button" class="seg-opt" data-range="3m" aria-pressed="false">3 か月</button>
+          <button type="button" class="seg-opt" data-range="1m" aria-pressed="false">1 か月</button>
+        </div>
+      </div>
+
+      <div class="panel">
+        <p class="chart-empty" id="chartEmpty" hidden>この期間のデータがありません。</p>
+
+        <div class="chart-frame" id="chartFrame">
+          <div class="y-labels" id="yLabels"></div>
+          <svg class="chart" id="chart" viewBox="0 0 720 240" preserveAspectRatio="none" role="img" aria-labelledby="chartTitle">
+            <title id="chartTitle">資産推移の折れ線グラフ</title>
+            <defs>
+              <linearGradient id="areaFill" x1="0" y1="0" x2="0" y2="1">
+                <stop class="area-stop-0" offset="0"></stop>
+                <stop class="area-stop-1" offset="1"></stop>
+              </linearGradient>
+            </defs>
+            <g id="grid"><line class="gl proto" x1="0" y1="0" x2="720" y2="0"></line></g>
+            <path id="area" class="area" d=""></path>
+            <g id="benchLines"><path class="bl proto" d=""></path></g>
+            <path id="accountLine" class="account-line" d=""></path>
+            <circle id="accountDot" class="account-dot" r="3.2" cx="-20" cy="-20"></circle>
+          </svg>
+        </div>
+
+        <p class="x-labels"><span id="xFirst"></span><span id="xUnit"></span><span id="xLast"></span></p>
+
+        <ul class="legend" id="legend"></ul>
+        <div class="chart-notes" id="chartNotes"></div>
+      </div>
+    </section>
+
+    <section class="sec" id="sec-positions" aria-labelledby="h-positions">
+      <div class="sec-head">
+        <h2 id="h-positions">保有銘柄</h2>
+        <span class="count" id="posCount"></span>
+      </div>
+      <div class="pos-list" id="posList"></div>
+      <p class="empty" id="posEmpty" hidden>現在、保有している銘柄はありません。</p>
+    </section>
+
+    <section class="sec" id="sec-trades" aria-labelledby="h-trades">
+      <div class="sec-head"><h2 id="h-trades">直近の約定</h2></div>
+      <ul class="trades" id="tradeList"></ul>
+      <p class="empty" id="tradeEmpty" hidden>直近の約定はありません。</p>
+    </section>
+
+  </main>
+
+  <footer class="ft">
+    <p class="disclaimer">掲載の数値は仮想口座（ペーパートレード）による自動売買の記録であり、実口座での取引ではありません。投資助言を目的としたものではなく、将来の成果を保証するものでもありません。</p>
+    <p class="schedule">更新スケジュール: 平日 11:35 / 15:05 JST</p>
+  </footer>
+
+</div>
+
+<script src="app.js"></script>
 </body>
 </html>
