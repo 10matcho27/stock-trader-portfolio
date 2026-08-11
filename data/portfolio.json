@@ -1,16 +1,21 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-11T11:35:32.555134+09:00",
+  "generated_at": "2026-08-11T17:23:21.535817+09:00",
   "detail_level": "full",
   "market": "JP",
-  "source": "file_fallback",
-  "valuation_available": false,
+  "source": "runtime_api",
+  "valuation_available": true,
   "summary": {
     "currency": "JPY",
     "position_count": 6,
     "initial_cash": 160000000.0,
     "cash": 82817239.96,
-    "realized_pnl": 7880439.96
+    "realized_pnl": 7880439.96,
+    "holding_value": 90455200.0,
+    "total_assets": 173272439.96,
+    "unrealized_pnl": 5392000.0,
+    "total_pnl": 13272439.96,
+    "total_return_pct": 8.3
   },
   "positions": [
     {
@@ -20,8 +25,12 @@
       "entered_at": "2026-07-02T12:40:53.622956+09:00",
       "entry_catalyst": "カカクコム、TOB価格引き上げの協議要請(共同通信)",
       "hold_rationale": "fundamental catalyst: mna",
+      "unrealized_pct": 5.86,
       "qty": 4700.0,
-      "avg_cost": 3514.0
+      "avg_cost": 3514.0,
+      "last_price": 3720.0,
+      "market_value": 17484000.0,
+      "unrealized_pnl": 968200.0
     },
     {
       "ticker": "JP.7751",
@@ -30,8 +39,12 @@
       "entered_at": "2026-07-28T09:26:38.642150+09:00",
       "entry_catalyst": "キヤノン、２６年１２月期業績予想を上方修正...",
       "hold_rationale": "fundamental catalyst: guidance",
+      "unrealized_pct": 2.75,
       "qty": 3700.0,
-      "avg_cost": 4504.0
+      "avg_cost": 4504.0,
+      "last_price": 4628.0,
+      "market_value": 17123600.0,
+      "unrealized_pnl": 458800.0
     },
     {
       "ticker": "JP.7609",
@@ -40,8 +53,12 @@
       "entered_at": "2026-08-04T09:26:39.536938+09:00",
       "entry_catalyst": "ダイトロン、今期経常を20％上方修正・最高...",
       "hold_rationale": "fundamental catalyst: guidance",
+      "unrealized_pct": 14.85,
       "qty": 4300.0,
-      "avg_cost": 3905.0
+      "avg_cost": 3905.0,
+      "last_price": 4485.0,
+      "market_value": 19285500.0,
+      "unrealized_pnl": 2494000.0
     },
     {
       "ticker": "JP.6952",
@@ -50,8 +67,12 @@
       "entered_at": "2026-08-04T12:41:37.367342+09:00",
       "entry_catalyst": "好調「G-SHOCK」が市場を驚かせた カシオ株が22％急騰のストップ高で年初来高値",
       "hold_rationale": "fundamental catalyst: guidance",
+      "unrealized_pct": 4.85,
       "qty": 7700.0,
-      "avg_cost": 2204.0
+      "avg_cost": 2204.0,
+      "last_price": 2311.0,
+      "market_value": 17794700.0,
+      "unrealized_pnl": 823900.0
     },
     {
       "ticker": "JP.7272",
@@ -60,8 +81,12 @@
       "entered_at": "2026-08-05T09:32:43.861146+09:00",
       "entry_catalyst": "【ヤマハ発動機（7272）】中間営業利益88.6%増で通期予想を上方修正、一方でOLV事業は構造改革に着手した決算の中身とは(LIMO) 2026年8月5日の東京株式市場は大幅続伸となりました。 前日の米国市場におけるハイテク株高を受け、市場全体に広がったリスクオンの流れを引き継ぐ展開となっています。国内ではアドバンテストや東京エレク",
       "hold_rationale": "fundamental catalyst: guidance",
+      "unrealized_pct": 3.48,
       "qty": 9200.0,
-      "avg_cost": 1857.32
+      "avg_cost": 1857.32,
+      "last_price": 1922.0,
+      "market_value": 17682400.0,
+      "unrealized_pnl": 595100.0
     },
     {
       "ticker": "JP.3923",
@@ -70,8 +95,12 @@
       "entered_at": "2026-08-06T09:22:21.918890+09:00",
       "entry_catalyst": "ラクスル、MBO後初の戦略発表 経営支援に注力、経済圏拡大へ(日本ネット経済新聞) 印刷EC事業のラクスルは7月30日、今年5月のMBO後初の戦略発表会を行い、現業に加えて金融や営業を含むマーケティングの新たな展開を加速させ中小企業向け支援の拡大を軸に、経営全般の課題解決を主力とする",
       "hold_rationale": "fundamental catalyst: mna",
+      "unrealized_pct": 5.03,
       "qty": 1000.0,
-      "avg_cost": 1033.0
+      "avg_cost": 1033.0,
+      "last_price": 1085.0,
+      "market_value": 1085000.0,
+      "unrealized_pnl": 52000.0
     }
   ],
   "equity_curve": [
@@ -737,6 +766,7 @@
       "fx_rate_last_date": "2026-08-10"
     }
   ],
+  "invested_ratio_pct": 52.2,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
@@ -744,8 +774,77 @@
     ],
     "range": "all"
   },
-  "recent_trades": [],
-  "notes": [
-    "runtime API に接続できなかったため、口座ファイルの簿価から復元しています。評価額と評価損益は出していません。"
-  ]
+  "recent_trades": [
+    {
+      "time": "2026-08-10T13:21:57+09:00",
+      "ticker": "JP.7476",
+      "side": "SELL",
+      "qty": 7100.0,
+      "price": 2378.0
+    },
+    {
+      "time": "2026-08-10T09:17:06+09:00",
+      "ticker": "JP.7476",
+      "side": "BUY",
+      "qty": 7100.0,
+      "price": 2383.0
+    },
+    {
+      "time": "2026-08-07T09:30:52+09:00",
+      "ticker": "JP.6845",
+      "side": "SELL",
+      "qty": 11000.0,
+      "price": 1558.5
+    },
+    {
+      "time": "2026-08-07T09:29:31+09:00",
+      "ticker": "JP.6845",
+      "side": "BUY",
+      "qty": 11000.0,
+      "price": 1544.0
+    },
+    {
+      "time": "2026-08-07T09:22:53+09:00",
+      "ticker": "JP.9037",
+      "side": "SELL",
+      "qty": 9500.0,
+      "price": 1811.0
+    },
+    {
+      "time": "2026-08-06T10:00:00+09:00",
+      "ticker": "JP.9418",
+      "side": "SELL",
+      "qty": 9800.0,
+      "price": 1685.0
+    },
+    {
+      "time": "2026-08-06T09:59:58+09:00",
+      "ticker": "JP.6963",
+      "side": "SELL",
+      "qty": 3600.0,
+      "price": 4742.0
+    },
+    {
+      "time": "2026-08-06T09:59:37+09:00",
+      "ticker": "JP.9278",
+      "side": "SELL",
+      "qty": 6500.0,
+      "price": 2836.0
+    },
+    {
+      "time": "2026-08-06T09:33:59+09:00",
+      "ticker": "JP.4062",
+      "side": "SELL",
+      "qty": 700.0,
+      "price": 19230.0
+    },
+    {
+      "time": "2026-08-06T09:22:21+09:00",
+      "ticker": "JP.3923",
+      "side": "BUY",
+      "qty": 1000.0,
+      "price": 1033.0
+    }
+  ],
+  "notes": []
 }
