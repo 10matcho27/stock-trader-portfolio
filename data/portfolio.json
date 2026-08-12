@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-12T11:35:05.565258+09:00",
+  "generated_at": "2026-08-12T15:06:05.039601+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
@@ -11,11 +11,11 @@
     "initial_cash": 160000000.0,
     "cash": 14150789.96,
     "realized_pnl": 7880439.96,
-    "holding_value": 160000750.0,
-    "total_assets": 174151539.96,
-    "unrealized_pnl": 6271100.0,
-    "total_pnl": 14151539.96,
-    "total_return_pct": 8.84
+    "holding_value": 160328500.0,
+    "total_assets": 174479289.96,
+    "unrealized_pnl": 6598850.0,
+    "total_pnl": 14479289.96,
+    "total_return_pct": 9.05
   },
   "positions": [
     {
@@ -25,12 +25,12 @@
       "entered_at": "2026-07-02T12:40:53.622956+09:00",
       "entry_catalyst": "カカクコム、TOB価格引き上げの協議要請(共同通信)",
       "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": 5.78,
+      "unrealized_pct": 5.69,
       "qty": 4700.0,
       "avg_cost": 3514.0,
-      "last_price": 3717.0,
-      "market_value": 17469900.0,
-      "unrealized_pnl": 954100.0
+      "last_price": 3714.0,
+      "market_value": 17455800.0,
+      "unrealized_pnl": 940000.0
     },
     {
       "ticker": "JP.7751",
@@ -39,12 +39,12 @@
       "entered_at": "2026-07-28T09:26:38.642150+09:00",
       "entry_catalyst": "キヤノン、２６年１２月期業績予想を上方修正...",
       "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": 1.38,
+      "unrealized_pct": 1.11,
       "qty": 3700.0,
       "avg_cost": 4504.0,
-      "last_price": 4566.0,
-      "market_value": 16894200.0,
-      "unrealized_pnl": 229400.0
+      "last_price": 4554.0,
+      "market_value": 16849800.0,
+      "unrealized_pnl": 185000.0
     },
     {
       "ticker": "JP.7609",
@@ -53,12 +53,12 @@
       "entered_at": "2026-08-04T09:26:39.536938+09:00",
       "entry_catalyst": "ダイトロン、今期経常を20％上方修正・最高...",
       "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": 15.36,
+      "unrealized_pct": 16.65,
       "qty": 4300.0,
       "avg_cost": 3905.0,
-      "last_price": 4505.0,
-      "market_value": 19371500.0,
-      "unrealized_pnl": 2580000.0
+      "last_price": 4555.0,
+      "market_value": 19586500.0,
+      "unrealized_pnl": 2795000.0
     },
     {
       "ticker": "JP.6952",
@@ -67,12 +67,12 @@
       "entered_at": "2026-08-04T12:41:37.367342+09:00",
       "entry_catalyst": "好調「G-SHOCK」が市場を驚かせた カシオ株が22％急騰のストップ高で年初来高値",
       "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": 7.33,
+      "unrealized_pct": 7.51,
       "qty": 7700.0,
       "avg_cost": 2204.0,
-      "last_price": 2365.5,
-      "market_value": 18214350.0,
-      "unrealized_pnl": 1243550.0
+      "last_price": 2369.5,
+      "market_value": 18245150.0,
+      "unrealized_pnl": 1274350.0
     },
     {
       "ticker": "JP.7272",
@@ -81,12 +81,12 @@
       "entered_at": "2026-08-05T09:32:43.861146+09:00",
       "entry_catalyst": "【ヤマハ発動機（7272）】中間営業利益88.6%増で通期予想を上方修正、一方でOLV事業は構造改革に着手した決算の中身とは(LIMO) 2026年8月5日の東京株式市場は大幅続伸となりました。 前日の米国市場におけるハイテク株高を受け、市場全体に広がったリスクオンの流れを引き継ぐ展開となっています。国内ではアドバンテストや東京エレク",
       "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": 1.98,
+      "unrealized_pct": 2.19,
       "qty": 9200.0,
       "avg_cost": 1857.32,
-      "last_price": 1894.0,
-      "market_value": 17424800.0,
-      "unrealized_pnl": 337500.0
+      "last_price": 1898.0,
+      "market_value": 17461600.0,
+      "unrealized_pnl": 374300.0
     },
     {
       "ticker": "JP.3923",
@@ -95,12 +95,12 @@
       "entered_at": "2026-08-06T09:22:21.918890+09:00",
       "entry_catalyst": "ラクスル、MBO後初の戦略発表 経営支援に注力、経済圏拡大へ(日本ネット経済新聞) 印刷EC事業のラクスルは7月30日、今年5月のMBO後初の戦略発表会を行い、現業に加えて金融や営業を含むマーケティングの新たな展開を加速させ中小企業向け支援の拡大を軸に、経営全般の課題解決を主力とする",
       "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": 6.2,
+      "unrealized_pct": 5.66,
       "qty": 1000.0,
       "avg_cost": 1033.0,
-      "last_price": 1097.0,
-      "market_value": 1097000.0,
-      "unrealized_pnl": 64000.0
+      "last_price": 1091.5,
+      "market_value": 1091500.0,
+      "unrealized_pnl": 58500.0
     },
     {
       "ticker": "JP.1414",
@@ -109,12 +109,12 @@
       "entered_at": "2026-08-12T09:22:29.202466+09:00",
       "entry_catalyst": "ショーボンド (1414) 自己株式取得に係る事項の決定に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": -0.88,
+      "unrealized_pct": -0.81,
       "qty": 13200.0,
       "avg_cost": 1301.5,
-      "last_price": 1290.0,
-      "market_value": 17028000.0,
-      "unrealized_pnl": -151800.0
+      "last_price": 1291.0,
+      "market_value": 17041200.0,
+      "unrealized_pnl": -138600.0
     },
     {
       "ticker": "JP.8086",
@@ -123,12 +123,12 @@
       "entered_at": "2026-08-12T09:22:32.601944+09:00",
       "entry_catalyst": "ニプロ、4-6月期(1Q)経常は88％増益で着地",
       "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": 1.74,
+      "unrealized_pct": 2.09,
       "qty": 10900.0,
       "avg_cost": 1578.5,
-      "last_price": 1606.0,
-      "market_value": 17505400.0,
-      "unrealized_pnl": 299750.0
+      "last_price": 1611.5,
+      "market_value": 17565350.0,
+      "unrealized_pnl": 359700.0
     },
     {
       "ticker": "JP.3034",
@@ -137,12 +137,12 @@
       "entered_at": "2026-08-12T09:22:35.305579+09:00",
       "entry_catalyst": "クオールホールディングス---1Qは増収・...",
       "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": 1.8,
+      "unrealized_pct": 2.0,
       "qty": 7200.0,
       "avg_cost": 2395.0,
-      "last_price": 2438.0,
-      "market_value": 17553600.0,
-      "unrealized_pnl": 309600.0
+      "last_price": 2443.0,
+      "market_value": 17589600.0,
+      "unrealized_pnl": 345600.0
     },
     {
       "ticker": "JP.4919",
@@ -456,10 +456,10 @@
     },
     {
       "date": "2026-08-12",
-      "index": 105.5381,
-      "total_assets": 174221589.96,
+      "index": 105.7261,
+      "total_assets": 174531939.96,
       "realized_pnl": 7880439.96,
-      "unrealized_pnl": 6341150.0
+      "unrealized_pnl": 6651500.0
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -641,10 +641,10 @@
         },
         {
           "date": "2026-08-12",
-          "index": 100.1102
+          "index": 100.875
         }
       ],
-      "period_return_pct": 0.11,
+      "period_return_pct": 0.87,
       "filled_dates": []
     },
     {
@@ -824,7 +824,7 @@
         },
         {
           "date": "2026-08-12",
-          "index": 101.7052
+          "index": 101.7116
         }
       ],
       "period_return_pct": 1.71,
@@ -834,11 +834,11 @@
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 159.381,
+      "fx_rate_last": 159.391,
       "fx_rate_last_date": "2026-08-12"
     }
   ],
-  "invested_ratio_pct": 91.87,
+  "invested_ratio_pct": 91.89,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
