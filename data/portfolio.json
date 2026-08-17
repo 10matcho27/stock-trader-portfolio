@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-14T15:05:02.643453+09:00",
+  "generated_at": "2026-08-17T11:35:02.273562+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
   "valuation_available": true,
   "summary": {
     "currency": "JPY",
-    "position_count": 9,
+    "position_count": 10,
     "initial_cash": 160000000.0,
-    "cash": 36350989.96,
-    "realized_pnl": 10436789.96,
-    "holding_value": 141629900.0,
-    "total_assets": 177980889.96,
-    "unrealized_pnl": 7544100.0,
-    "total_pnl": 17980889.96,
-    "total_return_pct": 11.24
+    "cash": 1734389.96,
+    "realized_pnl": 10343289.96,
+    "holding_value": 175030750.0,
+    "total_assets": 176765139.96,
+    "unrealized_pnl": 6421850.0,
+    "total_pnl": 16765139.96,
+    "total_return_pct": 10.48
   },
   "positions": [
     {
@@ -25,12 +25,12 @@
       "entered_at": "2026-07-02T12:40:53.622956+09:00",
       "entry_catalyst": "カカクコム、TOB価格引き上げの協議要請(共同通信)",
       "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": 5.86,
+      "unrealized_pct": 5.75,
       "qty": 4700.0,
       "avg_cost": 3514.0,
-      "last_price": 3720.0,
-      "market_value": 17484000.0,
-      "unrealized_pnl": 968200.0
+      "last_price": 3716.0,
+      "market_value": 17465200.0,
+      "unrealized_pnl": 949400.0
     },
     {
       "ticker": "JP.7751",
@@ -39,12 +39,12 @@
       "entered_at": "2026-07-28T09:26:38.642150+09:00",
       "entry_catalyst": "キヤノン、２６年１２月期業績予想を上方修正...",
       "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": 3.44,
+      "unrealized_pct": 1.35,
       "qty": 3700.0,
       "avg_cost": 4504.0,
-      "last_price": 4659.0,
-      "market_value": 17238300.0,
-      "unrealized_pnl": 573500.0
+      "last_price": 4565.0,
+      "market_value": 16890500.0,
+      "unrealized_pnl": 225700.0
     },
     {
       "ticker": "JP.6952",
@@ -53,12 +53,12 @@
       "entered_at": "2026-08-04T12:41:37.367342+09:00",
       "entry_catalyst": "好調「G-SHOCK」が市場を驚かせた カシオ株が22％急騰のストップ高で年初来高値",
       "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": 11.93,
+      "unrealized_pct": 10.05,
       "qty": 7700.0,
       "avg_cost": 2204.0,
-      "last_price": 2467.0,
-      "market_value": 18995900.0,
-      "unrealized_pnl": 2025100.0
+      "last_price": 2425.5,
+      "market_value": 18676350.0,
+      "unrealized_pnl": 1705550.0
     },
     {
       "ticker": "JP.7272",
@@ -67,26 +67,12 @@
       "entered_at": "2026-08-05T09:32:43.861146+09:00",
       "entry_catalyst": "【ヤマハ発動機（7272）】中間営業利益88.6%増で通期予想を上方修正、一方でOLV事業は構造改革に着手した決算の中身とは(LIMO) 2026年8月5日の東京株式市場は大幅続伸となりました。 前日の米国市場におけるハイテク株高を受け、市場全体に広がったリスクオンの流れを引き継ぐ展開となっています。国内ではアドバンテストや東京エレク",
       "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": 4.91,
+      "unrealized_pct": 4.61,
       "qty": 9200.0,
       "avg_cost": 1857.32,
-      "last_price": 1948.5,
-      "market_value": 17926200.0,
-      "unrealized_pnl": 838900.0
-    },
-    {
-      "ticker": "JP.3923",
-      "company_name": "(株)ラクス",
-      "sector": "Technology",
-      "entered_at": "2026-08-06T09:22:21.918890+09:00",
-      "entry_catalyst": "ラクスル、MBO後初の戦略発表 経営支援に注力、経済圏拡大へ(日本ネット経済新聞) 印刷EC事業のラクスルは7月30日、今年5月のMBO後初の戦略発表会を行い、現業に加えて金融や営業を含むマーケティングの新たな展開を加速させ中小企業向け支援の拡大を軸に、経営全般の課題解決を主力とする",
-      "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": 13.65,
-      "qty": 1000.0,
-      "avg_cost": 1033.0,
-      "last_price": 1174.0,
-      "market_value": 1174000.0,
-      "unrealized_pnl": 141000.0
+      "last_price": 1943.0,
+      "market_value": 17875600.0,
+      "unrealized_pnl": 788300.0
     },
     {
       "ticker": "JP.3034",
@@ -95,12 +81,12 @@
       "entered_at": "2026-08-12T09:22:35.305579+09:00",
       "entry_catalyst": "クオールホールディングス---1Qは増収・...",
       "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": 10.23,
+      "unrealized_pct": 7.47,
       "qty": 7200.0,
       "avg_cost": 2395.0,
-      "last_price": 2640.0,
-      "market_value": 19008000.0,
-      "unrealized_pnl": 1764000.0
+      "last_price": 2574.0,
+      "market_value": 18532800.0,
+      "unrealized_pnl": 1288800.0
     },
     {
       "ticker": "JP.4919",
@@ -109,12 +95,12 @@
       "entered_at": "2026-08-12T09:26:20.228533+09:00",
       "entry_catalyst": "ミルボン、26年12月期業績予想を上方修正 海外事業が好調で米国45％増(WWDJAPAN.com) ミルボンは2026年12月期の通期業績予想を上方修正した。1〜6月期（第2四半期）の業績が計画を上回ったことを主要因とし、売上高は556億円（修正前548億円）、営業利益は65億5000万円（同63億",
       "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": 3.33,
+      "unrealized_pct": 0.79,
       "qty": 5400.0,
       "avg_cost": 3155.0,
-      "last_price": 3260.0,
-      "market_value": 17604000.0,
-      "unrealized_pnl": 567000.0
+      "last_price": 3180.0,
+      "market_value": 17172000.0,
+      "unrealized_pnl": 135000.0
     },
     {
       "ticker": "JP.5288",
@@ -123,12 +109,12 @@
       "entered_at": "2026-08-13T09:21:07.174842+09:00",
       "entry_catalyst": "アジアパイルＨＤ (5288) 2027年3月期　第1四半期決算短信〔日本基準〕（連結）",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 2.12,
+      "unrealized_pct": 4.18,
       "qty": 9300.0,
       "avg_cost": 1507.0,
-      "last_price": 1539.0,
-      "market_value": 14312700.0,
-      "unrealized_pnl": 297600.0
+      "last_price": 1570.0,
+      "market_value": 14601000.0,
+      "unrealized_pnl": 585900.0
     },
     {
       "ticker": "JP.4767",
@@ -137,12 +123,40 @@
       "entered_at": "2026-08-14T09:23:44.331866+09:00",
       "entry_catalyst": "株式会社ＭＩ２ が 株式会社テー・オー・ダブリュー（JP.4767）の大量保有報告を提出 保有割合 2.18%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": 2.11,
+      "unrealized_pct": 1.05,
       "qty": 46100.0,
       "avg_cost": 380.0,
-      "last_price": 388.0,
-      "market_value": 17886800.0,
-      "unrealized_pnl": 368800.0
+      "last_price": 384.0,
+      "market_value": 17702400.0,
+      "unrealized_pnl": 184400.0
+    },
+    {
+      "ticker": "JP.6176",
+      "company_name": "ブランジスタ",
+      "sector": "Communication Services",
+      "entered_at": "2026-08-17T09:17:22.132602+09:00",
+      "entry_catalyst": "2026年９月期 第３四半期決算短信〔日本基準〕（連結）",
+      "hold_rationale": "official filing: tdnet",
+      "unrealized_pct": 0.2,
+      "qty": 17800.0,
+      "avg_cost": 1000.0,
+      "last_price": 1002.0,
+      "market_value": 17835600.0,
+      "unrealized_pnl": 35600.0
+    },
+    {
+      "ticker": "JP.3660",
+      "company_name": "アイスタイル",
+      "sector": "Consumer Cyclical",
+      "entered_at": "2026-08-17T09:27:55.972115+09:00",
+      "entry_catalyst": "「アットコスメ」のアイアスタイルの株価が一時18％高と急騰 28億円の自社株買い、来期配当は2倍に 「アットコスメ（@cosme）」を展開するアイスタイルの株価が8月14日、急騰している。株価は一時、前日比18％高まで上昇。13日に発表した2026年6月期の通期連結決算で大幅な増収増益を達成したことに加え、自己株式の取得や増配を発表したことが買い材料となっている。 アイスタイルの2026年6月期の売上高は818億7[&#8230;]",
+      "hold_rationale": "fundamental catalyst: earnings",
+      "unrealized_pct": 2.95,
+      "qty": 32700.0,
+      "avg_cost": 543.0,
+      "last_price": 559.0,
+      "market_value": 18279300.0,
+      "unrealized_pnl": 523200.0
     }
   ],
   "equity_curve": [
@@ -460,6 +474,13 @@
       "total_assets": 178000089.96,
       "realized_pnl": 10436789.96,
       "unrealized_pnl": 7563300.0
+    },
+    {
+      "date": "2026-08-17",
+      "index": 107.2742,
+      "total_assets": 177087489.96,
+      "realized_pnl": 10343289.96,
+      "unrealized_pnl": 6744200.0
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -649,10 +670,14 @@
         },
         {
           "date": "2026-08-14",
-          "index": 102.6857
+          "index": 102.6585
+        },
+        {
+          "date": "2026-08-17",
+          "index": 102.6496
         }
       ],
-      "period_return_pct": 2.69,
+      "period_return_pct": 2.65,
       "filled_dates": []
     },
     {
@@ -840,21 +865,25 @@
         },
         {
           "date": "2026-08-14",
-          "index": 102.5235
+          "index": 102.4917
+        },
+        {
+          "date": "2026-08-17",
+          "index": 102.4917
         }
       ],
-      "period_return_pct": 2.52,
+      "period_return_pct": 2.49,
       "filled_dates": [
         "2026-07-03",
-        "2026-08-14"
+        "2026-08-17"
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 159.205,
+      "fx_rate_last": 159.426,
       "fx_rate_last_date": "2026-08-14"
     }
   ],
-  "invested_ratio_pct": 79.58,
+  "invested_ratio_pct": 99.02,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
@@ -863,6 +892,41 @@
     "range": "all"
   },
   "recent_trades": [
+    {
+      "time": "2026-08-17T10:52:58+09:00",
+      "ticker": "JP.4052",
+      "side": "SELL",
+      "qty": 3000.0,
+      "price": 562.0
+    },
+    {
+      "time": "2026-08-17T09:27:59+09:00",
+      "ticker": "JP.4052",
+      "side": "BUY",
+      "qty": 3000.0,
+      "price": 611.0
+    },
+    {
+      "time": "2026-08-17T09:27:55+09:00",
+      "ticker": "JP.3660",
+      "side": "BUY",
+      "qty": 32700.0,
+      "price": 543.0
+    },
+    {
+      "time": "2026-08-17T09:27:17+09:00",
+      "ticker": "JP.3923",
+      "side": "SELL",
+      "qty": 1000.0,
+      "price": 1086.5
+    },
+    {
+      "time": "2026-08-17T09:17:22+09:00",
+      "ticker": "JP.6176",
+      "side": "BUY",
+      "qty": 17800.0,
+      "price": 1000.0
+    },
     {
       "time": "2026-08-14T12:48:38+09:00",
       "ticker": "JP.141A",
@@ -897,41 +961,6 @@
       "side": "SELL",
       "qty": 6000.0,
       "price": 2923.0
-    },
-    {
-      "time": "2026-08-14T09:22:36+09:00",
-      "ticker": "JP.3252",
-      "side": "BUY",
-      "qty": 6000.0,
-      "price": 2923.0
-    },
-    {
-      "time": "2026-08-13T13:16:07+09:00",
-      "ticker": "JP.7609",
-      "side": "SELL",
-      "qty": 4300.0,
-      "price": 4585.0
-    },
-    {
-      "time": "2026-08-13T09:40:28+09:00",
-      "ticker": "JP.1414",
-      "side": "SELL",
-      "qty": 13200.0,
-      "price": 1281.0
-    },
-    {
-      "time": "2026-08-13T09:21:07+09:00",
-      "ticker": "JP.5288",
-      "side": "BUY",
-      "qty": 9300.0,
-      "price": 1507.0
-    },
-    {
-      "time": "2026-08-12T09:26:20+09:00",
-      "ticker": "JP.4919",
-      "side": "BUY",
-      "qty": 5400.0,
-      "price": 3155.0
     }
   ],
   "notes": []
