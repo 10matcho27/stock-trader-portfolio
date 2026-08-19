@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-19T11:35:01.828941+09:00",
+  "generated_at": "2026-08-19T15:35:02.213275+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
@@ -11,11 +11,11 @@
     "initial_cash": 160000000.0,
     "cash": 63579339.96,
     "realized_pnl": 13725639.96,
-    "holding_value": 110071500.0,
-    "total_assets": 173650839.96,
-    "unrealized_pnl": -74800.0,
-    "total_pnl": 13650839.96,
-    "total_return_pct": 8.53
+    "holding_value": 110053800.0,
+    "total_assets": 173633139.96,
+    "unrealized_pnl": -92500.0,
+    "total_pnl": 13633139.96,
+    "total_return_pct": 8.52
   },
   "positions": [
     {
@@ -25,12 +25,12 @@
       "entered_at": "2026-07-28T09:26:38.642150+09:00",
       "entry_catalyst": "キヤノン、２６年１２月期業績予想を上方修正...",
       "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": -0.93,
+      "unrealized_pct": -0.64,
       "qty": 3700.0,
       "avg_cost": 4504.0,
-      "last_price": 4462.0,
-      "market_value": 16509400.0,
-      "unrealized_pnl": -155400.0
+      "last_price": 4475.0,
+      "market_value": 16557500.0,
+      "unrealized_pnl": -107300.0
     },
     {
       "ticker": "JP.7272",
@@ -39,12 +39,12 @@
       "entered_at": "2026-08-05T09:32:43.861146+09:00",
       "entry_catalyst": "【ヤマハ発動機（7272）】中間営業利益88.6%増で通期予想を上方修正、一方でOLV事業は構造改革に着手した決算の中身とは(LIMO) 2026年8月5日の東京株式市場は大幅続伸となりました。 前日の米国市場におけるハイテク株高を受け、市場全体に広がったリスクオンの流れを引き継ぐ展開となっています。国内ではアドバンテストや東京エレク",
       "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": 1.36,
+      "unrealized_pct": 0.55,
       "qty": 9200.0,
       "avg_cost": 1857.32,
-      "last_price": 1882.5,
-      "market_value": 17319000.0,
-      "unrealized_pnl": 231700.0
+      "last_price": 1867.5,
+      "market_value": 17181000.0,
+      "unrealized_pnl": 93700.0
     },
     {
       "ticker": "JP.4919",
@@ -53,12 +53,12 @@
       "entered_at": "2026-08-12T09:26:20.228533+09:00",
       "entry_catalyst": "ミルボン、26年12月期業績予想を上方修正 海外事業が好調で米国45％増(WWDJAPAN.com) ミルボンは2026年12月期の通期業績予想を上方修正した。1〜6月期（第2四半期）の業績が計画を上回ったことを主要因とし、売上高は556億円（修正前548億円）、営業利益は65億5000万円（同63億",
       "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": 0.48,
+      "unrealized_pct": 0.63,
       "qty": 5400.0,
       "avg_cost": 3155.0,
-      "last_price": 3170.0,
-      "market_value": 17118000.0,
-      "unrealized_pnl": 81000.0
+      "last_price": 3175.0,
+      "market_value": 17145000.0,
+      "unrealized_pnl": 108000.0
     },
     {
       "ticker": "JP.4767",
@@ -67,12 +67,12 @@
       "entered_at": "2026-08-14T09:23:44.331866+09:00",
       "entry_catalyst": "株式会社ＭＩ２ が 株式会社テー・オー・ダブリュー（JP.4767）の大量保有報告を提出 保有割合 2.18%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": 0.0,
+      "unrealized_pct": 0.26,
       "qty": 46100.0,
       "avg_cost": 380.0,
-      "last_price": 380.0,
-      "market_value": 17518000.0,
-      "unrealized_pnl": 0.0
+      "last_price": 381.0,
+      "market_value": 17564100.0,
+      "unrealized_pnl": 46100.0
     },
     {
       "ticker": "JP.6176",
@@ -81,12 +81,12 @@
       "entered_at": "2026-08-17T09:17:22.132602+09:00",
       "entry_catalyst": "2026年９月期 第３四半期決算短信〔日本基準〕（連結）",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": -2.8,
+      "unrealized_pct": -3.0,
       "qty": 17800.0,
       "avg_cost": 1000.0,
-      "last_price": 972.0,
-      "market_value": 17301600.0,
-      "unrealized_pnl": -498400.0
+      "last_price": 970.0,
+      "market_value": 17266000.0,
+      "unrealized_pnl": -534000.0
     },
     {
       "ticker": "JP.8789",
@@ -95,12 +95,12 @@
       "entered_at": "2026-08-18T09:23:06.622425+09:00",
       "entry_catalyst": "フィンテック グローバル、3Qは増収増益 ...",
       "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": 2.48,
+      "unrealized_pct": 3.11,
       "qty": 42200.0,
       "avg_cost": 161.0,
-      "last_price": 165.0,
-      "market_value": 6963000.0,
-      "unrealized_pnl": 168800.0
+      "last_price": 166.0,
+      "market_value": 7005200.0,
+      "unrealized_pnl": 211000.0
     },
     {
       "ticker": "JP.9104",
@@ -109,12 +109,12 @@
       "entered_at": "2026-08-19T09:22:24.982938+09:00",
       "entry_catalyst": "商船三井など海運株の出直り鮮明、北欧大手の好決算を起点に資金シ...",
       "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": 0.57,
+      "unrealized_pct": 0.52,
       "qty": 2500.0,
       "avg_cost": 6898.0,
-      "last_price": 6937.0,
-      "market_value": 17342500.0,
-      "unrealized_pnl": 97500.0
+      "last_price": 6934.0,
+      "market_value": 17335000.0,
+      "unrealized_pnl": 90000.0
     }
   ],
   "equity_curve": [
@@ -449,10 +449,10 @@
     },
     {
       "date": "2026-08-19",
-      "index": 105.1643,
-      "total_assets": 173604539.96,
+      "index": 105.0148,
+      "total_assets": 173357739.96,
       "realized_pnl": 13725639.96,
-      "unrealized_pnl": -121100.0
+      "unrealized_pnl": -367900.0
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -654,10 +654,10 @@
         },
         {
           "date": "2026-08-19",
-          "index": 97.9785
+          "index": 97.7295
         }
       ],
-      "period_return_pct": -2.02,
+      "period_return_pct": -2.27,
       "filled_dates": []
     },
     {
@@ -857,21 +857,21 @@
         },
         {
           "date": "2026-08-19",
-          "index": 101.2346
+          "index": 101.0783
         }
       ],
-      "period_return_pct": 1.23,
+      "period_return_pct": 1.08,
       "filled_dates": [
         "2026-07-03",
         "2026-08-19"
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 159.395,
+      "fx_rate_last": 159.149,
       "fx_rate_last_date": "2026-08-19"
     }
   ],
-  "invested_ratio_pct": 63.39,
+  "invested_ratio_pct": 63.38,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
