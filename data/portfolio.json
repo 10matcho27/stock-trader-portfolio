@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-20T11:35:02.333795+09:00",
+  "generated_at": "2026-08-20T15:35:02.377525+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
   "valuation_available": true,
   "summary": {
     "currency": "JPY",
-    "position_count": 9,
+    "position_count": 6,
     "initial_cash": 160000000.0,
-    "cash": 24844739.96,
-    "realized_pnl": 13699839.96,
-    "holding_value": 150544000.0,
-    "total_assets": 175388739.96,
-    "unrealized_pnl": 1688900.0,
-    "total_pnl": 15388739.96,
-    "total_return_pct": 9.62
+    "cash": 76553439.96,
+    "realized_pnl": 13734539.96,
+    "holding_value": 98825500.0,
+    "total_assets": 175378939.96,
+    "unrealized_pnl": 1644400.0,
+    "total_pnl": 15378939.96,
+    "total_return_pct": 9.61
   },
   "positions": [
     {
@@ -25,12 +25,12 @@
       "entered_at": "2026-07-28T09:26:38.642150+09:00",
       "entry_catalyst": "キヤノン、２６年１２月期業績予想を上方修正...",
       "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": 0.56,
+      "unrealized_pct": 0.31,
       "qty": 3700.0,
       "avg_cost": 4504.0,
-      "last_price": 4529.0,
-      "market_value": 16757300.0,
-      "unrealized_pnl": 92500.0
+      "last_price": 4518.0,
+      "market_value": 16716600.0,
+      "unrealized_pnl": 51800.0
     },
     {
       "ticker": "JP.7272",
@@ -39,26 +39,12 @@
       "entered_at": "2026-08-05T09:32:43.861146+09:00",
       "entry_catalyst": "【ヤマハ発動機（7272）】中間営業利益88.6%増で通期予想を上方修正、一方でOLV事業は構造改革に着手した決算の中身とは(LIMO) 2026年8月5日の東京株式市場は大幅続伸となりました。 前日の米国市場におけるハイテク株高を受け、市場全体に広がったリスクオンの流れを引き継ぐ展開となっています。国内ではアドバンテストや東京エレク",
       "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": 5.26,
+      "unrealized_pct": 3.94,
       "qty": 9200.0,
       "avg_cost": 1857.32,
-      "last_price": 1955.0,
-      "market_value": 17986000.0,
-      "unrealized_pnl": 898700.0
-    },
-    {
-      "ticker": "JP.4919",
-      "company_name": "ミルボン",
-      "sector": "Consumer Defensive",
-      "entered_at": "2026-08-12T09:26:20.228533+09:00",
-      "entry_catalyst": "ミルボン、26年12月期業績予想を上方修正 海外事業が好調で米国45％増(WWDJAPAN.com) ミルボンは2026年12月期の通期業績予想を上方修正した。1〜6月期（第2四半期）の業績が計画を上回ったことを主要因とし、売上高は556億円（修正前548億円）、営業利益は65億5000万円（同63億",
-      "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": 2.85,
-      "qty": 5400.0,
-      "avg_cost": 3155.0,
-      "last_price": 3245.0,
-      "market_value": 17523000.0,
-      "unrealized_pnl": 486000.0
+      "last_price": 1930.5,
+      "market_value": 17760600.0,
+      "unrealized_pnl": 673300.0
     },
     {
       "ticker": "JP.4767",
@@ -67,12 +53,12 @@
       "entered_at": "2026-08-14T09:23:44.331866+09:00",
       "entry_catalyst": "株式会社ＭＩ２ が 株式会社テー・オー・ダブリュー（JP.4767）の大量保有報告を提出 保有割合 2.18%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": 0.26,
+      "unrealized_pct": 1.58,
       "qty": 46100.0,
       "avg_cost": 380.0,
-      "last_price": 381.0,
-      "market_value": 17564100.0,
-      "unrealized_pnl": 46100.0
+      "last_price": 386.0,
+      "market_value": 17794600.0,
+      "unrealized_pnl": 276600.0
     },
     {
       "ticker": "JP.9104",
@@ -81,12 +67,12 @@
       "entered_at": "2026-08-19T09:22:24.982938+09:00",
       "entry_catalyst": "商船三井など海運株の出直り鮮明、北欧大手の好決算を起点に資金シ...",
       "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": 0.52,
+      "unrealized_pct": 0.59,
       "qty": 2500.0,
       "avg_cost": 6898.0,
-      "last_price": 6934.0,
-      "market_value": 17335000.0,
-      "unrealized_pnl": 90000.0
+      "last_price": 6939.0,
+      "market_value": 17347500.0,
+      "unrealized_pnl": 102500.0
     },
     {
       "ticker": "JP.3076",
@@ -95,40 +81,12 @@
       "entered_at": "2026-08-20T09:21:21.218128+09:00",
       "entry_catalyst": "あいＨＤ (3076) 2026年6月期　決算短信〔日本基準〕（連結）",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 0.35,
+      "unrealized_pct": 2.84,
       "qty": 6200.0,
       "avg_cost": 2821.0,
-      "last_price": 2831.0,
-      "market_value": 17552200.0,
-      "unrealized_pnl": 62000.0
-    },
-    {
-      "ticker": "JP.7762",
-      "company_name": "シチズン時計",
-      "sector": "Consumer Cyclical",
-      "entered_at": "2026-08-20T09:22:31.177091+09:00",
-      "entry_catalyst": "シチズン時計、1Qは前年比増収増益を達成 ...",
-      "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": 0.0,
-      "qty": 6700.0,
-      "avg_cost": 2582.0,
-      "last_price": 2582.0,
-      "market_value": 17299400.0,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "ticker": "JP.4385",
-      "company_name": "メルカリ",
-      "sector": "Consumer Cyclical",
-      "entered_at": "2026-08-20T09:22:32.505328+09:00",
-      "entry_catalyst": "メルカリUS事業「撤退も選択肢」からの復活劇。山田CEOに聞く「勝ち続ける」ための経営哲学(BUSINESS INSIDER JAPAN) 「コアな体験に集中することを日本でもUSでもやってきた。その成果が想定より早く出てきた」 2026年6月期（2025年7月〜2026年6月）で過去最高益の決算を公表したメルカリ。売上高が2292億9",
-      "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": 0.0,
-      "qty": 3600.0,
-      "avg_cost": 4816.0,
-      "last_price": 4816.0,
-      "market_value": 17337600.0,
-      "unrealized_pnl": 0.0
+      "last_price": 2901.0,
+      "market_value": 17986200.0,
+      "unrealized_pnl": 496000.0
     },
     {
       "ticker": "JP.3197",
@@ -137,12 +95,12 @@
       "entered_at": "2026-08-20T09:22:33.612016+09:00",
       "entry_catalyst": "すかいらーくホールディングス、2026年12月期上期は営業利益+21%で通期予想を上方修正(LIMO) 外食チェーンと聞けば、薄利多売で原材料高の直撃を受ける業態、という見方が先に立つ。実際、食材の値上がりは数字にきちんと出ている。それでもすかいらーくホールディングス <3197> の利益率は、この5期",
       "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": 0.12,
+      "unrealized_pct": 0.4,
       "qty": 3400.0,
       "avg_cost": 3287.0,
-      "last_price": 3291.0,
-      "market_value": 11189400.0,
-      "unrealized_pnl": 13600.0
+      "last_price": 3300.0,
+      "market_value": 11220000.0,
+      "unrealized_pnl": 44200.0
     }
   ],
   "equity_curve": [
@@ -484,10 +442,10 @@
     },
     {
       "date": "2026-08-20",
-      "index": 106.5136,
-      "total_assets": 175831839.96,
-      "realized_pnl": 13699839.96,
-      "unrealized_pnl": 2132000.0
+      "index": 106.2312,
+      "total_assets": 175365739.96,
+      "realized_pnl": 13734539.96,
+      "unrealized_pnl": 1631200.0
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -693,10 +651,10 @@
         },
         {
           "date": "2026-08-20",
-          "index": 98.5941
+          "index": 98.878
         }
       ],
-      "period_return_pct": -1.41,
+      "period_return_pct": -1.12,
       "filled_dates": []
     },
     {
@@ -900,21 +858,21 @@
         },
         {
           "date": "2026-08-20",
-          "index": 100.8288
+          "index": 100.8899
         }
       ],
-      "period_return_pct": 0.83,
+      "period_return_pct": 0.89,
       "filled_dates": [
         "2026-07-03",
         "2026-08-20"
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 158.422,
+      "fx_rate_last": 158.518,
       "fx_rate_last_date": "2026-08-20"
     }
   ],
-  "invested_ratio_pct": 85.83,
+  "invested_ratio_pct": 56.35,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
@@ -923,6 +881,27 @@
     "range": "all"
   },
   "recent_trades": [
+    {
+      "time": "2026-08-20T14:30:59+09:00",
+      "ticker": "JP.7762",
+      "side": "SELL",
+      "qty": 6700.0,
+      "price": 2545.0
+    },
+    {
+      "time": "2026-08-20T13:12:22+09:00",
+      "ticker": "JP.4919",
+      "side": "SELL",
+      "qty": 5400.0,
+      "price": 3220.0
+    },
+    {
+      "time": "2026-08-20T12:46:09+09:00",
+      "ticker": "JP.4385",
+      "side": "SELL",
+      "qty": 3600.0,
+      "price": 4797.0
+    },
     {
       "time": "2026-08-20T10:26:28+09:00",
       "ticker": "JP.6176",
@@ -971,27 +950,6 @@
       "side": "BUY",
       "qty": 6200.0,
       "price": 2821.0
-    },
-    {
-      "time": "2026-08-19T10:15:42+09:00",
-      "ticker": "JP.325A",
-      "side": "SELL",
-      "qty": 10000.0,
-      "price": 1726.0
-    },
-    {
-      "time": "2026-08-19T09:50:34+09:00",
-      "ticker": "JP.3659",
-      "side": "SELL",
-      "qty": 5700.0,
-      "price": 2985.0
-    },
-    {
-      "time": "2026-08-19T09:27:32+09:00",
-      "ticker": "JP.3660",
-      "side": "SELL",
-      "qty": 32700.0,
-      "price": 521.0
     }
   ],
   "notes": []
