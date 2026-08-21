@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-20T15:35:02.377525+09:00",
+  "generated_at": "2026-08-21T11:35:02.658158+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
   "valuation_available": true,
   "summary": {
     "currency": "JPY",
-    "position_count": 6,
+    "position_count": 8,
     "initial_cash": 160000000.0,
-    "cash": 76553439.96,
-    "realized_pnl": 13734539.96,
-    "holding_value": 98825500.0,
-    "total_assets": 175378939.96,
-    "unrealized_pnl": 1644400.0,
-    "total_pnl": 15378939.96,
-    "total_return_pct": 9.61
+    "cash": 42749839.96,
+    "realized_pnl": 14472139.96,
+    "holding_value": 134255600.0,
+    "total_assets": 177005439.96,
+    "unrealized_pnl": 2533300.0,
+    "total_pnl": 17005439.96,
+    "total_return_pct": 10.63
   },
   "positions": [
     {
@@ -25,12 +25,12 @@
       "entered_at": "2026-07-28T09:26:38.642150+09:00",
       "entry_catalyst": "キヤノン、２６年１２月期業績予想を上方修正...",
       "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": 0.31,
+      "unrealized_pct": 1.47,
       "qty": 3700.0,
       "avg_cost": 4504.0,
-      "last_price": 4518.0,
-      "market_value": 16716600.0,
-      "unrealized_pnl": 51800.0
+      "last_price": 4570.0,
+      "market_value": 16909000.0,
+      "unrealized_pnl": 244200.0
     },
     {
       "ticker": "JP.7272",
@@ -39,26 +39,12 @@
       "entered_at": "2026-08-05T09:32:43.861146+09:00",
       "entry_catalyst": "【ヤマハ発動機（7272）】中間営業利益88.6%増で通期予想を上方修正、一方でOLV事業は構造改革に着手した決算の中身とは(LIMO) 2026年8月5日の東京株式市場は大幅続伸となりました。 前日の米国市場におけるハイテク株高を受け、市場全体に広がったリスクオンの流れを引き継ぐ展開となっています。国内ではアドバンテストや東京エレク",
       "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": 3.94,
+      "unrealized_pct": 4.69,
       "qty": 9200.0,
       "avg_cost": 1857.32,
-      "last_price": 1930.5,
-      "market_value": 17760600.0,
-      "unrealized_pnl": 673300.0
-    },
-    {
-      "ticker": "JP.4767",
-      "company_name": "テー・オー・ダブリュー",
-      "sector": "Communication Services",
-      "entered_at": "2026-08-14T09:23:44.331866+09:00",
-      "entry_catalyst": "株式会社ＭＩ２ が 株式会社テー・オー・ダブリュー（JP.4767）の大量保有報告を提出 保有割合 2.18%",
-      "hold_rationale": "official filing: edinet",
-      "unrealized_pct": 1.58,
-      "qty": 46100.0,
-      "avg_cost": 380.0,
-      "last_price": 386.0,
-      "market_value": 17794600.0,
-      "unrealized_pnl": 276600.0
+      "last_price": 1944.5,
+      "market_value": 17889400.0,
+      "unrealized_pnl": 802100.0
     },
     {
       "ticker": "JP.9104",
@@ -67,12 +53,12 @@
       "entered_at": "2026-08-19T09:22:24.982938+09:00",
       "entry_catalyst": "商船三井など海運株の出直り鮮明、北欧大手の好決算を起点に資金シ...",
       "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": 0.59,
+      "unrealized_pct": 3.42,
       "qty": 2500.0,
       "avg_cost": 6898.0,
-      "last_price": 6939.0,
-      "market_value": 17347500.0,
-      "unrealized_pnl": 102500.0
+      "last_price": 7134.0,
+      "market_value": 17835000.0,
+      "unrealized_pnl": 590000.0
     },
     {
       "ticker": "JP.3076",
@@ -81,12 +67,12 @@
       "entered_at": "2026-08-20T09:21:21.218128+09:00",
       "entry_catalyst": "あいＨＤ (3076) 2026年6月期　決算短信〔日本基準〕（連結）",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 2.84,
+      "unrealized_pct": 3.05,
       "qty": 6200.0,
       "avg_cost": 2821.0,
-      "last_price": 2901.0,
-      "market_value": 17986200.0,
-      "unrealized_pnl": 496000.0
+      "last_price": 2907.0,
+      "market_value": 18023400.0,
+      "unrealized_pnl": 533200.0
     },
     {
       "ticker": "JP.3197",
@@ -95,12 +81,54 @@
       "entered_at": "2026-08-20T09:22:33.612016+09:00",
       "entry_catalyst": "すかいらーくホールディングス、2026年12月期上期は営業利益+21%で通期予想を上方修正(LIMO) 外食チェーンと聞けば、薄利多売で原材料高の直撃を受ける業態、という見方が先に立つ。実際、食材の値上がりは数字にきちんと出ている。それでもすかいらーくホールディングス <3197> の利益率は、この5期",
       "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": 0.4,
+      "unrealized_pct": 1.64,
       "qty": 3400.0,
       "avg_cost": 3287.0,
-      "last_price": 3300.0,
-      "market_value": 11220000.0,
-      "unrealized_pnl": 44200.0
+      "last_price": 3341.0,
+      "market_value": 11359400.0,
+      "unrealized_pnl": 183600.0
+    },
+    {
+      "ticker": "JP.3993",
+      "company_name": "PKSHA Technology",
+      "sector": "Technology",
+      "entered_at": "2026-08-21T09:21:27.472786+09:00",
+      "entry_catalyst": "PKSHA Technologyが大幅高、2026年9月期3Q累計は売上収益+84%(LIMO) AI関連銘柄と聞いて最初に思い浮かぶのは、勢いのある増収率ではないだろうか。ただ、売上が伸びることと、株主の手元に残る利益が伸びることは、必ずしも同じ話ではない。PKSHA Technology <3",
+      "hold_rationale": "fundamental catalyst: earnings",
+      "unrealized_pct": 0.61,
+      "qty": 5300.0,
+      "avg_cost": 3265.0,
+      "last_price": 3285.0,
+      "market_value": 17410500.0,
+      "unrealized_pnl": 106000.0
+    },
+    {
+      "ticker": "JP.8001",
+      "company_name": "伊藤忠商事",
+      "sector": "Industrials",
+      "entered_at": "2026-08-21T09:22:30.878784+09:00",
+      "entry_catalyst": "データセンター参入報道で上昇の伊藤忠商事（8001）──1Q営業益20％増と「損保4社向けTOB」の中身を振り返る(LIMO) 伊藤忠商事 <8001> の株価は2026年8月20日の東証終値で、前日比+27円（+1.37％）の2,004円となりました。 同社の株価は13日の終値2,078円から19日の終値1,977円まで4",
+      "hold_rationale": "fundamental catalyst: mna",
+      "unrealized_pct": 0.39,
+      "qty": 8500.0,
+      "avg_cost": 2053.0,
+      "last_price": 2061.0,
+      "market_value": 17518500.0,
+      "unrealized_pnl": 68000.0
+    },
+    {
+      "ticker": "JP.6503",
+      "company_name": "三菱電機",
+      "sector": "Industrials",
+      "entered_at": "2026-08-21T09:22:32.157358+09:00",
+      "entry_catalyst": "三菱電機、過去最大2200億円で米エネルギー管理会社を買収",
+      "hold_rationale": "fundamental catalyst: mna",
+      "unrealized_pct": 0.04,
+      "qty": 3100.0,
+      "avg_cost": 5582.0,
+      "last_price": 5584.0,
+      "market_value": 17310400.0,
+      "unrealized_pnl": 6200.0
     }
   ],
   "equity_curve": [
@@ -446,6 +474,13 @@
       "total_assets": 175365739.96,
       "realized_pnl": 13734539.96,
       "unrealized_pnl": 1631200.0
+    },
+    {
+      "date": "2026-08-21",
+      "index": 107.4695,
+      "total_assets": 177409839.96,
+      "realized_pnl": 14472139.96,
+      "unrealized_pnl": 2937700.0
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -651,10 +686,14 @@
         },
         {
           "date": "2026-08-20",
-          "index": 98.878
+          "index": 98.928
+        },
+        {
+          "date": "2026-08-21",
+          "index": 98.4851
         }
       ],
-      "period_return_pct": -1.12,
+      "period_return_pct": -1.51,
       "filled_dates": []
     },
     {
@@ -858,21 +897,25 @@
         },
         {
           "date": "2026-08-20",
-          "index": 100.8899
+          "index": 99.8626
+        },
+        {
+          "date": "2026-08-21",
+          "index": 100.286
         }
       ],
-      "period_return_pct": 0.89,
+      "period_return_pct": 0.29,
       "filled_dates": [
         "2026-07-03",
-        "2026-08-20"
+        "2026-08-21"
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 158.518,
-      "fx_rate_last_date": "2026-08-20"
+      "fx_rate_last": 158.947,
+      "fx_rate_last_date": "2026-08-21"
     }
   ],
-  "invested_ratio_pct": 56.35,
+  "invested_ratio_pct": 75.85,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
@@ -881,6 +924,55 @@
     "range": "all"
   },
   "recent_trades": [
+    {
+      "time": "2026-08-21T09:30:27+09:00",
+      "ticker": "JP.4767",
+      "side": "SELL",
+      "qty": 30800.0,
+      "price": 396.0
+    },
+    {
+      "time": "2026-08-21T09:29:17+09:00",
+      "ticker": "JP.4767",
+      "side": "SELL",
+      "qty": 15300.0,
+      "price": 396.0
+    },
+    {
+      "time": "2026-08-21T09:22:32+09:00",
+      "ticker": "JP.6503",
+      "side": "BUY",
+      "qty": 3100.0,
+      "price": 5582.0
+    },
+    {
+      "time": "2026-08-21T09:22:30+09:00",
+      "ticker": "JP.8001",
+      "side": "BUY",
+      "qty": 8500.0,
+      "price": 2053.0
+    },
+    {
+      "time": "2026-08-21T09:21:51+09:00",
+      "ticker": "JP.277A",
+      "side": "SELL",
+      "qty": 9500.0,
+      "price": 1838.0
+    },
+    {
+      "time": "2026-08-21T09:21:27+09:00",
+      "ticker": "JP.3993",
+      "side": "BUY",
+      "qty": 5300.0,
+      "price": 3265.0
+    },
+    {
+      "time": "2026-08-21T09:21:26+09:00",
+      "ticker": "JP.277A",
+      "side": "BUY",
+      "qty": 9500.0,
+      "price": 1838.0
+    },
     {
       "time": "2026-08-20T14:30:59+09:00",
       "ticker": "JP.7762",
@@ -901,55 +993,6 @@
       "side": "SELL",
       "qty": 3600.0,
       "price": 4797.0
-    },
-    {
-      "time": "2026-08-20T10:26:28+09:00",
-      "ticker": "JP.6176",
-      "side": "SELL",
-      "qty": 17800.0,
-      "price": 978.0
-    },
-    {
-      "time": "2026-08-20T09:25:42+09:00",
-      "ticker": "JP.8789",
-      "side": "SELL",
-      "qty": 28200.0,
-      "price": 170.0
-    },
-    {
-      "time": "2026-08-20T09:24:35+09:00",
-      "ticker": "JP.8789",
-      "side": "SELL",
-      "qty": 14000.0,
-      "price": 169.0
-    },
-    {
-      "time": "2026-08-20T09:22:33+09:00",
-      "ticker": "JP.3197",
-      "side": "BUY",
-      "qty": 3400.0,
-      "price": 3287.0
-    },
-    {
-      "time": "2026-08-20T09:22:32+09:00",
-      "ticker": "JP.4385",
-      "side": "BUY",
-      "qty": 3600.0,
-      "price": 4816.0
-    },
-    {
-      "time": "2026-08-20T09:22:31+09:00",
-      "ticker": "JP.7762",
-      "side": "BUY",
-      "qty": 6700.0,
-      "price": 2582.0
-    },
-    {
-      "time": "2026-08-20T09:21:21+09:00",
-      "ticker": "JP.3076",
-      "side": "BUY",
-      "qty": 6200.0,
-      "price": 2821.0
     }
   ],
   "notes": []
