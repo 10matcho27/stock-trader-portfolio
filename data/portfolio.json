@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-24T11:35:02.749052+09:00",
+  "generated_at": "2026-08-24T15:35:05.061681+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
   "valuation_available": true,
   "summary": {
     "currency": "JPY",
-    "position_count": 8,
+    "position_count": 6,
     "initial_cash": 160000000.0,
-    "cash": 42882790.92,
-    "realized_pnl": 15661339.96,
-    "holding_value": 135470060.35,
-    "total_assets": 178352851.28,
-    "unrealized_pnl": 2691511.32,
-    "total_pnl": 18352851.28,
-    "total_return_pct": 11.47
+    "cash": 78969190.59,
+    "realized_pnl": 16884220.29,
+    "holding_value": 99673579.69,
+    "total_assets": 178642770.29,
+    "unrealized_pnl": 1758550.0,
+    "total_pnl": 18642770.29,
+    "total_return_pct": 11.65
   },
   "positions": [
     {
@@ -25,26 +25,12 @@
       "entered_at": "2026-07-28T09:26:38.642150+09:00",
       "entry_catalyst": "キヤノン、２６年１２月期業績予想を上方修正...",
       "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": 2.04,
+      "unrealized_pct": 2.53,
       "qty": 3700.0,
       "avg_cost": 4504.0,
-      "last_price": 4596.0,
-      "market_value": 17005200.0,
-      "unrealized_pnl": 340400.0
-    },
-    {
-      "ticker": "JP.7272",
-      "company_name": "ヤマハ発動機",
-      "sector": "Consumer Cyclical",
-      "entered_at": "2026-08-05T09:32:43.861146+09:00",
-      "entry_catalyst": "【ヤマハ発動機（7272）】中間営業利益88.6%増で通期予想を上方修正、一方でOLV事業は構造改革に着手した決算の中身とは(LIMO) 2026年8月5日の東京株式市場は大幅続伸となりました。 前日の米国市場におけるハイテク株高を受け、市場全体に広がったリスクオンの流れを引き継ぐ展開となっています。国内ではアドバンテストや東京エレク",
-      "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": 6.01,
-      "qty": 9200.0,
-      "avg_cost": 1857.32,
-      "last_price": 1969.0,
-      "market_value": 18114800.0,
-      "unrealized_pnl": 1027500.0
+      "last_price": 4618.0,
+      "market_value": 17086600.0,
+      "unrealized_pnl": 421800.0
     },
     {
       "ticker": "JP.3197",
@@ -53,12 +39,12 @@
       "entered_at": "2026-08-20T09:22:33.612016+09:00",
       "entry_catalyst": "すかいらーくホールディングス、2026年12月期上期は営業利益+21%で通期予想を上方修正(LIMO) 外食チェーンと聞けば、薄利多売で原材料高の直撃を受ける業態、という見方が先に立つ。実際、食材の値上がりは数字にきちんと出ている。それでもすかいらーくホールディングス <3197> の利益率は、この5期",
       "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": 2.43,
+      "unrealized_pct": 1.73,
       "qty": 3400.0,
       "avg_cost": 3287.0,
-      "last_price": 3367.0,
-      "market_value": 11447800.0,
-      "unrealized_pnl": 272000.0
+      "last_price": 3344.0,
+      "market_value": 11369600.0,
+      "unrealized_pnl": 193800.0
     },
     {
       "ticker": "JP.8001",
@@ -67,12 +53,12 @@
       "entered_at": "2026-08-21T09:22:30.878784+09:00",
       "entry_catalyst": "データセンター参入報道で上昇の伊藤忠商事（8001）──1Q営業益20％増と「損保4社向けTOB」の中身を振り返る(LIMO) 伊藤忠商事 <8001> の株価は2026年8月20日の東証終値で、前日比+27円（+1.37％）の2,004円となりました。 同社の株価は13日の終値2,078円から19日の終値1,977円まで4",
       "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": 2.44,
+      "unrealized_pct": 3.58,
       "qty": 8500.0,
       "avg_cost": 2053.0,
-      "last_price": 2103.0,
-      "market_value": 17875500.0,
-      "unrealized_pnl": 425000.0
+      "last_price": 2126.5,
+      "market_value": 18075250.0,
+      "unrealized_pnl": 624750.0
     },
     {
       "ticker": "JP.6503",
@@ -81,12 +67,12 @@
       "entered_at": "2026-08-21T09:22:32.157358+09:00",
       "entry_catalyst": "三菱電機、過去最大2200億円で米エネルギー管理会社を買収",
       "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": 0.2,
+      "unrealized_pct": -0.39,
       "qty": 3100.0,
       "avg_cost": 5582.0,
-      "last_price": 5593.0,
-      "market_value": 17338300.0,
-      "unrealized_pnl": 34100.0
+      "last_price": 5560.0,
+      "market_value": 17236000.0,
+      "unrealized_pnl": -68200.0
     },
     {
       "ticker": "JP.9831",
@@ -95,12 +81,12 @@
       "entered_at": "2026-08-24T09:17:49.452299+09:00",
       "entry_catalyst": "株式会社シティインデックスイレブンス代表取締役　福島啓修 が 株式会社ヤマダホールディングス（JP.9831）の大量保有報告を提出 保有割合 7.33%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": 0.0,
+      "unrealized_pct": -0.57,
       "qty": 25100.0,
       "avg_cost": 706.3,
-      "last_price": 706.3,
-      "market_value": 17728129.69,
-      "unrealized_pnl": 0.0
+      "last_price": 702.3,
+      "market_value": 17627729.69,
+      "unrealized_pnl": -100400.0
     },
     {
       "ticker": "JP.9722",
@@ -109,26 +95,12 @@
       "entered_at": "2026-08-24T09:17:52.497729+09:00",
       "entry_catalyst": "藤田観光が大幅高で直近1カ月の高値、2026年12月期上期の最終利益は+77%(LIMO) インバウンド関連という言葉を聞くと、訪日客の数が増えれば業績も伸びる、という単純な図を思い浮かべたくなる。藤田観光 <9722> の2026年12月期上期は、その図がそのまま当てはまらない決算だった。",
       "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": 3.09,
+      "unrealized_pct": 3.9,
       "qty": 6800.0,
       "avg_cost": 2587.0,
-      "last_price": 2667.0,
-      "market_value": 18135600.0,
-      "unrealized_pnl": 544000.0
-    },
-    {
-      "ticker": "JP.7201",
-      "company_name": "日産自動車",
-      "sector": "Consumer Cyclical",
-      "entered_at": "2026-08-24T09:17:53.281640+09:00",
-      "entry_catalyst": "「ハコスカ」は箱、なら「ケンメリ」は？ 歴代最多の67万台を売った “伝説のスカイライン” Tシャツも爆売れ！(乗りものニュース) 来年2027年にも新型が発表される見込みの日産「スカイライン」は、同社を代表するスポーツセダンです。スカイラインは1957年にプリンス自動車（1966年に日産へと吸収合併）から発売。特に日産ブランド",
-      "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": 0.27,
-      "qty": 53900.0,
-      "avg_cost": 329.8,
-      "last_price": 330.7,
-      "market_value": 17824730.66,
-      "unrealized_pnl": 48511.32
+      "last_price": 2688.0,
+      "market_value": 18278400.0,
+      "unrealized_pnl": 686800.0
     }
   ],
   "equity_curve": [
@@ -484,10 +456,10 @@
     },
     {
       "date": "2026-08-24",
-      "index": 107.5803,
-      "total_assets": 177592791.21,
-      "realized_pnl": 15661339.96,
-      "unrealized_pnl": 1931451.25
+      "index": 108.3098,
+      "total_assets": 178796990.59,
+      "realized_pnl": 16884220.29,
+      "unrealized_pnl": 1912770.31
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -701,10 +673,10 @@
         },
         {
           "date": "2026-08-24",
-          "index": 98.473
+          "index": 97.8636
         }
       ],
-      "period_return_pct": -1.53,
+      "period_return_pct": -2.14,
       "filled_dates": []
     },
     {
@@ -916,21 +888,21 @@
         },
         {
           "date": "2026-08-24",
-          "index": 100.6939
+          "index": 100.7218
         }
       ],
-      "period_return_pct": 0.69,
+      "period_return_pct": 0.72,
       "filled_dates": [
         "2026-07-03",
         "2026-08-24"
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 158.903,
+      "fx_rate_last": 158.947,
       "fx_rate_last_date": "2026-08-24"
     }
   ],
-  "invested_ratio_pct": 75.96,
+  "invested_ratio_pct": 55.79,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
@@ -939,6 +911,34 @@
     "range": "all"
   },
   "recent_trades": [
+    {
+      "time": "2026-08-24T13:59:17+09:00",
+      "ticker": "JP.7201",
+      "side": "SELL",
+      "qty": 100.0,
+      "price": 332.8
+    },
+    {
+      "time": "2026-08-24T13:41:27+09:00",
+      "ticker": "JP.7272",
+      "side": "SELL",
+      "qty": 6200.0,
+      "price": 1975.0
+    },
+    {
+      "time": "2026-08-24T13:40:25+09:00",
+      "ticker": "JP.7272",
+      "side": "SELL",
+      "qty": 3000.0,
+      "price": 1975.0
+    },
+    {
+      "time": "2026-08-24T13:28:44+09:00",
+      "ticker": "JP.7201",
+      "side": "SELL",
+      "qty": 53800.0,
+      "price": 332.4
+    },
     {
       "time": "2026-08-24T10:09:52+09:00",
       "ticker": "JP.3993",
@@ -980,34 +980,6 @@
       "side": "BUY",
       "qty": 25100.0,
       "price": 706.3
-    },
-    {
-      "time": "2026-08-21T13:40:58+09:00",
-      "ticker": "JP.3076",
-      "side": "SELL",
-      "qty": 4200.0,
-      "price": 2928.0
-    },
-    {
-      "time": "2026-08-21T13:40:04+09:00",
-      "ticker": "JP.3076",
-      "side": "SELL",
-      "qty": 2000.0,
-      "price": 2927.0
-    },
-    {
-      "time": "2026-08-21T13:24:52+09:00",
-      "ticker": "JP.9104",
-      "side": "SELL",
-      "qty": 1700.0,
-      "price": 7183.0
-    },
-    {
-      "time": "2026-08-21T13:23:55+09:00",
-      "ticker": "JP.9104",
-      "side": "SELL",
-      "qty": 800.0,
-      "price": 7184.0
     }
   ],
   "notes": []
