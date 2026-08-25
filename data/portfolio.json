@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-25T11:35:02.028650+09:00",
+  "generated_at": "2026-08-25T15:35:02.471178+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
@@ -11,11 +11,11 @@
     "initial_cash": 160000000.0,
     "cash": 91457290.59,
     "realized_pnl": 17850290.59,
-    "holding_value": 86754600.0,
-    "total_assets": 178211890.59,
-    "unrealized_pnl": 361600.0,
-    "total_pnl": 18211890.59,
-    "total_return_pct": 11.38
+    "holding_value": 87362200.0,
+    "total_assets": 178819490.59,
+    "unrealized_pnl": 969200.0,
+    "total_pnl": 18819490.59,
+    "total_return_pct": 11.76
   },
   "positions": [
     {
@@ -25,12 +25,12 @@
       "entered_at": "2026-07-28T09:26:38.642150+09:00",
       "entry_catalyst": "キヤノン、２６年１２月期業績予想を上方修正...",
       "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": 2.4,
+      "unrealized_pct": 2.51,
       "qty": 3700.0,
       "avg_cost": 4504.0,
-      "last_price": 4612.0,
-      "market_value": 17064400.0,
-      "unrealized_pnl": 399600.0
+      "last_price": 4617.0,
+      "market_value": 17082900.0,
+      "unrealized_pnl": 418100.0
     },
     {
       "ticker": "JP.6503",
@@ -39,12 +39,12 @@
       "entered_at": "2026-08-21T09:22:32.157358+09:00",
       "entry_catalyst": "三菱電機、過去最大2200億円で米エネルギー管理会社を買収",
       "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": -1.11,
+      "unrealized_pct": 0.09,
       "qty": 3100.0,
       "avg_cost": 5582.0,
-      "last_price": 5520.0,
-      "market_value": 17112000.0,
-      "unrealized_pnl": -192200.0
+      "last_price": 5587.0,
+      "market_value": 17319700.0,
+      "unrealized_pnl": 15500.0
     },
     {
       "ticker": "JP.9722",
@@ -53,12 +53,12 @@
       "entered_at": "2026-08-24T09:17:52.497729+09:00",
       "entry_catalyst": "藤田観光が大幅高で直近1カ月の高値、2026年12月期上期の最終利益は+77%(LIMO) インバウンド関連という言葉を聞くと、訪日客の数が増えれば業績も伸びる、という単純な図を思い浮かべたくなる。藤田観光 <9722> の2026年12月期上期は、その図がそのまま当てはまらない決算だった。",
       "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": 3.32,
+      "unrealized_pct": 5.53,
       "qty": 6800.0,
       "avg_cost": 2587.0,
-      "last_price": 2673.0,
-      "market_value": 18176400.0,
-      "unrealized_pnl": 584800.0
+      "last_price": 2730.0,
+      "market_value": 18564000.0,
+      "unrealized_pnl": 972400.0
     },
     {
       "ticker": "JP.3549",
@@ -67,12 +67,12 @@
       "entered_at": "2026-08-25T09:21:43.442877+09:00",
       "entry_catalyst": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ． が 株式会社クスリのアオキホールディングス（JP.3549）の大量保有報告を提出 保有割合 15.10%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": -1.5,
+      "unrealized_pct": -1.74,
       "qty": 4100.0,
       "avg_cost": 4261.0,
-      "last_price": 4197.0,
-      "market_value": 17207700.0,
-      "unrealized_pnl": -262400.0
+      "last_price": 4187.0,
+      "market_value": 17166700.0,
+      "unrealized_pnl": -303400.0
     },
     {
       "ticker": "JP.6305",
@@ -81,12 +81,12 @@
       "entered_at": "2026-08-25T09:22:53.129023+09:00",
       "entry_catalyst": "日立建機株が1カ月で1割超上昇、2027年3月期1Qは利益急増と通期上方修正(LIMO) 親会社が持分を手放した会社は、そのあとどう変わるのか。意思決定が速くなり、資本効率も上がる。そんな筋書きを想像する人は多いだろう。日立建機 <6305> の株価は直近1カ月で1割を超えて上昇し、202",
       "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": -0.97,
+      "unrealized_pct": -0.77,
       "qty": 2900.0,
       "avg_cost": 5987.0,
-      "last_price": 5929.0,
-      "market_value": 17194100.0,
-      "unrealized_pnl": -168200.0
+      "last_price": 5941.0,
+      "market_value": 17228900.0,
+      "unrealized_pnl": -133400.0
     }
   ],
   "equity_curve": [
@@ -449,10 +449,10 @@
     },
     {
       "date": "2026-08-25",
-      "index": 108.0261,
-      "total_assets": 178328790.59,
+      "index": 108.137,
+      "total_assets": 178511790.59,
       "realized_pnl": 17850290.59,
-      "unrealized_pnl": 478500.0
+      "unrealized_pnl": 661500.0
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -670,10 +670,10 @@
         },
         {
           "date": "2026-08-25",
-          "index": 97.8422
+          "index": 98.3538
         }
       ],
-      "period_return_pct": -2.16,
+      "period_return_pct": -1.65,
       "filled_dates": []
     },
     {
@@ -889,21 +889,21 @@
         },
         {
           "date": "2026-08-25",
-          "index": 100.6613
+          "index": 100.6683
         }
       ],
-      "period_return_pct": 0.66,
+      "period_return_pct": 0.67,
       "filled_dates": [
         "2026-07-03",
         "2026-08-25"
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 159.298,
+      "fx_rate_last": 159.309,
       "fx_rate_last_date": "2026-08-25"
     }
   ],
-  "invested_ratio_pct": 48.68,
+  "invested_ratio_pct": 48.85,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
