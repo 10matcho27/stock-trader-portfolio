@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-25T15:35:02.471178+09:00",
+  "generated_at": "2026-08-26T11:35:04.280851+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
   "valuation_available": true,
   "summary": {
     "currency": "JPY",
-    "position_count": 5,
+    "position_count": 6,
     "initial_cash": 160000000.0,
-    "cash": 91457290.59,
-    "realized_pnl": 17850290.59,
-    "holding_value": 87362200.0,
-    "total_assets": 178819490.59,
-    "unrealized_pnl": 969200.0,
-    "total_pnl": 18819490.59,
-    "total_return_pct": 11.76
+    "cash": 75223690.59,
+    "realized_pnl": 19026690.59,
+    "holding_value": 103851200.0,
+    "total_assets": 179074890.59,
+    "unrealized_pnl": 48200.0,
+    "total_pnl": 19074890.59,
+    "total_return_pct": 11.92
   },
   "positions": [
     {
@@ -25,12 +25,12 @@
       "entered_at": "2026-07-28T09:26:38.642150+09:00",
       "entry_catalyst": "キヤノン、２６年１２月期業績予想を上方修正...",
       "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": 2.51,
+      "unrealized_pct": 3.57,
       "qty": 3700.0,
       "avg_cost": 4504.0,
-      "last_price": 4617.0,
-      "market_value": 17082900.0,
-      "unrealized_pnl": 418100.0
+      "last_price": 4665.0,
+      "market_value": 17260500.0,
+      "unrealized_pnl": 595700.0
     },
     {
       "ticker": "JP.6503",
@@ -39,26 +39,12 @@
       "entered_at": "2026-08-21T09:22:32.157358+09:00",
       "entry_catalyst": "三菱電機、過去最大2200億円で米エネルギー管理会社を買収",
       "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": 0.09,
+      "unrealized_pct": 0.54,
       "qty": 3100.0,
       "avg_cost": 5582.0,
-      "last_price": 5587.0,
-      "market_value": 17319700.0,
-      "unrealized_pnl": 15500.0
-    },
-    {
-      "ticker": "JP.9722",
-      "company_name": "藤田観光",
-      "sector": "Consumer Cyclical",
-      "entered_at": "2026-08-24T09:17:52.497729+09:00",
-      "entry_catalyst": "藤田観光が大幅高で直近1カ月の高値、2026年12月期上期の最終利益は+77%(LIMO) インバウンド関連という言葉を聞くと、訪日客の数が増えれば業績も伸びる、という単純な図を思い浮かべたくなる。藤田観光 <9722> の2026年12月期上期は、その図がそのまま当てはまらない決算だった。",
-      "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": 5.53,
-      "qty": 6800.0,
-      "avg_cost": 2587.0,
-      "last_price": 2730.0,
-      "market_value": 18564000.0,
-      "unrealized_pnl": 972400.0
+      "last_price": 5612.0,
+      "market_value": 17397200.0,
+      "unrealized_pnl": 93000.0
     },
     {
       "ticker": "JP.3549",
@@ -67,12 +53,12 @@
       "entered_at": "2026-08-25T09:21:43.442877+09:00",
       "entry_catalyst": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ． が 株式会社クスリのアオキホールディングス（JP.3549）の大量保有報告を提出 保有割合 15.10%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": -1.74,
+      "unrealized_pct": -1.95,
       "qty": 4100.0,
       "avg_cost": 4261.0,
-      "last_price": 4187.0,
-      "market_value": 17166700.0,
-      "unrealized_pnl": -303400.0
+      "last_price": 4178.0,
+      "market_value": 17129800.0,
+      "unrealized_pnl": -340300.0
     },
     {
       "ticker": "JP.6305",
@@ -81,12 +67,40 @@
       "entered_at": "2026-08-25T09:22:53.129023+09:00",
       "entry_catalyst": "日立建機株が1カ月で1割超上昇、2027年3月期1Qは利益急増と通期上方修正(LIMO) 親会社が持分を手放した会社は、そのあとどう変わるのか。意思決定が速くなり、資本効率も上がる。そんな筋書きを想像する人は多いだろう。日立建機 <6305> の株価は直近1カ月で1割を超えて上昇し、202",
       "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": -0.77,
+      "unrealized_pct": -2.37,
       "qty": 2900.0,
       "avg_cost": 5987.0,
-      "last_price": 5941.0,
-      "market_value": 17228900.0,
-      "unrealized_pnl": -133400.0
+      "last_price": 5845.0,
+      "market_value": 16950500.0,
+      "unrealized_pnl": -411800.0
+    },
+    {
+      "ticker": "JP.6728",
+      "company_name": "アルバック",
+      "sector": "Industrials",
+      "entered_at": "2026-08-26T09:21:45.505625+09:00",
+      "entry_catalyst": "アルバック (6728) （開示事項の経過）連結子会社の会社分割（新設分割）完了に関するお知らせ",
+      "hold_rationale": "official filing: tdnet",
+      "unrealized_pct": 0.61,
+      "qty": 2300.0,
+      "avg_cost": 7552.0,
+      "last_price": 7598.0,
+      "market_value": 17475400.0,
+      "unrealized_pnl": 105800.0
+    },
+    {
+      "ticker": "JP.9201",
+      "company_name": "日本航空",
+      "sector": "Industrials",
+      "entered_at": "2026-08-26T09:22:48.754117+09:00",
+      "entry_catalyst": "【現地潜入】ANAが泣き、JALは歓喜…「アラスカ航空・ハワイアン航空」巨大再編の裏側(ビジネス＋IT) 米アラスカ航空によるハワイアン航空の吸収合併は、北米航空業界の再編として大きな話題となった。北極圏に近いアラスカから常夏のハワイまでを1つのブランドグループが結ぶ、世界でも類を見ない「寒暖差世界一の",
+      "hold_rationale": "fundamental catalyst: mna",
+      "unrealized_pct": 0.03,
+      "qty": 5800.0,
+      "avg_cost": 3040.0,
+      "last_price": 3041.0,
+      "market_value": 17637800.0,
+      "unrealized_pnl": 5800.0
     }
   ],
   "equity_curve": [
@@ -453,6 +467,13 @@
       "total_assets": 178511790.59,
       "realized_pnl": 17850290.59,
       "unrealized_pnl": 661500.0
+    },
+    {
+      "date": "2026-08-26",
+      "index": 108.4437,
+      "total_assets": 179018090.59,
+      "realized_pnl": 19026690.59,
+      "unrealized_pnl": -8600.0
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -670,10 +691,14 @@
         },
         {
           "date": "2026-08-25",
-          "index": 98.3538
+          "index": 98.3896
+        },
+        {
+          "date": "2026-08-26",
+          "index": 98.7115
         }
       ],
-      "period_return_pct": -1.65,
+      "period_return_pct": -1.29,
       "filled_dates": []
     },
     {
@@ -889,21 +914,25 @@
         },
         {
           "date": "2026-08-25",
-          "index": 100.6683
+          "index": 100.8817
+        },
+        {
+          "date": "2026-08-26",
+          "index": 100.7822
         }
       ],
-      "period_return_pct": 0.67,
+      "period_return_pct": 0.78,
       "filled_dates": [
         "2026-07-03",
-        "2026-08-25"
+        "2026-08-26"
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 159.309,
-      "fx_rate_last_date": "2026-08-25"
+      "fx_rate_last": 158.982,
+      "fx_rate_last_date": "2026-08-26"
     }
   ],
-  "invested_ratio_pct": 48.85,
+  "invested_ratio_pct": 57.99,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
@@ -912,6 +941,34 @@
     "range": "all"
   },
   "recent_trades": [
+    {
+      "time": "2026-08-26T09:40:46+09:00",
+      "ticker": "JP.9722",
+      "side": "SELL",
+      "qty": 4600.0,
+      "price": 2760.0
+    },
+    {
+      "time": "2026-08-26T09:40:25+09:00",
+      "ticker": "JP.9722",
+      "side": "SELL",
+      "qty": 2200.0,
+      "price": 2760.0
+    },
+    {
+      "time": "2026-08-26T09:22:48+09:00",
+      "ticker": "JP.9201",
+      "side": "BUY",
+      "qty": 5800.0,
+      "price": 3040.0
+    },
+    {
+      "time": "2026-08-26T09:21:45+09:00",
+      "ticker": "JP.6728",
+      "side": "BUY",
+      "qty": 2300.0,
+      "price": 7552.0
+    },
     {
       "time": "2026-08-25T10:55:18+09:00",
       "ticker": "JP.8001",
@@ -953,34 +1010,6 @@
       "side": "BUY",
       "qty": 2900.0,
       "price": 5987.0
-    },
-    {
-      "time": "2026-08-25T09:22:46+09:00",
-      "ticker": "JP.3088",
-      "side": "BUY",
-      "qty": 6800.0,
-      "price": 2628.5
-    },
-    {
-      "time": "2026-08-25T09:21:43+09:00",
-      "ticker": "JP.3549",
-      "side": "BUY",
-      "qty": 4100.0,
-      "price": 4261.0
-    },
-    {
-      "time": "2026-08-24T13:59:17+09:00",
-      "ticker": "JP.7201",
-      "side": "SELL",
-      "qty": 100.0,
-      "price": 332.8
-    },
-    {
-      "time": "2026-08-24T13:41:27+09:00",
-      "ticker": "JP.7272",
-      "side": "SELL",
-      "qty": 6200.0,
-      "price": 1975.0
     }
   ],
   "notes": []
