@@ -1,37 +1,23 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-26T11:35:04.280851+09:00",
+  "generated_at": "2026-08-26T15:35:02.906436+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
   "valuation_available": true,
   "summary": {
     "currency": "JPY",
-    "position_count": 6,
+    "position_count": 5,
     "initial_cash": 160000000.0,
-    "cash": 75223690.59,
-    "realized_pnl": 19026690.59,
-    "holding_value": 103851200.0,
-    "total_assets": 179074890.59,
-    "unrealized_pnl": 48200.0,
-    "total_pnl": 19074890.59,
-    "total_return_pct": 11.92
+    "cash": 92532290.59,
+    "realized_pnl": 19670490.59,
+    "holding_value": 86618700.0,
+    "total_assets": 179150990.59,
+    "unrealized_pnl": -519500.0,
+    "total_pnl": 19150990.59,
+    "total_return_pct": 11.97
   },
   "positions": [
-    {
-      "ticker": "JP.7751",
-      "company_name": "キヤノン",
-      "sector": "Technology",
-      "entered_at": "2026-07-28T09:26:38.642150+09:00",
-      "entry_catalyst": "キヤノン、２６年１２月期業績予想を上方修正...",
-      "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": 3.57,
-      "qty": 3700.0,
-      "avg_cost": 4504.0,
-      "last_price": 4665.0,
-      "market_value": 17260500.0,
-      "unrealized_pnl": 595700.0
-    },
     {
       "ticker": "JP.6503",
       "company_name": "三菱電機",
@@ -39,12 +25,12 @@
       "entered_at": "2026-08-21T09:22:32.157358+09:00",
       "entry_catalyst": "三菱電機、過去最大2200億円で米エネルギー管理会社を買収",
       "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": 0.54,
+      "unrealized_pct": 0.97,
       "qty": 3100.0,
       "avg_cost": 5582.0,
-      "last_price": 5612.0,
-      "market_value": 17397200.0,
-      "unrealized_pnl": 93000.0
+      "last_price": 5636.0,
+      "market_value": 17471600.0,
+      "unrealized_pnl": 167400.0
     },
     {
       "ticker": "JP.3549",
@@ -53,12 +39,12 @@
       "entered_at": "2026-08-25T09:21:43.442877+09:00",
       "entry_catalyst": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ． が 株式会社クスリのアオキホールディングス（JP.3549）の大量保有報告を提出 保有割合 15.10%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": -1.95,
+      "unrealized_pct": -2.04,
       "qty": 4100.0,
       "avg_cost": 4261.0,
-      "last_price": 4178.0,
-      "market_value": 17129800.0,
-      "unrealized_pnl": -340300.0
+      "last_price": 4174.0,
+      "market_value": 17113400.0,
+      "unrealized_pnl": -356700.0
     },
     {
       "ticker": "JP.6305",
@@ -67,12 +53,12 @@
       "entered_at": "2026-08-25T09:22:53.129023+09:00",
       "entry_catalyst": "日立建機株が1カ月で1割超上昇、2027年3月期1Qは利益急増と通期上方修正(LIMO) 親会社が持分を手放した会社は、そのあとどう変わるのか。意思決定が速くなり、資本効率も上がる。そんな筋書きを想像する人は多いだろう。日立建機 <6305> の株価は直近1カ月で1割を超えて上昇し、202",
       "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": -2.37,
+      "unrealized_pct": -2.71,
       "qty": 2900.0,
       "avg_cost": 5987.0,
-      "last_price": 5845.0,
-      "market_value": 16950500.0,
-      "unrealized_pnl": -411800.0
+      "last_price": 5825.0,
+      "market_value": 16892500.0,
+      "unrealized_pnl": -469800.0
     },
     {
       "ticker": "JP.6728",
@@ -81,12 +67,12 @@
       "entered_at": "2026-08-26T09:21:45.505625+09:00",
       "entry_catalyst": "アルバック (6728) （開示事項の経過）連結子会社の会社分割（新設分割）完了に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 0.61,
+      "unrealized_pct": 0.5,
       "qty": 2300.0,
       "avg_cost": 7552.0,
-      "last_price": 7598.0,
-      "market_value": 17475400.0,
-      "unrealized_pnl": 105800.0
+      "last_price": 7590.0,
+      "market_value": 17457000.0,
+      "unrealized_pnl": 87400.0
     },
     {
       "ticker": "JP.9201",
@@ -95,12 +81,12 @@
       "entered_at": "2026-08-26T09:22:48.754117+09:00",
       "entry_catalyst": "【現地潜入】ANAが泣き、JALは歓喜…「アラスカ航空・ハワイアン航空」巨大再編の裏側(ビジネス＋IT) 米アラスカ航空によるハワイアン航空の吸収合併は、北米航空業界の再編として大きな話題となった。北極圏に近いアラスカから常夏のハワイまでを1つのブランドグループが結ぶ、世界でも類を見ない「寒暖差世界一の",
       "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": 0.03,
+      "unrealized_pct": 0.3,
       "qty": 5800.0,
       "avg_cost": 3040.0,
-      "last_price": 3041.0,
-      "market_value": 17637800.0,
-      "unrealized_pnl": 5800.0
+      "last_price": 3049.0,
+      "market_value": 17684200.0,
+      "unrealized_pnl": 52200.0
     }
   ],
   "equity_curve": [
@@ -470,10 +456,10 @@
     },
     {
       "date": "2026-08-26",
-      "index": 108.4437,
-      "total_assets": 179018090.59,
-      "realized_pnl": 19026690.59,
-      "unrealized_pnl": -8600.0
+      "index": 108.5737,
+      "total_assets": 179232690.59,
+      "realized_pnl": 19670490.59,
+      "unrealized_pnl": -437800.0
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -695,10 +681,10 @@
         },
         {
           "date": "2026-08-26",
-          "index": 98.7115
+          "index": 98.9866
         }
       ],
-      "period_return_pct": -1.29,
+      "period_return_pct": -1.01,
       "filled_dates": []
     },
     {
@@ -918,21 +904,21 @@
         },
         {
           "date": "2026-08-26",
-          "index": 100.7822
+          "index": 100.8488
         }
       ],
-      "period_return_pct": 0.78,
+      "period_return_pct": 0.85,
       "filled_dates": [
         "2026-07-03",
         "2026-08-26"
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 158.982,
+      "fx_rate_last": 159.087,
       "fx_rate_last_date": "2026-08-26"
     }
   ],
-  "invested_ratio_pct": 57.99,
+  "invested_ratio_pct": 48.35,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
@@ -941,6 +927,20 @@
     "range": "all"
   },
   "recent_trades": [
+    {
+      "time": "2026-08-26T12:32:29+09:00",
+      "ticker": "JP.7751",
+      "side": "SELL",
+      "qty": 2500.0,
+      "price": 4678.0
+    },
+    {
+      "time": "2026-08-26T12:31:44+09:00",
+      "ticker": "JP.7751",
+      "side": "SELL",
+      "qty": 1200.0,
+      "price": 4678.0
+    },
     {
       "time": "2026-08-26T09:40:46+09:00",
       "ticker": "JP.9722",
@@ -996,20 +996,6 @@
       "side": "SELL",
       "qty": 6800.0,
       "price": 2612.0
-    },
-    {
-      "time": "2026-08-25T09:34:37+09:00",
-      "ticker": "JP.9831",
-      "side": "SELL",
-      "qty": 25100.0,
-      "price": 710.0
-    },
-    {
-      "time": "2026-08-25T09:22:53+09:00",
-      "ticker": "JP.6305",
-      "side": "BUY",
-      "qty": 2900.0,
-      "price": 5987.0
     }
   ],
   "notes": []
