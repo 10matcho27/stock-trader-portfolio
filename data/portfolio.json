@@ -1,37 +1,23 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-28T11:35:02.021081+09:00",
+  "generated_at": "2026-08-28T15:35:04.618644+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
   "valuation_available": true,
   "summary": {
     "currency": "JPY",
-    "position_count": 4,
+    "position_count": 3,
     "initial_cash": 160000000.0,
-    "cash": 109117531.39,
-    "realized_pnl": 19717390.59,
-    "holding_value": 70591979.6,
-    "total_assets": 179709510.99,
-    "unrealized_pnl": -7879.6,
-    "total_pnl": 19709510.99,
-    "total_return_pct": 12.32
+    "cash": 126539531.39,
+    "realized_pnl": 19835190.59,
+    "holding_value": 53262880.03,
+    "total_assets": 179802411.42,
+    "unrealized_pnl": -32779.17,
+    "total_pnl": 19802411.42,
+    "total_return_pct": 12.38
   },
   "positions": [
-    {
-      "ticker": "JP.6503",
-      "company_name": "三菱電機",
-      "sector": "Industrials",
-      "entered_at": "2026-08-21T09:22:32.157358+09:00",
-      "entry_catalyst": "三菱電機、過去最大2200億円で米エネルギー管理会社を買収",
-      "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": 1.25,
-      "qty": 3100.0,
-      "avg_cost": 5582.0,
-      "last_price": 5652.0,
-      "market_value": 17521200.0,
-      "unrealized_pnl": 217000.0
-    },
     {
       "ticker": "JP.3549",
       "company_name": "クスリのアオキホールディングス",
@@ -39,12 +25,12 @@
       "entered_at": "2026-08-25T09:21:43.442877+09:00",
       "entry_catalyst": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ． が 株式会社クスリのアオキホールディングス（JP.3549）の大量保有報告を提出 保有割合 15.10%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": -2.32,
+      "unrealized_pct": -1.6,
       "qty": 4100.0,
       "avg_cost": 4261.0,
-      "last_price": 4162.0,
-      "market_value": 17064200.0,
-      "unrealized_pnl": -405900.0
+      "last_price": 4193.0,
+      "market_value": 17191300.0,
+      "unrealized_pnl": -278800.0
     },
     {
       "ticker": "JP.4689",
@@ -53,12 +39,12 @@
       "entered_at": "2026-08-27T09:22:19.473670+09:00",
       "entry_catalyst": "LINEヤフー、第1四半期 コマース売上12.5%増 ヤフーショッピングやグループの増収寄与(日本ネット経済新聞) LINEヤフーの2026年4ｰ6月期(第1四半期)におけるコマース事業の売上収益は、前年同期比12.5%増の2428億円だった。BEENOS、LINE MAN CORPORATION PTE.LTD.",
       "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": 0.67,
+      "unrealized_pct": 0.56,
       "qty": 32600.0,
       "avg_cost": 549.6,
-      "last_price": 553.3,
-      "market_value": 18037579.6,
-      "unrealized_pnl": 120620.4
+      "last_price": 552.7,
+      "market_value": 18018020.4,
+      "unrealized_pnl": 101061.19
     },
     {
       "ticker": "JP.2181",
@@ -67,12 +53,12 @@
       "entered_at": "2026-08-28T09:22:29.033332+09:00",
       "entry_catalyst": "パーソルＨＤ (2181) 第三者割当による自己株式処分の払込完了に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 0.34,
+      "unrealized_pct": 0.81,
       "qty": 60400.0,
       "avg_cost": 296.5,
-      "last_price": 297.5,
-      "market_value": 17969000.0,
-      "unrealized_pnl": 60400.0
+      "last_price": 298.9,
+      "market_value": 18053559.63,
+      "unrealized_pnl": 144959.63
     }
   ],
   "equity_curve": [
@@ -456,10 +442,10 @@
     },
     {
       "date": "2026-08-28",
-      "index": 108.8328,
-      "total_assets": 179660431.39,
+      "index": 108.8882,
+      "total_assets": 179751892.16,
       "realized_pnl": 19717390.59,
-      "unrealized_pnl": -56959.2
+      "unrealized_pnl": 34501.56
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -689,10 +675,10 @@
         },
         {
           "date": "2026-08-28",
-          "index": 99.7665
+          "index": 99.1836
         }
       ],
-      "period_return_pct": -0.23,
+      "period_return_pct": -0.82,
       "filled_dates": []
     },
     {
@@ -920,21 +906,21 @@
         },
         {
           "date": "2026-08-28",
-          "index": 101.7764
+          "index": 101.8013
         }
       ],
-      "period_return_pct": 1.78,
+      "period_return_pct": 1.8,
       "filled_dates": [
         "2026-07-03",
         "2026-08-28"
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 159.435,
+      "fx_rate_last": 159.474,
       "fx_rate_last_date": "2026-08-28"
     }
   ],
-  "invested_ratio_pct": 39.28,
+  "invested_ratio_pct": 29.62,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
@@ -943,6 +929,13 @@
     "range": "all"
   },
   "recent_trades": [
+    {
+      "time": "2026-08-28T15:07:41+09:00",
+      "ticker": "JP.6503",
+      "side": "SELL",
+      "qty": 3100.0,
+      "price": 5620.0
+    },
     {
       "time": "2026-08-28T09:22:30+09:00",
       "ticker": "JP.9201",
@@ -1005,13 +998,6 @@
       "side": "SELL",
       "qty": 2200.0,
       "price": 2760.0
-    },
-    {
-      "time": "2026-08-26T09:22:48+09:00",
-      "ticker": "JP.9201",
-      "side": "BUY",
-      "qty": 5800.0,
-      "price": 3040.0
     }
   ],
   "notes": []
