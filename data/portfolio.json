@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-27T15:35:31.516021+09:00",
+  "generated_at": "2026-08-28T11:35:02.021081+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
@@ -9,13 +9,13 @@
     "currency": "JPY",
     "position_count": 4,
     "initial_cash": 160000000.0,
-    "cash": 109359331.39,
-    "realized_pnl": 19682590.59,
-    "holding_value": 69690420.4,
-    "total_assets": 179049751.79,
-    "unrealized_pnl": -632838.81,
-    "total_pnl": 19049751.79,
-    "total_return_pct": 11.91
+    "cash": 109117531.39,
+    "realized_pnl": 19717390.59,
+    "holding_value": 70591979.6,
+    "total_assets": 179709510.99,
+    "unrealized_pnl": -7879.6,
+    "total_pnl": 19709510.99,
+    "total_return_pct": 12.32
   },
   "positions": [
     {
@@ -25,12 +25,12 @@
       "entered_at": "2026-08-21T09:22:32.157358+09:00",
       "entry_catalyst": "三菱電機、過去最大2200億円で米エネルギー管理会社を買収",
       "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": 0.07,
+      "unrealized_pct": 1.25,
       "qty": 3100.0,
       "avg_cost": 5582.0,
-      "last_price": 5586.0,
-      "market_value": 17316600.0,
-      "unrealized_pnl": 12400.0
+      "last_price": 5652.0,
+      "market_value": 17521200.0,
+      "unrealized_pnl": 217000.0
     },
     {
       "ticker": "JP.3549",
@@ -39,26 +39,12 @@
       "entered_at": "2026-08-25T09:21:43.442877+09:00",
       "entry_catalyst": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ． が 株式会社クスリのアオキホールディングス（JP.3549）の大量保有報告を提出 保有割合 15.10%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": -4.08,
+      "unrealized_pct": -2.32,
       "qty": 4100.0,
       "avg_cost": 4261.0,
-      "last_price": 4087.0,
-      "market_value": 16756700.0,
-      "unrealized_pnl": -713400.0
-    },
-    {
-      "ticker": "JP.9201",
-      "company_name": "日本航空",
-      "sector": "Industrials",
-      "entered_at": "2026-08-26T09:22:48.754117+09:00",
-      "entry_catalyst": "【現地潜入】ANAが泣き、JALは歓喜…「アラスカ航空・ハワイアン航空」巨大再編の裏側(ビジネス＋IT) 米アラスカ航空によるハワイアン航空の吸収合併は、北米航空業界の再編として大きな話題となった。北極圏に近いアラスカから常夏のハワイまでを1つのブランドグループが結ぶ、世界でも類を見ない「寒暖差世界一の",
-      "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": 0.46,
-      "qty": 5800.0,
-      "avg_cost": 3040.0,
-      "last_price": 3054.0,
-      "market_value": 17713200.0,
-      "unrealized_pnl": 81200.0
+      "last_price": 4162.0,
+      "market_value": 17064200.0,
+      "unrealized_pnl": -405900.0
     },
     {
       "ticker": "JP.4689",
@@ -67,12 +53,26 @@
       "entered_at": "2026-08-27T09:22:19.473670+09:00",
       "entry_catalyst": "LINEヤフー、第1四半期 コマース売上12.5%増 ヤフーショッピングやグループの増収寄与(日本ネット経済新聞) LINEヤフーの2026年4ｰ6月期(第1四半期)におけるコマース事業の売上収益は、前年同期比12.5%増の2428億円だった。BEENOS、LINE MAN CORPORATION PTE.LTD.",
       "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": -0.07,
+      "unrealized_pct": 0.67,
       "qty": 32600.0,
       "avg_cost": 549.6,
-      "last_price": 549.2,
-      "market_value": 17903920.4,
-      "unrealized_pnl": -13038.81
+      "last_price": 553.3,
+      "market_value": 18037579.6,
+      "unrealized_pnl": 120620.4
+    },
+    {
+      "ticker": "JP.2181",
+      "company_name": "パーソルホールディングス",
+      "sector": "Industrials",
+      "entered_at": "2026-08-28T09:22:29.033332+09:00",
+      "entry_catalyst": "パーソルＨＤ (2181) 第三者割当による自己株式処分の払込完了に関するお知らせ",
+      "hold_rationale": "official filing: tdnet",
+      "unrealized_pct": 0.34,
+      "qty": 60400.0,
+      "avg_cost": 296.5,
+      "last_price": 297.5,
+      "market_value": 17969000.0,
+      "unrealized_pnl": 60400.0
     }
   ],
   "equity_curve": [
@@ -453,6 +453,13 @@
       "total_assets": 179004872.19,
       "realized_pnl": 19682590.59,
       "unrealized_pnl": -677718.41
+    },
+    {
+      "date": "2026-08-28",
+      "index": 108.8328,
+      "total_assets": 179660431.39,
+      "realized_pnl": 19717390.59,
+      "unrealized_pnl": -56959.2
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -678,10 +685,14 @@
         },
         {
           "date": "2026-08-27",
-          "index": 98.8092
+          "index": 98.8013
+        },
+        {
+          "date": "2026-08-28",
+          "index": 99.7665
         }
       ],
-      "period_return_pct": -1.19,
+      "period_return_pct": -0.23,
       "filled_dates": []
     },
     {
@@ -905,21 +916,25 @@
         },
         {
           "date": "2026-08-27",
-          "index": 100.996
+          "index": 101.6615
+        },
+        {
+          "date": "2026-08-28",
+          "index": 101.7764
         }
       ],
-      "period_return_pct": 1.0,
+      "period_return_pct": 1.78,
       "filled_dates": [
         "2026-07-03",
-        "2026-08-27"
+        "2026-08-28"
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 159.352,
-      "fx_rate_last_date": "2026-08-27"
+      "fx_rate_last": 159.435,
+      "fx_rate_last_date": "2026-08-28"
     }
   ],
-  "invested_ratio_pct": 38.92,
+  "invested_ratio_pct": 39.28,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
@@ -928,6 +943,20 @@
     "range": "all"
   },
   "recent_trades": [
+    {
+      "time": "2026-08-28T09:22:30+09:00",
+      "ticker": "JP.9201",
+      "side": "SELL",
+      "qty": 5800.0,
+      "price": 3046.0
+    },
+    {
+      "time": "2026-08-28T09:22:29+09:00",
+      "ticker": "JP.2181",
+      "side": "BUY",
+      "qty": 60400.0,
+      "price": 296.5
+    },
     {
       "time": "2026-08-27T12:30:57+09:00",
       "ticker": "JP.6305",
@@ -983,20 +1012,6 @@
       "side": "BUY",
       "qty": 5800.0,
       "price": 3040.0
-    },
-    {
-      "time": "2026-08-26T09:21:45+09:00",
-      "ticker": "JP.6728",
-      "side": "BUY",
-      "qty": 2300.0,
-      "price": 7552.0
-    },
-    {
-      "time": "2026-08-25T10:55:18+09:00",
-      "ticker": "JP.8001",
-      "side": "SELL",
-      "qty": 5700.0,
-      "price": 2133.0
     }
   ],
   "notes": []
