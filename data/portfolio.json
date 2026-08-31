@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-31T11:35:02.409329+09:00",
+  "generated_at": "2026-08-31T15:35:04.107969+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
@@ -11,11 +11,11 @@
     "initial_cash": 160000000.0,
     "cash": 108603431.39,
     "realized_pnl": 19835190.59,
-    "holding_value": 71116018.84,
-    "total_assets": 179719450.23,
-    "unrealized_pnl": -115740.37,
-    "total_pnl": 19719450.23,
-    "total_return_pct": 12.32
+    "holding_value": 71534321.53,
+    "total_assets": 180137752.92,
+    "unrealized_pnl": 302562.33,
+    "total_pnl": 20137752.92,
+    "total_return_pct": 12.59
   },
   "positions": [
     {
@@ -25,12 +25,12 @@
       "entered_at": "2026-08-25T09:21:43.442877+09:00",
       "entry_catalyst": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ． が 株式会社クスリのアオキホールディングス（JP.3549）の大量保有報告を提出 保有割合 15.10%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": -2.72,
+      "unrealized_pct": -3.52,
       "qty": 4100.0,
       "avg_cost": 4261.0,
-      "last_price": 4145.0,
-      "market_value": 16994500.0,
-      "unrealized_pnl": -475600.0
+      "last_price": 4111.0,
+      "market_value": 16855100.0,
+      "unrealized_pnl": -615000.0
     },
     {
       "ticker": "JP.4689",
@@ -39,12 +39,12 @@
       "entered_at": "2026-08-27T09:22:19.473670+09:00",
       "entry_catalyst": "LINEヤフー、第1四半期 コマース売上12.5%増 ヤフーショッピングやグループの増収寄与(日本ネット経済新聞) LINEヤフーの2026年4ｰ6月期(第1四半期)におけるコマース事業の売上収益は、前年同期比12.5%増の2428億円だった。BEENOS、LINE MAN CORPORATION PTE.LTD.",
       "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": 1.46,
+      "unrealized_pct": 1.69,
       "qty": 32600.0,
       "avg_cost": 549.6,
-      "last_price": 557.6,
-      "market_value": 18177759.2,
-      "unrealized_pnl": 260800.0
+      "last_price": 558.9,
+      "market_value": 18220140.8,
+      "unrealized_pnl": 303181.59
     },
     {
       "ticker": "JP.2181",
@@ -53,12 +53,12 @@
       "entered_at": "2026-08-28T09:22:29.033332+09:00",
       "entry_catalyst": "パーソルＨＤ (2181) 第三者割当による自己株式処分の払込完了に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 1.32,
+      "unrealized_pct": 1.75,
       "qty": 60400.0,
       "avg_cost": 296.5,
-      "last_price": 300.4,
-      "market_value": 18144159.63,
-      "unrealized_pnl": 235559.63
+      "last_price": 301.7,
+      "market_value": 18222680.74,
+      "unrealized_pnl": 314080.74
     },
     {
       "ticker": "JP.1514",
@@ -67,12 +67,12 @@
       "entered_at": "2026-08-31T09:18:16.235754+09:00",
       "entry_catalyst": "住石ＨＤ (1514) 自己株式の取得状況及び取得終了に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": -0.76,
+      "unrealized_pct": 1.67,
       "qty": 27300.0,
       "avg_cost": 657.0,
-      "last_price": 652.0,
-      "market_value": 17799600.0,
-      "unrealized_pnl": -136500.0
+      "last_price": 668.0,
+      "market_value": 18236400.0,
+      "unrealized_pnl": 300300.0
     }
   ],
   "equity_curve": [
@@ -463,10 +463,10 @@
     },
     {
       "date": "2026-08-31",
-      "index": 108.7917,
-      "total_assets": 179592512.55,
+      "index": 109.0925,
+      "total_assets": 180089072.19,
       "realized_pnl": 19835190.59,
-      "unrealized_pnl": -242678.04
+      "unrealized_pnl": 253881.59
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -696,15 +696,17 @@
         },
         {
           "date": "2026-08-28",
-          "index": 99.21
+          "index": 98.8013
         },
         {
           "date": "2026-08-31",
-          "index": 97.6539
+          "index": 98.9667
         }
       ],
-      "period_return_pct": -2.35,
-      "filled_dates": []
+      "period_return_pct": -1.03,
+      "filled_dates": [
+        "2026-08-28"
+      ]
     },
     {
       "key": "sp500",
@@ -931,25 +933,26 @@
         },
         {
           "date": "2026-08-28",
-          "index": 101.4507
+          "index": 101.7037
         },
         {
           "date": "2026-08-31",
-          "index": 101.7461
+          "index": 102.0745
         }
       ],
-      "period_return_pct": 1.75,
+      "period_return_pct": 2.07,
       "filled_dates": [
         "2026-07-03",
+        "2026-08-28",
         "2026-08-31"
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 159.785,
+      "fx_rate_last": 159.902,
       "fx_rate_last_date": "2026-08-31"
     }
   ],
-  "invested_ratio_pct": 39.57,
+  "invested_ratio_pct": 39.71,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
