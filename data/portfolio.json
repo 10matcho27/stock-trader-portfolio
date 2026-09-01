@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-31T15:35:04.107969+09:00",
+  "generated_at": "2026-09-01T11:35:02.391321+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
@@ -9,13 +9,13 @@
     "currency": "JPY",
     "position_count": 4,
     "initial_cash": 160000000.0,
-    "cash": 108603431.39,
-    "realized_pnl": 19835190.59,
-    "holding_value": 71534321.53,
-    "total_assets": 180137752.92,
-    "unrealized_pnl": 302562.33,
-    "total_pnl": 20137752.92,
-    "total_return_pct": 12.59
+    "cash": 108493531.39,
+    "realized_pnl": 19765590.59,
+    "holding_value": 71687798.86,
+    "total_assets": 180181330.26,
+    "unrealized_pnl": 415739.66,
+    "total_pnl": 20181330.26,
+    "total_return_pct": 12.61
   },
   "positions": [
     {
@@ -25,12 +25,12 @@
       "entered_at": "2026-08-25T09:21:43.442877+09:00",
       "entry_catalyst": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ． が 株式会社クスリのアオキホールディングス（JP.3549）の大量保有報告を提出 保有割合 15.10%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": -3.52,
+      "unrealized_pct": -3.68,
       "qty": 4100.0,
       "avg_cost": 4261.0,
-      "last_price": 4111.0,
-      "market_value": 16855100.0,
-      "unrealized_pnl": -615000.0
+      "last_price": 4104.0,
+      "market_value": 16826400.0,
+      "unrealized_pnl": -643700.0
     },
     {
       "ticker": "JP.4689",
@@ -39,12 +39,12 @@
       "entered_at": "2026-08-27T09:22:19.473670+09:00",
       "entry_catalyst": "LINEヤフー、第1四半期 コマース売上12.5%増 ヤフーショッピングやグループの増収寄与(日本ネット経済新聞) LINEヤフーの2026年4ｰ6月期(第1四半期)におけるコマース事業の売上収益は、前年同期比12.5%増の2428億円だった。BEENOS、LINE MAN CORPORATION PTE.LTD.",
       "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": 1.69,
+      "unrealized_pct": 2.95,
       "qty": 32600.0,
       "avg_cost": 549.6,
-      "last_price": 558.9,
-      "market_value": 18220140.8,
-      "unrealized_pnl": 303181.59
+      "last_price": 565.8,
+      "market_value": 18445079.6,
+      "unrealized_pnl": 528120.4
     },
     {
       "ticker": "JP.2181",
@@ -53,26 +53,26 @@
       "entered_at": "2026-08-28T09:22:29.033332+09:00",
       "entry_catalyst": "パーソルＨＤ (2181) 第三者割当による自己株式処分の払込完了に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 1.75,
+      "unrealized_pct": 2.12,
       "qty": 60400.0,
       "avg_cost": 296.5,
-      "last_price": 301.7,
-      "market_value": 18222680.74,
-      "unrealized_pnl": 314080.74
+      "last_price": 302.8,
+      "market_value": 18289119.26,
+      "unrealized_pnl": 380519.26
     },
     {
-      "ticker": "JP.1514",
-      "company_name": "住石ホールディングス(株)",
-      "sector": "Energy",
-      "entered_at": "2026-08-31T09:18:16.235754+09:00",
-      "entry_catalyst": "住石ＨＤ (1514) 自己株式の取得状況及び取得終了に関するお知らせ",
-      "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 1.67,
-      "qty": 27300.0,
-      "avg_cost": 657.0,
-      "last_price": 668.0,
-      "market_value": 18236400.0,
-      "unrealized_pnl": 300300.0
+      "ticker": "JP.7267",
+      "company_name": "本田技研工業",
+      "sector": "Consumer Cyclical",
+      "entered_at": "2026-09-01T09:22:48.396613+09:00",
+      "entry_catalyst": "手放しで喜べない5307億円の「過去最高益」。ホンダが直面する“四輪で稼げない現実”…本当の正念場は第2四半期に訪れる(carview！) 2026年8月5日、ホンダは2027年3月期（2026年度）第1四半期（4〜6月期）決算を発表し、売上収益が6兆615億円（前年同期比13.5%増）、営業利益が5307億円（同117.4%増）となった",
+      "hold_rationale": "fundamental catalyst: earnings",
+      "unrealized_pct": 0.84,
+      "qty": 10400.0,
+      "avg_cost": 1728.5,
+      "last_price": 1743.0,
+      "market_value": 18127200.0,
+      "unrealized_pnl": 150800.0
     }
   ],
   "equity_curve": [
@@ -467,6 +467,13 @@
       "total_assets": 180089072.19,
       "realized_pnl": 19835190.59,
       "unrealized_pnl": 253881.59
+    },
+    {
+      "date": "2026-09-01",
+      "index": 109.1256,
+      "total_assets": 180143712.55,
+      "realized_pnl": 19765590.59,
+      "unrealized_pnl": 378121.96
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -700,10 +707,14 @@
         },
         {
           "date": "2026-08-31",
-          "index": 98.9667
+          "index": 99.0701
+        },
+        {
+          "date": "2026-09-01",
+          "index": 98.8736
         }
       ],
-      "period_return_pct": -1.03,
+      "period_return_pct": -1.13,
       "filled_dates": [
         "2026-08-28"
       ]
@@ -937,22 +948,26 @@
         },
         {
           "date": "2026-08-31",
-          "index": 102.0745
+          "index": 101.622
+        },
+        {
+          "date": "2026-09-01",
+          "index": 101.4037
         }
       ],
-      "period_return_pct": 2.07,
+      "period_return_pct": 1.4,
       "filled_dates": [
         "2026-07-03",
         "2026-08-28",
-        "2026-08-31"
+        "2026-09-01"
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 159.902,
-      "fx_rate_last_date": "2026-08-31"
+      "fx_rate_last": 159.778,
+      "fx_rate_last_date": "2026-09-01"
     }
   ],
-  "invested_ratio_pct": 39.71,
+  "invested_ratio_pct": 39.79,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
@@ -961,6 +976,55 @@
     "range": "all"
   },
   "recent_trades": [
+    {
+      "time": "2026-09-01T10:25:53+09:00",
+      "ticker": "JP.9424",
+      "side": "SELL",
+      "qty": 500.0,
+      "price": 118.0
+    },
+    {
+      "time": "2026-09-01T10:08:58+09:00",
+      "ticker": "JP.1514",
+      "side": "SELL",
+      "qty": 27300.0,
+      "price": 660.0
+    },
+    {
+      "time": "2026-09-01T09:54:54+09:00",
+      "ticker": "JP.9424",
+      "side": "SELL",
+      "qty": 151000.0,
+      "price": 118.0
+    },
+    {
+      "time": "2026-09-01T09:22:54+09:00",
+      "ticker": "JP.9424",
+      "side": "BUY",
+      "qty": 151500.0,
+      "price": 119.0
+    },
+    {
+      "time": "2026-09-01T09:22:53+09:00",
+      "ticker": "JP.2329",
+      "side": "SELL",
+      "qty": 35500.0,
+      "price": 508.0
+    },
+    {
+      "time": "2026-09-01T09:22:48+09:00",
+      "ticker": "JP.7267",
+      "side": "BUY",
+      "qty": 10400.0,
+      "price": 1728.5
+    },
+    {
+      "time": "2026-09-01T09:22:44+09:00",
+      "ticker": "JP.2329",
+      "side": "BUY",
+      "qty": 35500.0,
+      "price": 508.0
+    },
     {
       "time": "2026-08-31T09:18:16+09:00",
       "ticker": "JP.1514",
@@ -981,55 +1045,6 @@
       "side": "SELL",
       "qty": 5800.0,
       "price": 3046.0
-    },
-    {
-      "time": "2026-08-28T09:22:29+09:00",
-      "ticker": "JP.2181",
-      "side": "BUY",
-      "qty": 60400.0,
-      "price": 296.5
-    },
-    {
-      "time": "2026-08-27T12:30:57+09:00",
-      "ticker": "JP.6305",
-      "side": "SELL",
-      "qty": 2900.0,
-      "price": 5850.0
-    },
-    {
-      "time": "2026-08-27T09:22:19+09:00",
-      "ticker": "JP.4689",
-      "side": "BUY",
-      "qty": 32600.0,
-      "price": 549.6
-    },
-    {
-      "time": "2026-08-27T09:22:17+09:00",
-      "ticker": "JP.6728",
-      "side": "SELL",
-      "qty": 2300.0,
-      "price": 7730.0
-    },
-    {
-      "time": "2026-08-26T12:32:29+09:00",
-      "ticker": "JP.7751",
-      "side": "SELL",
-      "qty": 2500.0,
-      "price": 4678.0
-    },
-    {
-      "time": "2026-08-26T12:31:44+09:00",
-      "ticker": "JP.7751",
-      "side": "SELL",
-      "qty": 1200.0,
-      "price": 4678.0
-    },
-    {
-      "time": "2026-08-26T09:40:46+09:00",
-      "ticker": "JP.9722",
-      "side": "SELL",
-      "qty": 4600.0,
-      "price": 2760.0
     }
   ],
   "notes": []
