@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T11:35:02.190249+09:00",
+  "generated_at": "2026-09-02T15:35:04.121129+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
@@ -11,11 +11,11 @@
     "initial_cash": 160000000.0,
     "cash": 89249281.39,
     "realized_pnl": 18654190.59,
-    "holding_value": 88635448.86,
-    "total_assets": 177884730.26,
-    "unrealized_pnl": -769460.34,
-    "total_pnl": 17884730.26,
-    "total_return_pct": 11.18
+    "holding_value": 88164600.43,
+    "total_assets": 177413881.82,
+    "unrealized_pnl": -1240308.78,
+    "total_pnl": 17413881.82,
+    "total_return_pct": 10.88
   },
   "positions": [
     {
@@ -25,12 +25,12 @@
       "entered_at": "2026-08-27T09:22:19.473670+09:00",
       "entry_catalyst": "LINEヤフー、第1四半期 コマース売上12.5%増 ヤフーショッピングやグループの増収寄与(日本ネット経済新聞) LINEヤフーの2026年4ｰ6月期(第1四半期)におけるコマース事業の売上収益は、前年同期比12.5%増の2428億円だった。BEENOS、LINE MAN CORPORATION PTE.LTD.",
       "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": -0.87,
+      "unrealized_pct": -2.31,
       "qty": 32600.0,
       "avg_cost": 549.6,
-      "last_price": 544.8,
-      "market_value": 17760479.6,
-      "unrealized_pnl": -156479.6
+      "last_price": 536.9,
+      "market_value": 17502940.8,
+      "unrealized_pnl": -414018.41
     },
     {
       "ticker": "JP.2181",
@@ -39,12 +39,12 @@
       "entered_at": "2026-08-28T09:22:29.033332+09:00",
       "entry_catalyst": "パーソルＨＤ (2181) 第三者割当による自己株式処分の払込完了に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 1.28,
+      "unrealized_pct": 0.47,
       "qty": 60400.0,
       "avg_cost": 296.5,
-      "last_price": 300.3,
-      "market_value": 18138119.26,
-      "unrealized_pnl": 229519.26
+      "last_price": 297.9,
+      "market_value": 17993159.63,
+      "unrealized_pnl": 84559.63
     },
     {
       "ticker": "JP.7267",
@@ -53,12 +53,12 @@
       "entered_at": "2026-09-01T09:22:48.396613+09:00",
       "entry_catalyst": "手放しで喜べない5307億円の「過去最高益」。ホンダが直面する“四輪で稼げない現実”…本当の正念場は第2四半期に訪れる(carview！) 2026年8月5日、ホンダは2027年3月期（2026年度）第1四半期（4〜6月期）決算を発表し、売上収益が6兆615億円（前年同期比13.5%増）、営業利益が5307億円（同117.4%増）となった",
       "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": -2.2,
+      "unrealized_pct": -2.4,
       "qty": 10400.0,
       "avg_cost": 1728.5,
-      "last_price": 1690.5,
-      "market_value": 17581200.0,
-      "unrealized_pnl": -395200.0
+      "last_price": 1687.0,
+      "market_value": 17544800.0,
+      "unrealized_pnl": -431600.0
     },
     {
       "ticker": "JP.2175",
@@ -67,12 +67,12 @@
       "entered_at": "2026-09-02T09:22:15.647150+09:00",
       "entry_catalyst": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ． が 株式会社エス・エム・エス（JP.2175）の大量保有報告を提出 保有割合 22.38%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": -0.99,
+      "unrealized_pct": -0.44,
       "qty": 7100.0,
       "avg_cost": 2520.0,
-      "last_price": 2495.0,
-      "market_value": 17714500.0,
-      "unrealized_pnl": -177500.0
+      "last_price": 2509.0,
+      "market_value": 17813900.0,
+      "unrealized_pnl": -78100.0
     },
     {
       "ticker": "JP.6952",
@@ -81,12 +81,12 @@
       "entered_at": "2026-09-02T09:22:30.134957+09:00",
       "entry_catalyst": "カシオが北米で大人気！G-SHOCKの普遍的な魅力に再び注目が集まる(＠ＤＩＭＥ) カシオ計算機の復調が鮮明になってきました。2026年4月～6月の営業利益は前年同期間の3.4倍に跳ね上がりました。カシオは今期通期の業績予想を早くも上方修正。営業利益を従来予想比でおよそ31％引き上げ",
       "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": -1.52,
+      "unrealized_pct": -2.26,
       "qty": 7100.0,
       "avg_cost": 2494.5,
-      "last_price": 2456.5,
-      "market_value": 17441150.0,
-      "unrealized_pnl": -269800.0
+      "last_price": 2438.0,
+      "market_value": 17309800.0,
+      "unrealized_pnl": -401150.0
     }
   ],
   "equity_curve": [
@@ -491,10 +491,10 @@
     },
     {
       "date": "2026-09-02",
-      "index": 107.8531,
-      "total_assets": 178043152.92,
+      "index": 107.5525,
+      "total_assets": 177546920.62,
       "realized_pnl": 18654190.59,
-      "unrealized_pnl": -611037.67
+      "unrealized_pnl": -1107269.97
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -736,10 +736,10 @@
         },
         {
           "date": "2026-09-02",
-          "index": 96.3348
+          "index": 96.1077
         }
       ],
-      "period_return_pct": -3.67,
+      "period_return_pct": -3.89,
       "filled_dates": [
         "2026-08-28"
       ]
@@ -981,10 +981,10 @@
         },
         {
           "date": "2026-09-02",
-          "index": 101.0069
+          "index": 100.5608
         }
       ],
-      "period_return_pct": 1.01,
+      "period_return_pct": 0.56,
       "filled_dates": [
         "2026-07-03",
         "2026-08-28",
@@ -992,11 +992,11 @@
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 160.293,
+      "fx_rate_last": 159.585,
       "fx_rate_last_date": "2026-09-02"
     }
   ],
-  "invested_ratio_pct": 49.83,
+  "invested_ratio_pct": 49.69,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
