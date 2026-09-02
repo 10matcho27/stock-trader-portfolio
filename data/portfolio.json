@@ -1,37 +1,23 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-01T15:35:03.234399+09:00",
+  "generated_at": "2026-09-02T11:35:02.190249+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
   "valuation_available": true,
   "summary": {
     "currency": "JPY",
-    "position_count": 4,
+    "position_count": 5,
     "initial_cash": 160000000.0,
-    "cash": 108493531.39,
-    "realized_pnl": 19765590.59,
-    "holding_value": 71329840.8,
-    "total_assets": 179823372.19,
-    "unrealized_pnl": 57781.59,
-    "total_pnl": 19823372.19,
-    "total_return_pct": 12.39
+    "cash": 89249281.39,
+    "realized_pnl": 18654190.59,
+    "holding_value": 88635448.86,
+    "total_assets": 177884730.26,
+    "unrealized_pnl": -769460.34,
+    "total_pnl": 17884730.26,
+    "total_return_pct": 11.18
   },
   "positions": [
-    {
-      "ticker": "JP.3549",
-      "company_name": "クスリのアオキホールディングス",
-      "sector": "Healthcare",
-      "entered_at": "2026-08-25T09:21:43.442877+09:00",
-      "entry_catalyst": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ． が 株式会社クスリのアオキホールディングス（JP.3549）の大量保有報告を提出 保有割合 15.10%",
-      "hold_rationale": "official filing: edinet",
-      "unrealized_pct": -4.53,
-      "qty": 4100.0,
-      "avg_cost": 4261.0,
-      "last_price": 4068.0,
-      "market_value": 16678800.0,
-      "unrealized_pnl": -791300.0
-    },
     {
       "ticker": "JP.4689",
       "company_name": "LINEヤフー",
@@ -39,12 +25,12 @@
       "entered_at": "2026-08-27T09:22:19.473670+09:00",
       "entry_catalyst": "LINEヤフー、第1四半期 コマース売上12.5%増 ヤフーショッピングやグループの増収寄与(日本ネット経済新聞) LINEヤフーの2026年4ｰ6月期(第1四半期)におけるコマース事業の売上収益は、前年同期比12.5%増の2428億円だった。BEENOS、LINE MAN CORPORATION PTE.LTD.",
       "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": 2.15,
+      "unrealized_pct": -0.87,
       "qty": 32600.0,
       "avg_cost": 549.6,
-      "last_price": 561.4,
-      "market_value": 18301640.8,
-      "unrealized_pnl": 384681.59
+      "last_price": 544.8,
+      "market_value": 17760479.6,
+      "unrealized_pnl": -156479.6
     },
     {
       "ticker": "JP.2181",
@@ -53,12 +39,12 @@
       "entered_at": "2026-08-28T09:22:29.033332+09:00",
       "entry_catalyst": "パーソルＨＤ (2181) 第三者割当による自己株式処分の払込完了に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 2.36,
+      "unrealized_pct": 1.28,
       "qty": 60400.0,
       "avg_cost": 296.5,
-      "last_price": 303.5,
-      "market_value": 18331400.0,
-      "unrealized_pnl": 422800.0
+      "last_price": 300.3,
+      "market_value": 18138119.26,
+      "unrealized_pnl": 229519.26
     },
     {
       "ticker": "JP.7267",
@@ -67,12 +53,40 @@
       "entered_at": "2026-09-01T09:22:48.396613+09:00",
       "entry_catalyst": "手放しで喜べない5307億円の「過去最高益」。ホンダが直面する“四輪で稼げない現実”…本当の正念場は第2四半期に訪れる(carview！) 2026年8月5日、ホンダは2027年3月期（2026年度）第1四半期（4〜6月期）決算を発表し、売上収益が6兆615億円（前年同期比13.5%増）、営業利益が5307億円（同117.4%増）となった",
       "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": 0.23,
+      "unrealized_pct": -2.2,
       "qty": 10400.0,
       "avg_cost": 1728.5,
-      "last_price": 1732.5,
-      "market_value": 18018000.0,
-      "unrealized_pnl": 41600.0
+      "last_price": 1690.5,
+      "market_value": 17581200.0,
+      "unrealized_pnl": -395200.0
+    },
+    {
+      "ticker": "JP.2175",
+      "company_name": "エス・エム・エス",
+      "sector": "Healthcare",
+      "entered_at": "2026-09-02T09:22:15.647150+09:00",
+      "entry_catalyst": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ． が 株式会社エス・エム・エス（JP.2175）の大量保有報告を提出 保有割合 22.38%",
+      "hold_rationale": "official filing: edinet",
+      "unrealized_pct": -0.99,
+      "qty": 7100.0,
+      "avg_cost": 2520.0,
+      "last_price": 2495.0,
+      "market_value": 17714500.0,
+      "unrealized_pnl": -177500.0
+    },
+    {
+      "ticker": "JP.6952",
+      "company_name": "カシオ計算機",
+      "sector": "Technology",
+      "entered_at": "2026-09-02T09:22:30.134957+09:00",
+      "entry_catalyst": "カシオが北米で大人気！G-SHOCKの普遍的な魅力に再び注目が集まる(＠ＤＩＭＥ) カシオ計算機の復調が鮮明になってきました。2026年4月～6月の営業利益は前年同期間の3.4倍に跳ね上がりました。カシオは今期通期の業績予想を早くも上方修正。営業利益を従来予想比でおよそ31％引き上げ",
+      "hold_rationale": "fundamental catalyst: guidance",
+      "unrealized_pct": -1.52,
+      "qty": 7100.0,
+      "avg_cost": 2494.5,
+      "last_price": 2456.5,
+      "market_value": 17441150.0,
+      "unrealized_pnl": -269800.0
     }
   ],
   "equity_curve": [
@@ -474,6 +488,13 @@
       "total_assets": 180030609.86,
       "realized_pnl": 19765590.59,
       "unrealized_pnl": 265019.26
+    },
+    {
+      "date": "2026-09-02",
+      "index": 107.8531,
+      "total_assets": 178043152.92,
+      "realized_pnl": 18654190.59,
+      "unrealized_pnl": -611037.67
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -711,10 +732,14 @@
         },
         {
           "date": "2026-09-01",
-          "index": 99.1394
+          "index": 98.9258
+        },
+        {
+          "date": "2026-09-02",
+          "index": 96.3348
         }
       ],
-      "period_return_pct": -0.86,
+      "period_return_pct": -3.67,
       "filled_dates": [
         "2026-08-28"
       ]
@@ -952,22 +977,26 @@
         },
         {
           "date": "2026-09-01",
-          "index": 101.5281
+          "index": 100.6629
+        },
+        {
+          "date": "2026-09-02",
+          "index": 101.0069
         }
       ],
-      "period_return_pct": 1.53,
+      "period_return_pct": 1.01,
       "filled_dates": [
         "2026-07-03",
         "2026-08-28",
-        "2026-09-01"
+        "2026-09-02"
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 159.974,
-      "fx_rate_last_date": "2026-09-01"
+      "fx_rate_last": 160.293,
+      "fx_rate_last_date": "2026-09-02"
     }
   ],
-  "invested_ratio_pct": 39.67,
+  "invested_ratio_pct": 49.83,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
@@ -976,6 +1005,41 @@
     "range": "all"
   },
   "recent_trades": [
+    {
+      "time": "2026-09-02T10:01:30+09:00",
+      "ticker": "JP.7606",
+      "side": "SELL",
+      "qty": 7300.0,
+      "price": 2409.0
+    },
+    {
+      "time": "2026-09-02T09:22:30+09:00",
+      "ticker": "JP.6952",
+      "side": "BUY",
+      "qty": 7100.0,
+      "price": 2494.5
+    },
+    {
+      "time": "2026-09-02T09:22:26+09:00",
+      "ticker": "JP.3549",
+      "side": "SELL",
+      "qty": 4100.0,
+      "price": 4038.0
+    },
+    {
+      "time": "2026-09-02T09:22:15+09:00",
+      "ticker": "JP.2175",
+      "side": "BUY",
+      "qty": 7100.0,
+      "price": 2520.0
+    },
+    {
+      "time": "2026-09-02T09:21:08+09:00",
+      "ticker": "JP.7606",
+      "side": "BUY",
+      "qty": 7300.0,
+      "price": 2436.0
+    },
     {
       "time": "2026-09-01T10:25:53+09:00",
       "ticker": "JP.9424",
@@ -1010,41 +1074,6 @@
       "side": "SELL",
       "qty": 35500.0,
       "price": 508.0
-    },
-    {
-      "time": "2026-09-01T09:22:48+09:00",
-      "ticker": "JP.7267",
-      "side": "BUY",
-      "qty": 10400.0,
-      "price": 1728.5
-    },
-    {
-      "time": "2026-09-01T09:22:44+09:00",
-      "ticker": "JP.2329",
-      "side": "BUY",
-      "qty": 35500.0,
-      "price": 508.0
-    },
-    {
-      "time": "2026-08-31T09:18:16+09:00",
-      "ticker": "JP.1514",
-      "side": "BUY",
-      "qty": 27300.0,
-      "price": 657.0
-    },
-    {
-      "time": "2026-08-28T15:07:41+09:00",
-      "ticker": "JP.6503",
-      "side": "SELL",
-      "qty": 3100.0,
-      "price": 5620.0
-    },
-    {
-      "time": "2026-08-28T09:22:30+09:00",
-      "ticker": "JP.9201",
-      "side": "SELL",
-      "qty": 5800.0,
-      "price": 3046.0
     }
   ],
   "notes": []
