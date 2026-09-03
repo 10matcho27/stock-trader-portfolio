@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-03T11:35:02.313312+09:00",
+  "generated_at": "2026-09-03T15:35:03.412268+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
@@ -11,11 +11,11 @@
     "initial_cash": 160000000.0,
     "cash": 53598331.39,
     "realized_pnl": 17896590.59,
-    "holding_value": 124058320.4,
-    "total_assets": 177656651.79,
-    "unrealized_pnl": -239938.81,
-    "total_pnl": 17656651.79,
-    "total_return_pct": 11.04
+    "holding_value": 123795299.57,
+    "total_assets": 177393630.96,
+    "unrealized_pnl": -502959.63,
+    "total_pnl": 17393630.96,
+    "total_return_pct": 10.87
   },
   "positions": [
     {
@@ -25,12 +25,12 @@
       "entered_at": "2026-08-27T09:22:19.473670+09:00",
       "entry_catalyst": "LINEヤフー、第1四半期 コマース売上12.5%増 ヤフーショッピングやグループの増収寄与(日本ネット経済新聞) LINEヤフーの2026年4ｰ6月期(第1四半期)におけるコマース事業の売上収益は、前年同期比12.5%増の2428億円だった。BEENOS、LINE MAN CORPORATION PTE.LTD.",
       "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": -1.35,
+      "unrealized_pct": -2.91,
       "qty": 32600.0,
       "avg_cost": 549.6,
-      "last_price": 542.2,
-      "market_value": 17675720.4,
-      "unrealized_pnl": -241238.81
+      "last_price": 533.6,
+      "market_value": 17395359.2,
+      "unrealized_pnl": -521600.0
     },
     {
       "ticker": "JP.2181",
@@ -39,12 +39,12 @@
       "entered_at": "2026-08-28T09:22:29.033332+09:00",
       "entry_catalyst": "パーソルＨＤ (2181) 第三者割当による自己株式処分の払込完了に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 0.67,
+      "unrealized_pct": 0.71,
       "qty": 60400.0,
       "avg_cost": 296.5,
-      "last_price": 298.5,
-      "market_value": 18029400.0,
-      "unrealized_pnl": 120800.0
+      "last_price": 298.6,
+      "market_value": 18035440.37,
+      "unrealized_pnl": 126840.37
     },
     {
       "ticker": "JP.2175",
@@ -53,12 +53,12 @@
       "entered_at": "2026-09-02T09:22:15.647150+09:00",
       "entry_catalyst": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ． が 株式会社エス・エム・エス（JP.2175）の大量保有報告を提出 保有割合 22.38%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": -0.56,
+      "unrealized_pct": -1.35,
       "qty": 7100.0,
       "avg_cost": 2520.0,
-      "last_price": 2506.0,
-      "market_value": 17792600.0,
-      "unrealized_pnl": -99400.0
+      "last_price": 2486.0,
+      "market_value": 17650600.0,
+      "unrealized_pnl": -241400.0
     },
     {
       "ticker": "JP.2206",
@@ -67,12 +67,12 @@
       "entered_at": "2026-09-03T09:23:01.123901+09:00",
       "entry_catalyst": "グリコ (2206) 自己株式の取得状況に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": -0.56,
+      "unrealized_pct": -1.11,
       "qty": 3400.0,
       "avg_cost": 5141.0,
-      "last_price": 5112.0,
-      "market_value": 17380800.0,
-      "unrealized_pnl": -98600.0
+      "last_price": 5084.0,
+      "market_value": 17285600.0,
+      "unrealized_pnl": -193800.0
     },
     {
       "ticker": "JP.2492",
@@ -81,12 +81,12 @@
       "entered_at": "2026-09-03T09:23:03.047113+09:00",
       "entry_catalyst": "インフォマート株が反発、2026年12月期通期は営業利益+75%予想。PERは53倍台(LIMO) 決算の数字が良くなることと、株価がその改善をどう受け取るかは別の話だ。1カ月で2割以上値上がりした銘柄を前にすると、その上げ幅が業績の改善に見合っているのかを確かめたくなる。 企業間取引の電子化を手",
       "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": 1.22,
+      "unrealized_pct": 0.91,
       "qty": 27000.0,
       "avg_cost": 658.0,
-      "last_price": 666.0,
-      "market_value": 17982000.0,
-      "unrealized_pnl": 216000.0
+      "last_price": 664.0,
+      "market_value": 17928000.0,
+      "unrealized_pnl": 162000.0
     },
     {
       "ticker": "JP.2593",
@@ -95,12 +95,12 @@
       "entered_at": "2026-09-03T09:23:05.029517+09:00",
       "entry_catalyst": "【年初来高値更新】伊藤園が前日比+8.70％高、1Q決算を好感（2026年9月2日・株式取引概況）(LIMO) 伊藤園＜2593＞は1日、2027年4月期第1四半期（2026年5月1日〜7月31日）の決算を発表しました。原材料・エネルギー価格の高騰が続くなか、国内外で実施した価格改定の浸透や費用効率化を背景に、",
       "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": -0.78,
+      "unrealized_pct": 0.94,
       "qty": 5500.0,
       "avg_cost": 3199.0,
-      "last_price": 3174.0,
-      "market_value": 17457000.0,
-      "unrealized_pnl": -137500.0
+      "last_price": 3229.0,
+      "market_value": 17759500.0,
+      "unrealized_pnl": 165000.0
     },
     {
       "ticker": "JP.7743",
@@ -526,10 +526,10 @@
     },
     {
       "date": "2026-09-03",
-      "index": 107.431,
-      "total_assets": 177346291.73,
+      "index": 107.3072,
+      "total_assets": 177141931.82,
       "realized_pnl": 17896590.59,
-      "unrealized_pnl": -550298.86
+      "unrealized_pnl": -754658.78
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -759,7 +759,7 @@
         },
         {
           "date": "2026-08-28",
-          "index": 99.21
+          "index": 98.8013
         },
         {
           "date": "2026-08-31",
@@ -775,11 +775,13 @@
         },
         {
           "date": "2026-09-03",
-          "index": 96.307
+          "index": 96.012
         }
       ],
-      "period_return_pct": -3.69,
-      "filled_dates": []
+      "period_return_pct": -3.99,
+      "filled_dates": [
+        "2026-08-28"
+      ]
     },
     {
       "key": "sp500",
@@ -1006,7 +1008,7 @@
         },
         {
           "date": "2026-08-28",
-          "index": 101.4507
+          "index": 101.7037
         },
         {
           "date": "2026-08-31",
@@ -1022,21 +1024,22 @@
         },
         {
           "date": "2026-09-03",
-          "index": 101.4105
+          "index": 99.5462
         }
       ],
-      "period_return_pct": 1.41,
+      "period_return_pct": -0.45,
       "filled_dates": [
         "2026-07-03",
+        "2026-08-28",
         "2026-09-03"
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 160.196,
-      "fx_rate_last_date": "2026-09-02"
+      "fx_rate_last": 157.251,
+      "fx_rate_last_date": "2026-09-03"
     }
   ],
-  "invested_ratio_pct": 69.83,
+  "invested_ratio_pct": 69.79,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
