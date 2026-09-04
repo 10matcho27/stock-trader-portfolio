@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-04T11:35:05.286895+09:00",
+  "generated_at": "2026-09-04T15:35:05.926787+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
@@ -11,11 +11,11 @@
     "initial_cash": 160000000.0,
     "cash": 36250231.39,
     "realized_pnl": 17896590.59,
-    "holding_value": 142208080.03,
-    "total_assets": 178458311.42,
-    "unrealized_pnl": 561720.83,
-    "total_pnl": 18458311.42,
-    "total_return_pct": 11.54
+    "holding_value": 141952180.74,
+    "total_assets": 178202412.13,
+    "unrealized_pnl": 305821.53,
+    "total_pnl": 18202412.13,
+    "total_return_pct": 11.38
   },
   "positions": [
     {
@@ -25,12 +25,12 @@
       "entered_at": "2026-08-27T09:22:19.473670+09:00",
       "entry_catalyst": "LINEヤフー、第1四半期 コマース売上12.5%増 ヤフーショッピングやグループの増収寄与(日本ネット経済新聞) LINEヤフーの2026年4ｰ6月期(第1四半期)におけるコマース事業の売上収益は、前年同期比12.5%増の2428億円だった。BEENOS、LINE MAN CORPORATION PTE.LTD.",
       "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": -2.62,
+      "unrealized_pct": -3.66,
       "qty": 32600.0,
       "avg_cost": 549.6,
-      "last_price": 535.2,
-      "market_value": 17447520.4,
-      "unrealized_pnl": -469438.81
+      "last_price": 529.5,
+      "market_value": 17261700.0,
+      "unrealized_pnl": -655259.2
     },
     {
       "ticker": "JP.2181",
@@ -39,12 +39,12 @@
       "entered_at": "2026-08-28T09:22:29.033332+09:00",
       "entry_catalyst": "パーソルＨＤ (2181) 第三者割当による自己株式処分の払込完了に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 1.65,
+      "unrealized_pct": 0.91,
       "qty": 60400.0,
       "avg_cost": 296.5,
-      "last_price": 301.4,
-      "market_value": 18204559.63,
-      "unrealized_pnl": 295959.63
+      "last_price": 299.2,
+      "market_value": 18071680.74,
+      "unrealized_pnl": 163080.74
     },
     {
       "ticker": "JP.2175",
@@ -53,12 +53,12 @@
       "entered_at": "2026-09-02T09:22:15.647150+09:00",
       "entry_catalyst": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ． が 株式会社エス・エム・エス（JP.2175）の大量保有報告を提出 保有割合 22.38%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": -0.48,
+      "unrealized_pct": 0.0,
       "qty": 7100.0,
       "avg_cost": 2520.0,
-      "last_price": 2508.0,
-      "market_value": 17806800.0,
-      "unrealized_pnl": -85200.0
+      "last_price": 2520.0,
+      "market_value": 17892000.0,
+      "unrealized_pnl": 0.0
     },
     {
       "ticker": "JP.2206",
@@ -67,12 +67,12 @@
       "entered_at": "2026-09-03T09:23:01.123901+09:00",
       "entry_catalyst": "グリコ (2206) 自己株式の取得状況に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": -1.96,
+      "unrealized_pct": -1.46,
       "qty": 3400.0,
       "avg_cost": 5141.0,
-      "last_price": 5040.0,
-      "market_value": 17136000.0,
-      "unrealized_pnl": -343400.0
+      "last_price": 5066.0,
+      "market_value": 17224400.0,
+      "unrealized_pnl": -255000.0
     },
     {
       "ticker": "JP.2492",
@@ -81,12 +81,12 @@
       "entered_at": "2026-09-03T09:23:03.047113+09:00",
       "entry_catalyst": "インフォマート株が反発、2026年12月期通期は営業利益+75%予想。PERは53倍台(LIMO) 決算の数字が良くなることと、株価がその改善をどう受け取るかは別の話だ。1カ月で2割以上値上がりした銘柄を前にすると、その上げ幅が業績の改善に見合っているのかを確かめたくなる。 企業間取引の電子化を手",
       "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": 6.69,
+      "unrealized_pct": 6.38,
       "qty": 27000.0,
       "avg_cost": 658.0,
-      "last_price": 702.0,
-      "market_value": 18954000.0,
-      "unrealized_pnl": 1188000.0
+      "last_price": 700.0,
+      "market_value": 18900000.0,
+      "unrealized_pnl": 1134000.0
     },
     {
       "ticker": "JP.2593",
@@ -95,12 +95,12 @@
       "entered_at": "2026-09-03T09:23:05.029517+09:00",
       "entry_catalyst": "【年初来高値更新】伊藤園が前日比+8.70％高、1Q決算を好感（2026年9月2日・株式取引概況）(LIMO) 伊藤園＜2593＞は1日、2027年4月期第1四半期（2026年5月1日〜7月31日）の決算を発表しました。原材料・エネルギー価格の高騰が続くなか、国内外で実施した価格改定の浸透や費用効率化を背景に、",
       "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": 0.41,
+      "unrealized_pct": -0.25,
       "qty": 5500.0,
       "avg_cost": 3199.0,
-      "last_price": 3212.0,
-      "market_value": 17666000.0,
-      "unrealized_pnl": 71500.0
+      "last_price": 3191.0,
+      "market_value": 17550500.0,
+      "unrealized_pnl": -44000.0
     },
     {
       "ticker": "JP.7743",
@@ -109,12 +109,12 @@
       "entered_at": "2026-09-03T09:23:06.216158+09:00",
       "entry_catalyst": "中国EMS大手が日本のコンタクトレンズを欲しがるワケ…老舗メーカー｢シード｣の株式公開買い付けを進める真の狙い | ビジネス | 東洋経済オンライン 巧妙な買収スキームの裏側を徹底解説します。このクロスボーダーM&amp;Aの真意とは？",
       "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": 0.0,
+      "unrealized_pct": 0.13,
       "qty": 22400.0,
       "avg_cost": 792.0,
-      "last_price": 792.0,
-      "market_value": 17740800.0,
-      "unrealized_pnl": 0.0
+      "last_price": 793.0,
+      "market_value": 17763200.0,
+      "unrealized_pnl": 22400.0
     },
     {
       "ticker": "JP.8725",
@@ -123,12 +123,12 @@
       "entered_at": "2026-09-04T09:22:05.561575+09:00",
       "entry_catalyst": "ＭＳ＆ＡＤ (8725) 自己株式の取得状況に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": -0.55,
+      "unrealized_pct": -0.34,
       "qty": 3300.0,
       "avg_cost": 5257.0,
-      "last_price": 5228.0,
-      "market_value": 17252400.0,
-      "unrealized_pnl": -95700.0
+      "last_price": 5239.0,
+      "market_value": 17288700.0,
+      "unrealized_pnl": -59400.0
     }
   ],
   "equity_curve": [
@@ -547,10 +547,10 @@
     },
     {
       "date": "2026-09-04",
-      "index": 107.9393,
-      "total_assets": 178185450.65,
+      "index": 107.9176,
+      "total_assets": 178149609.86,
       "realized_pnl": 17896590.59,
-      "unrealized_pnl": 288860.06
+      "unrealized_pnl": 253019.26
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -800,10 +800,10 @@
         },
         {
           "date": "2026-09-04",
-          "index": 96.7493
+          "index": 97.0884
         }
       ],
-      "period_return_pct": -3.25,
+      "period_return_pct": -2.91,
       "filled_dates": []
     },
     {
@@ -1051,21 +1051,21 @@
         },
         {
           "date": "2026-09-04",
-          "index": 99.8163
+          "index": 99.8777
         }
       ],
-      "period_return_pct": -0.18,
+      "period_return_pct": -0.12,
       "filled_dates": [
         "2026-07-03",
         "2026-09-04"
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 156.027,
+      "fx_rate_last": 156.123,
       "fx_rate_last_date": "2026-09-04"
     }
   ],
-  "invested_ratio_pct": 79.69,
+  "invested_ratio_pct": 79.66,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
