@@ -1,37 +1,23 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-04T15:35:05.926787+09:00",
+  "generated_at": "2026-09-07T11:35:15.566831+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
   "valuation_available": true,
   "summary": {
     "currency": "JPY",
-    "position_count": 8,
+    "position_count": 6,
     "initial_cash": 160000000.0,
-    "cash": 36250231.39,
-    "realized_pnl": 17896590.59,
-    "holding_value": 141952180.74,
-    "total_assets": 178202412.13,
-    "unrealized_pnl": 305821.53,
-    "total_pnl": 18202412.13,
-    "total_return_pct": 11.38
+    "cash": 70598990.59,
+    "realized_pnl": 16293390.59,
+    "holding_value": 108215559.63,
+    "total_assets": 178814550.23,
+    "unrealized_pnl": 2521159.63,
+    "total_pnl": 18814550.23,
+    "total_return_pct": 11.76
   },
   "positions": [
-    {
-      "ticker": "JP.4689",
-      "company_name": "LINEヤフー",
-      "sector": "Consumer Cyclical",
-      "entered_at": "2026-08-27T09:22:19.473670+09:00",
-      "entry_catalyst": "LINEヤフー、第1四半期 コマース売上12.5%増 ヤフーショッピングやグループの増収寄与(日本ネット経済新聞) LINEヤフーの2026年4ｰ6月期(第1四半期)におけるコマース事業の売上収益は、前年同期比12.5%増の2428億円だった。BEENOS、LINE MAN CORPORATION PTE.LTD.",
-      "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": -3.66,
-      "qty": 32600.0,
-      "avg_cost": 549.6,
-      "last_price": 529.5,
-      "market_value": 17261700.0,
-      "unrealized_pnl": -655259.2
-    },
     {
       "ticker": "JP.2181",
       "company_name": "パーソルホールディングス",
@@ -39,12 +25,12 @@
       "entered_at": "2026-08-28T09:22:29.033332+09:00",
       "entry_catalyst": "パーソルＨＤ (2181) 第三者割当による自己株式処分の払込完了に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 0.91,
+      "unrealized_pct": 0.13,
       "qty": 60400.0,
       "avg_cost": 296.5,
-      "last_price": 299.2,
-      "market_value": 18071680.74,
-      "unrealized_pnl": 163080.74
+      "last_price": 296.9,
+      "market_value": 17932759.63,
+      "unrealized_pnl": 24159.63
     },
     {
       "ticker": "JP.2175",
@@ -53,26 +39,12 @@
       "entered_at": "2026-09-02T09:22:15.647150+09:00",
       "entry_catalyst": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ． が 株式会社エス・エム・エス（JP.2175）の大量保有報告を提出 保有割合 22.38%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": 0.0,
+      "unrealized_pct": 2.94,
       "qty": 7100.0,
       "avg_cost": 2520.0,
-      "last_price": 2520.0,
-      "market_value": 17892000.0,
-      "unrealized_pnl": 0.0
-    },
-    {
-      "ticker": "JP.2206",
-      "company_name": "江崎グリコ",
-      "sector": "Consumer Defensive",
-      "entered_at": "2026-09-03T09:23:01.123901+09:00",
-      "entry_catalyst": "グリコ (2206) 自己株式の取得状況に関するお知らせ",
-      "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": -1.46,
-      "qty": 3400.0,
-      "avg_cost": 5141.0,
-      "last_price": 5066.0,
-      "market_value": 17224400.0,
-      "unrealized_pnl": -255000.0
+      "last_price": 2594.0,
+      "market_value": 18417400.0,
+      "unrealized_pnl": 525400.0
     },
     {
       "ticker": "JP.2492",
@@ -81,26 +53,12 @@
       "entered_at": "2026-09-03T09:23:03.047113+09:00",
       "entry_catalyst": "インフォマート株が反発、2026年12月期通期は営業利益+75%予想。PERは53倍台(LIMO) 決算の数字が良くなることと、株価がその改善をどう受け取るかは別の話だ。1カ月で2割以上値上がりした銘柄を前にすると、その上げ幅が業績の改善に見合っているのかを確かめたくなる。 企業間取引の電子化を手",
       "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": 6.38,
+      "unrealized_pct": 8.21,
       "qty": 27000.0,
       "avg_cost": 658.0,
-      "last_price": 700.0,
-      "market_value": 18900000.0,
-      "unrealized_pnl": 1134000.0
-    },
-    {
-      "ticker": "JP.2593",
-      "company_name": "伊藤園",
-      "sector": "Consumer Defensive",
-      "entered_at": "2026-09-03T09:23:05.029517+09:00",
-      "entry_catalyst": "【年初来高値更新】伊藤園が前日比+8.70％高、1Q決算を好感（2026年9月2日・株式取引概況）(LIMO) 伊藤園＜2593＞は1日、2027年4月期第1四半期（2026年5月1日〜7月31日）の決算を発表しました。原材料・エネルギー価格の高騰が続くなか、国内外で実施した価格改定の浸透や費用効率化を背景に、",
-      "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": -0.25,
-      "qty": 5500.0,
-      "avg_cost": 3199.0,
-      "last_price": 3191.0,
-      "market_value": 17550500.0,
-      "unrealized_pnl": -44000.0
+      "last_price": 712.0,
+      "market_value": 19224000.0,
+      "unrealized_pnl": 1458000.0
     },
     {
       "ticker": "JP.7743",
@@ -109,26 +67,40 @@
       "entered_at": "2026-09-03T09:23:06.216158+09:00",
       "entry_catalyst": "中国EMS大手が日本のコンタクトレンズを欲しがるワケ…老舗メーカー｢シード｣の株式公開買い付けを進める真の狙い | ビジネス | 東洋経済オンライン 巧妙な買収スキームの裏側を徹底解説します。このクロスボーダーM&amp;Aの真意とは？",
       "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": 0.13,
+      "unrealized_pct": 0.0,
       "qty": 22400.0,
       "avg_cost": 792.0,
-      "last_price": 793.0,
-      "market_value": 17763200.0,
-      "unrealized_pnl": 22400.0
+      "last_price": 792.0,
+      "market_value": 17740800.0,
+      "unrealized_pnl": 0.0
     },
     {
-      "ticker": "JP.8725",
-      "company_name": "MS&ADインシュアランスグループホールディングス",
-      "sector": "Financial Services",
-      "entered_at": "2026-09-04T09:22:05.561575+09:00",
-      "entry_catalyst": "ＭＳ＆ＡＤ (8725) 自己株式の取得状況に関するお知らせ",
+      "ticker": "JP.3549",
+      "company_name": "クスリのアオキホールディングス",
+      "sector": "Healthcare",
+      "entered_at": "2026-09-07T09:17:36.619038+09:00",
+      "entry_catalyst": "クスリのアオキＨＤ (3549) 自己株式の取得状況に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": -0.34,
-      "qty": 3300.0,
-      "avg_cost": 5257.0,
-      "last_price": 5239.0,
-      "market_value": 17288700.0,
-      "unrealized_pnl": -59400.0
+      "unrealized_pct": -1.25,
+      "qty": 4200.0,
+      "avg_cost": 4155.0,
+      "last_price": 4103.0,
+      "market_value": 17232600.0,
+      "unrealized_pnl": -218400.0
+    },
+    {
+      "ticker": "JP.4062",
+      "company_name": "イビデン",
+      "sector": "Technology",
+      "entered_at": "2026-09-07T09:20:42.716863+09:00",
+      "entry_catalyst": "【岐阜の部品メーカーがAI需要で世界から注目】イビデンが高単価基板の販売拡大、大幅上方修正で「営業利益倍増」を見込む 供給増へ3年総額5000億円設備投資も(マネーポストWEB) 岐阜県大垣市に本社を置く、創業110年超の部品メーカー。かつてはディーゼル車の排ガス浄化部品で知られた会社が、いまや生成AIサーバーの心臓部を支える基板メーカーとして存在感を高めている。ICパッケー",
+      "hold_rationale": "fundamental catalyst: guidance",
+      "unrealized_pct": 4.32,
+      "qty": 800.0,
+      "avg_cost": 21170.0,
+      "last_price": 22085.0,
+      "market_value": 17668000.0,
+      "unrealized_pnl": 732000.0
     }
   ],
   "equity_curve": [
@@ -551,6 +523,13 @@
       "total_assets": 178149609.86,
       "realized_pnl": 17896590.59,
       "unrealized_pnl": 253019.26
+    },
+    {
+      "date": "2026-09-07",
+      "index": 108.1043,
+      "total_assets": 178457751.36,
+      "realized_pnl": 17206190.59,
+      "unrealized_pnl": 1251560.77
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -800,10 +779,14 @@
         },
         {
           "date": "2026-09-04",
-          "index": 97.0884
+          "index": 97.1414
+        },
+        {
+          "date": "2026-09-07",
+          "index": 99.4894
         }
       ],
-      "period_return_pct": -2.91,
+      "period_return_pct": -0.51,
       "filled_dates": []
     },
     {
@@ -1051,21 +1034,25 @@
         },
         {
           "date": "2026-09-04",
-          "index": 99.8777
+          "index": 99.2074
+        },
+        {
+          "date": "2026-09-07",
+          "index": 99.5018
         }
       ],
-      "period_return_pct": -0.12,
+      "period_return_pct": -0.5,
       "filled_dates": [
         "2026-07-03",
-        "2026-09-04"
+        "2026-09-07"
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 156.123,
-      "fx_rate_last_date": "2026-09-04"
+      "fx_rate_last": 156.122,
+      "fx_rate_last_date": "2026-09-07"
     }
   ],
-  "invested_ratio_pct": 79.66,
+  "invested_ratio_pct": 60.52,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
@@ -1074,6 +1061,48 @@
     "range": "all"
   },
   "recent_trades": [
+    {
+      "time": "2026-09-07T11:13:31+09:00",
+      "ticker": "JP.4689",
+      "side": "SELL",
+      "qty": 32600.0,
+      "price": 521.6
+    },
+    {
+      "time": "2026-09-07T09:20:42+09:00",
+      "ticker": "JP.4062",
+      "side": "BUY",
+      "qty": 800.0,
+      "price": 21170.0
+    },
+    {
+      "time": "2026-09-07T09:17:40+09:00",
+      "ticker": "JP.2206",
+      "side": "SELL",
+      "qty": 3400.0,
+      "price": 5013.0
+    },
+    {
+      "time": "2026-09-07T09:17:39+09:00",
+      "ticker": "JP.2593",
+      "side": "SELL",
+      "qty": 5500.0,
+      "price": 3164.0
+    },
+    {
+      "time": "2026-09-07T09:17:38+09:00",
+      "ticker": "JP.8725",
+      "side": "SELL",
+      "qty": 3300.0,
+      "price": 5238.0
+    },
+    {
+      "time": "2026-09-07T09:17:36+09:00",
+      "ticker": "JP.3549",
+      "side": "BUY",
+      "qty": 4200.0,
+      "price": 4155.0
+    },
     {
       "time": "2026-09-04T09:22:05+09:00",
       "ticker": "JP.8725",
@@ -1101,48 +1130,6 @@
       "side": "BUY",
       "qty": 22400.0,
       "price": 792.0
-    },
-    {
-      "time": "2026-09-03T09:23:05+09:00",
-      "ticker": "JP.2593",
-      "side": "BUY",
-      "qty": 5500.0,
-      "price": 3199.0
-    },
-    {
-      "time": "2026-09-03T09:23:03+09:00",
-      "ticker": "JP.2492",
-      "side": "BUY",
-      "qty": 27000.0,
-      "price": 658.0
-    },
-    {
-      "time": "2026-09-03T09:23:01+09:00",
-      "ticker": "JP.2206",
-      "side": "BUY",
-      "qty": 3400.0,
-      "price": 5141.0
-    },
-    {
-      "time": "2026-09-02T10:01:30+09:00",
-      "ticker": "JP.7606",
-      "side": "SELL",
-      "qty": 7300.0,
-      "price": 2409.0
-    },
-    {
-      "time": "2026-09-02T09:22:30+09:00",
-      "ticker": "JP.6952",
-      "side": "BUY",
-      "qty": 7100.0,
-      "price": 2494.5
-    },
-    {
-      "time": "2026-09-02T09:22:26+09:00",
-      "ticker": "JP.3549",
-      "side": "SELL",
-      "qty": 4100.0,
-      "price": 4038.0
     }
   ],
   "notes": []
