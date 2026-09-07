@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-07T11:35:15.566831+09:00",
+  "generated_at": "2026-09-07T15:35:02.890783+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
@@ -11,11 +11,11 @@
     "initial_cash": 160000000.0,
     "cash": 70598990.59,
     "realized_pnl": 16293390.59,
-    "holding_value": 108215559.63,
-    "total_assets": 178814550.23,
-    "unrealized_pnl": 2521159.63,
-    "total_pnl": 18814550.23,
-    "total_return_pct": 11.76
+    "holding_value": 107718159.63,
+    "total_assets": 178317150.23,
+    "unrealized_pnl": 2023759.63,
+    "total_pnl": 18317150.23,
+    "total_return_pct": 11.45
   },
   "positions": [
     {
@@ -25,12 +25,12 @@
       "entered_at": "2026-08-28T09:22:29.033332+09:00",
       "entry_catalyst": "パーソルＨＤ (2181) 第三者割当による自己株式処分の払込完了に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 0.13,
+      "unrealized_pct": -0.37,
       "qty": 60400.0,
       "avg_cost": 296.5,
-      "last_price": 296.9,
-      "market_value": 17932759.63,
-      "unrealized_pnl": 24159.63
+      "last_price": 295.4,
+      "market_value": 17842159.63,
+      "unrealized_pnl": -66440.37
     },
     {
       "ticker": "JP.2175",
@@ -39,12 +39,12 @@
       "entered_at": "2026-09-02T09:22:15.647150+09:00",
       "entry_catalyst": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ． が 株式会社エス・エム・エス（JP.2175）の大量保有報告を提出 保有割合 22.38%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": 2.94,
+      "unrealized_pct": 2.3,
       "qty": 7100.0,
       "avg_cost": 2520.0,
-      "last_price": 2594.0,
-      "market_value": 18417400.0,
-      "unrealized_pnl": 525400.0
+      "last_price": 2578.0,
+      "market_value": 18303800.0,
+      "unrealized_pnl": 411800.0
     },
     {
       "ticker": "JP.2492",
@@ -53,12 +53,12 @@
       "entered_at": "2026-09-03T09:23:03.047113+09:00",
       "entry_catalyst": "インフォマート株が反発、2026年12月期通期は営業利益+75%予想。PERは53倍台(LIMO) 決算の数字が良くなることと、株価がその改善をどう受け取るかは別の話だ。1カ月で2割以上値上がりした銘柄を前にすると、その上げ幅が業績の改善に見合っているのかを確かめたくなる。 企業間取引の電子化を手",
       "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": 8.21,
+      "unrealized_pct": 6.53,
       "qty": 27000.0,
       "avg_cost": 658.0,
-      "last_price": 712.0,
-      "market_value": 19224000.0,
-      "unrealized_pnl": 1458000.0
+      "last_price": 701.0,
+      "market_value": 18927000.0,
+      "unrealized_pnl": 1161000.0
     },
     {
       "ticker": "JP.7743",
@@ -67,12 +67,12 @@
       "entered_at": "2026-09-03T09:23:06.216158+09:00",
       "entry_catalyst": "中国EMS大手が日本のコンタクトレンズを欲しがるワケ…老舗メーカー｢シード｣の株式公開買い付けを進める真の狙い | ビジネス | 東洋経済オンライン 巧妙な買収スキームの裏側を徹底解説します。このクロスボーダーM&amp;Aの真意とは？",
       "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": 0.0,
+      "unrealized_pct": 0.13,
       "qty": 22400.0,
       "avg_cost": 792.0,
-      "last_price": 792.0,
-      "market_value": 17740800.0,
-      "unrealized_pnl": 0.0
+      "last_price": 793.0,
+      "market_value": 17763200.0,
+      "unrealized_pnl": 22400.0
     },
     {
       "ticker": "JP.3549",
@@ -81,12 +81,12 @@
       "entered_at": "2026-09-07T09:17:36.619038+09:00",
       "entry_catalyst": "クスリのアオキＨＤ (3549) 自己株式の取得状況に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": -1.25,
+      "unrealized_pct": -1.56,
       "qty": 4200.0,
       "avg_cost": 4155.0,
-      "last_price": 4103.0,
-      "market_value": 17232600.0,
-      "unrealized_pnl": -218400.0
+      "last_price": 4090.0,
+      "market_value": 17178000.0,
+      "unrealized_pnl": -273000.0
     },
     {
       "ticker": "JP.4062",
@@ -95,12 +95,12 @@
       "entered_at": "2026-09-07T09:20:42.716863+09:00",
       "entry_catalyst": "【岐阜の部品メーカーがAI需要で世界から注目】イビデンが高単価基板の販売拡大、大幅上方修正で「営業利益倍増」を見込む 供給増へ3年総額5000億円設備投資も(マネーポストWEB) 岐阜県大垣市に本社を置く、創業110年超の部品メーカー。かつてはディーゼル車の排ガス浄化部品で知られた会社が、いまや生成AIサーバーの心臓部を支える基板メーカーとして存在感を高めている。ICパッケー",
       "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": 4.32,
+      "unrealized_pct": 4.53,
       "qty": 800.0,
       "avg_cost": 21170.0,
-      "last_price": 22085.0,
-      "market_value": 17668000.0,
-      "unrealized_pnl": 732000.0
+      "last_price": 22130.0,
+      "market_value": 17704000.0,
+      "unrealized_pnl": 768000.0
     }
   ],
   "equity_curve": [
@@ -526,10 +526,10 @@
     },
     {
       "date": "2026-09-07",
-      "index": 108.1043,
-      "total_assets": 178457751.36,
-      "realized_pnl": 17206190.59,
-      "unrealized_pnl": 1251560.77
+      "index": 107.9011,
+      "total_assets": 178122450.23,
+      "realized_pnl": 16293390.59,
+      "unrealized_pnl": 1829059.63
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -783,10 +783,10 @@
         },
         {
           "date": "2026-09-07",
-          "index": 99.4894
+          "index": 99.0561
         }
       ],
-      "period_return_pct": -0.51,
+      "period_return_pct": -0.94,
       "filled_dates": []
     },
     {
@@ -1038,21 +1038,21 @@
         },
         {
           "date": "2026-09-07",
-          "index": 99.5018
+          "index": 99.1889
         }
       ],
-      "period_return_pct": -0.5,
+      "period_return_pct": -0.81,
       "filled_dates": [
         "2026-07-03",
         "2026-09-07"
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 156.122,
+      "fx_rate_last": 155.631,
       "fx_rate_last_date": "2026-09-07"
     }
   ],
-  "invested_ratio_pct": 60.52,
+  "invested_ratio_pct": 60.41,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
