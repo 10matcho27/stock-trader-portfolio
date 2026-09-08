@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-08T11:35:04.504275+09:00",
+  "generated_at": "2026-09-08T15:35:08.135192+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
   "valuation_available": true,
   "summary": {
     "currency": "JPY",
-    "position_count": 8,
+    "position_count": 7,
     "initial_cash": 160000000.0,
-    "cash": 35279290.59,
-    "realized_pnl": 16293390.59,
-    "holding_value": 142275040.37,
-    "total_assets": 177554330.96,
-    "unrealized_pnl": 1260940.37,
-    "total_pnl": 17554330.96,
-    "total_return_pct": 10.97
+    "cash": 52917890.59,
+    "realized_pnl": 16323490.59,
+    "holding_value": 124317880.74,
+    "total_assets": 177235771.33,
+    "unrealized_pnl": 912280.74,
+    "total_pnl": 17235771.33,
+    "total_return_pct": 10.77
   },
   "positions": [
     {
@@ -25,12 +25,12 @@
       "entered_at": "2026-08-28T09:22:29.033332+09:00",
       "entry_catalyst": "パーソルＨＤ (2181) 第三者割当による自己株式処分の払込完了に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": -3.34,
+      "unrealized_pct": -3.98,
       "qty": 60400.0,
       "avg_cost": 296.5,
-      "last_price": 286.6,
-      "market_value": 17310640.37,
-      "unrealized_pnl": -597959.63
+      "last_price": 284.7,
+      "market_value": 17195880.74,
+      "unrealized_pnl": -712719.26
     },
     {
       "ticker": "JP.2175",
@@ -39,12 +39,12 @@
       "entered_at": "2026-09-02T09:22:15.647150+09:00",
       "entry_catalyst": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ． が 株式会社エス・エム・エス（JP.2175）の大量保有報告を提出 保有割合 22.38%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": 0.75,
+      "unrealized_pct": 1.27,
       "qty": 7100.0,
       "avg_cost": 2520.0,
-      "last_price": 2539.0,
-      "market_value": 18026900.0,
-      "unrealized_pnl": 134900.0
+      "last_price": 2552.0,
+      "market_value": 18119200.0,
+      "unrealized_pnl": 227200.0
     },
     {
       "ticker": "JP.2492",
@@ -53,12 +53,12 @@
       "entered_at": "2026-09-03T09:23:03.047113+09:00",
       "entry_catalyst": "インフォマート株が反発、2026年12月期通期は営業利益+75%予想。PERは53倍台(LIMO) 決算の数字が良くなることと、株価がその改善をどう受け取るかは別の話だ。1カ月で2割以上値上がりした銘柄を前にすると、その上げ幅が業績の改善に見合っているのかを確かめたくなる。 企業間取引の電子化を手",
       "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": 6.38,
+      "unrealized_pct": 7.45,
       "qty": 27000.0,
       "avg_cost": 658.0,
-      "last_price": 700.0,
-      "market_value": 18900000.0,
-      "unrealized_pnl": 1134000.0
+      "last_price": 707.0,
+      "market_value": 19089000.0,
+      "unrealized_pnl": 1323000.0
     },
     {
       "ticker": "JP.7743",
@@ -81,12 +81,12 @@
       "entered_at": "2026-09-07T09:17:36.619038+09:00",
       "entry_catalyst": "クスリのアオキＨＤ (3549) 自己株式の取得状況に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": -1.2,
+      "unrealized_pct": -0.22,
       "qty": 4200.0,
       "avg_cost": 4155.0,
-      "last_price": 4105.0,
-      "market_value": 17241000.0,
-      "unrealized_pnl": -210000.0
+      "last_price": 4146.0,
+      "market_value": 17413200.0,
+      "unrealized_pnl": -37800.0
     },
     {
       "ticker": "JP.4062",
@@ -95,26 +95,12 @@
       "entered_at": "2026-09-07T09:20:42.716863+09:00",
       "entry_catalyst": "【岐阜の部品メーカーがAI需要で世界から注目】イビデンが高単価基板の販売拡大、大幅上方修正で「営業利益倍増」を見込む 供給増へ3年総額5000億円設備投資も(マネーポストWEB) 岐阜県大垣市に本社を置く、創業110年超の部品メーカー。かつてはディーゼル車の排ガス浄化部品で知られた会社が、いまや生成AIサーバーの心臓部を支える基板メーカーとして存在感を高めている。ICパッケー",
       "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": 1.63,
+      "unrealized_pct": -1.35,
       "qty": 800.0,
       "avg_cost": 21170.0,
-      "last_price": 21515.0,
-      "market_value": 17212000.0,
-      "unrealized_pnl": 276000.0
-    },
-    {
-      "ticker": "JP.4272",
-      "company_name": "日本化薬",
-      "sector": "Basic Materials",
-      "entered_at": "2026-09-08T09:21:34.461734+09:00",
-      "entry_catalyst": "日化薬 (4272) 三光化学工業株式会社の完全子会社化に関するお知らせ",
-      "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 0.0,
-      "qty": 8600.0,
-      "avg_cost": 2047.5,
-      "last_price": 2047.5,
-      "market_value": 17608500.0,
-      "unrealized_pnl": 0.0
+      "last_price": 20885.0,
+      "market_value": 16708000.0,
+      "unrealized_pnl": -228000.0
     },
     {
       "ticker": "JP.6897",
@@ -123,12 +109,12 @@
       "entered_at": "2026-09-08T09:22:38.137310+09:00",
       "entry_catalyst": "牧　寛之 が 株式会社ツインバード（JP.6897）の大量保有報告を提出 保有割合 11.72%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": 2.96,
+      "unrealized_pct": 1.92,
       "qty": 26200.0,
       "avg_cost": 676.0,
-      "last_price": 696.0,
-      "market_value": 18235200.0,
-      "unrealized_pnl": 524000.0
+      "last_price": 689.0,
+      "market_value": 18051800.0,
+      "unrealized_pnl": 340600.0
     }
   ],
   "equity_curve": [
@@ -561,10 +547,10 @@
     },
     {
       "date": "2026-09-08",
-      "index": 107.48,
-      "total_assets": 177427190.59,
-      "realized_pnl": 16293390.59,
-      "unrealized_pnl": 1133800.0
+      "index": 107.5853,
+      "total_assets": 177601109.86,
+      "realized_pnl": 16323490.59,
+      "unrealized_pnl": 1277619.26
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -822,10 +808,10 @@
         },
         {
           "date": "2026-09-08",
-          "index": 99.3854
+          "index": 97.7841
         }
       ],
-      "period_return_pct": -0.61,
+      "period_return_pct": -2.22,
       "filled_dates": []
     },
     {
@@ -1081,10 +1067,10 @@
         },
         {
           "date": "2026-09-08",
-          "index": 97.6529
+          "index": 98.0557
         }
       ],
-      "period_return_pct": -2.35,
+      "period_return_pct": -1.94,
       "filled_dates": [
         "2026-07-03",
         "2026-09-07",
@@ -1092,11 +1078,11 @@
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 153.221,
+      "fx_rate_last": 153.853,
       "fx_rate_last_date": "2026-09-08"
     }
   ],
-  "invested_ratio_pct": 80.13,
+  "invested_ratio_pct": 70.14,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
@@ -1105,6 +1091,13 @@
     "range": "all"
   },
   "recent_trades": [
+    {
+      "time": "2026-09-08T12:30:28+09:00",
+      "ticker": "JP.4272",
+      "side": "SELL",
+      "qty": 8600.0,
+      "price": 2051.0
+    },
     {
       "time": "2026-09-08T09:22:38+09:00",
       "ticker": "JP.6897",
@@ -1167,13 +1160,6 @@
       "side": "BUY",
       "qty": 3300.0,
       "price": 5257.0
-    },
-    {
-      "time": "2026-09-03T10:18:57+09:00",
-      "ticker": "JP.7267",
-      "side": "SELL",
-      "qty": 10400.0,
-      "price": 1713.0
     }
   ],
   "notes": []
