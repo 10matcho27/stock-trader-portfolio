@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-09T15:35:10.501122+09:00",
+  "generated_at": "2026-09-10T11:35:11.500297+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
   "valuation_available": true,
   "summary": {
     "currency": "JPY",
-    "position_count": 6,
+    "position_count": 7,
     "initial_cash": 160000000.0,
-    "cash": 69917530.96,
-    "realized_pnl": 15389330.96,
-    "holding_value": 105938700.0,
-    "total_assets": 175856230.96,
-    "unrealized_pnl": 466900.0,
-    "total_pnl": 15856230.96,
-    "total_return_pct": 9.91
+    "cash": 51339130.96,
+    "realized_pnl": 14571230.96,
+    "holding_value": 123887900.0,
+    "total_assets": 175227030.96,
+    "unrealized_pnl": 655800.0,
+    "total_pnl": 15227030.96,
+    "total_return_pct": 9.52
   },
   "positions": [
     {
@@ -25,12 +25,12 @@
       "entered_at": "2026-09-02T09:22:15.647150+09:00",
       "entry_catalyst": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ． が 株式会社エス・エム・エス（JP.2175）の大量保有報告を提出 保有割合 22.38%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": 0.36,
+      "unrealized_pct": 0.63,
       "qty": 7100.0,
       "avg_cost": 2520.0,
-      "last_price": 2529.0,
-      "market_value": 17955900.0,
-      "unrealized_pnl": 63900.0
+      "last_price": 2536.0,
+      "market_value": 18005600.0,
+      "unrealized_pnl": 113600.0
     },
     {
       "ticker": "JP.2492",
@@ -39,12 +39,12 @@
       "entered_at": "2026-09-03T09:23:03.047113+09:00",
       "entry_catalyst": "インフォマート株が反発、2026年12月期通期は営業利益+75%予想。PERは53倍台(LIMO) 決算の数字が良くなることと、株価がその改善をどう受け取るかは別の話だ。1カ月で2割以上値上がりした銘柄を前にすると、その上げ幅が業績の改善に見合っているのかを確かめたくなる。 企業間取引の電子化を手",
       "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": 6.53,
+      "unrealized_pct": 8.51,
       "qty": 27000.0,
       "avg_cost": 658.0,
-      "last_price": 701.0,
-      "market_value": 18927000.0,
-      "unrealized_pnl": 1161000.0
+      "last_price": 714.0,
+      "market_value": 19278000.0,
+      "unrealized_pnl": 1512000.0
     },
     {
       "ticker": "JP.7743",
@@ -67,26 +67,12 @@
       "entered_at": "2026-09-07T09:17:36.619038+09:00",
       "entry_catalyst": "クスリのアオキＨＤ (3549) 自己株式の取得状況に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": -3.56,
+      "unrealized_pct": -2.82,
       "qty": 4200.0,
       "avg_cost": 4155.0,
-      "last_price": 4007.0,
-      "market_value": 16829400.0,
-      "unrealized_pnl": -621600.0
-    },
-    {
-      "ticker": "JP.4062",
-      "company_name": "イビデン",
-      "sector": "Technology",
-      "entered_at": "2026-09-07T09:20:42.716863+09:00",
-      "entry_catalyst": "【岐阜の部品メーカーがAI需要で世界から注目】イビデンが高単価基板の販売拡大、大幅上方修正で「営業利益倍増」を見込む 供給増へ3年総額5000億円設備投資も(マネーポストWEB) 岐阜県大垣市に本社を置く、創業110年超の部品メーカー。かつてはディーゼル車の排ガス浄化部品で知られた会社が、いまや生成AIサーバーの心臓部を支える基板メーカーとして存在感を高めている。ICパッケー",
-      "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": 1.2,
-      "qty": 800.0,
-      "avg_cost": 21170.0,
-      "last_price": 21425.0,
-      "market_value": 17140000.0,
-      "unrealized_pnl": 204000.0
+      "last_price": 4038.0,
+      "market_value": 16959600.0,
+      "unrealized_pnl": -491400.0
     },
     {
       "ticker": "JP.9603",
@@ -95,12 +81,40 @@
       "entered_at": "2026-09-09T09:21:37.256055+09:00",
       "entry_catalyst": "Ｈ．Ｉ．Ｓ． (9603) 自己株式の取得状況に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": -1.92,
+      "unrealized_pct": -1.84,
       "qty": 14800.0,
       "avg_cost": 1195.0,
-      "last_price": 1172.0,
-      "market_value": 17345600.0,
-      "unrealized_pnl": -340400.0
+      "last_price": 1173.0,
+      "market_value": 17360400.0,
+      "unrealized_pnl": -325600.0
+    },
+    {
+      "ticker": "JP.9987",
+      "company_name": "スズケン",
+      "sector": "Healthcare",
+      "entered_at": "2026-09-10T09:22:01.005486+09:00",
+      "entry_catalyst": "シルチェスター・インターナショナル・インベスターズ・エルエルピー が 株式会社スズケン（JP.9987）の大量保有報告を提出 保有割合 9.27%",
+      "hold_rationale": "official filing: edinet",
+      "unrealized_pct": -0.12,
+      "qty": 3300.0,
+      "avg_cost": 5209.0,
+      "last_price": 5203.0,
+      "market_value": 17169900.0,
+      "unrealized_pnl": -19800.0
+    },
+    {
+      "ticker": "JP.3105",
+      "company_name": "日清紡ホールディングス(株)",
+      "sector": "Industrials",
+      "entered_at": "2026-09-10T09:22:02.949115+09:00",
+      "entry_catalyst": "日清紡ＨＤ、今期最終を一転1％増益に上方修正",
+      "hold_rationale": "fundamental catalyst: guidance",
+      "unrealized_pct": -0.76,
+      "qty": 7600.0,
+      "avg_cost": 2303.5,
+      "last_price": 2286.0,
+      "market_value": 17373600.0,
+      "unrealized_pnl": -133000.0
     }
   ],
   "equity_curve": [
@@ -544,6 +558,13 @@
       "total_assets": 176082930.96,
       "realized_pnl": 15389330.96,
       "unrealized_pnl": 693600.0
+    },
+    {
+      "date": "2026-09-10",
+      "index": 106.1804,
+      "total_assets": 175281930.96,
+      "realized_pnl": 14571230.96,
+      "unrealized_pnl": 710700.0
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -805,10 +826,14 @@
         },
         {
           "date": "2026-09-09",
-          "index": 97.275
+          "index": 97.3234
+        },
+        {
+          "date": "2026-09-10",
+          "index": 96.4516
         }
       ],
-      "period_return_pct": -2.73,
+      "period_return_pct": -3.55,
       "filled_dates": []
     },
     {
@@ -1068,22 +1093,26 @@
         },
         {
           "date": "2026-09-09",
-          "index": 97.0775
+          "index": 96.7745
+        },
+        {
+          "date": "2026-09-10",
+          "index": 96.8331
         }
       ],
-      "period_return_pct": -2.92,
+      "period_return_pct": -3.17,
       "filled_dates": [
         "2026-07-03",
         "2026-09-07",
-        "2026-09-09"
+        "2026-09-10"
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 153.213,
-      "fx_rate_last_date": "2026-09-09"
+      "fx_rate_last": 153.571,
+      "fx_rate_last_date": "2026-09-10"
     }
   ],
-  "invested_ratio_pct": 60.24,
+  "invested_ratio_pct": 70.7,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
@@ -1092,6 +1121,41 @@
     "range": "all"
   },
   "recent_trades": [
+    {
+      "time": "2026-09-10T09:57:57+09:00",
+      "ticker": "JP.4062",
+      "side": "SELL",
+      "qty": 800.0,
+      "price": 20360.0
+    },
+    {
+      "time": "2026-09-10T09:43:42+09:00",
+      "ticker": "JP.8057",
+      "side": "SELL",
+      "qty": 8100.0,
+      "price": 2127.0
+    },
+    {
+      "time": "2026-09-10T09:22:02+09:00",
+      "ticker": "JP.3105",
+      "side": "BUY",
+      "qty": 7600.0,
+      "price": 2303.5
+    },
+    {
+      "time": "2026-09-10T09:22:01+09:00",
+      "ticker": "JP.9987",
+      "side": "BUY",
+      "qty": 3300.0,
+      "price": 5209.0
+    },
+    {
+      "time": "2026-09-10T09:21:59+09:00",
+      "ticker": "JP.8057",
+      "side": "BUY",
+      "qty": 8100.0,
+      "price": 2148.0
+    },
     {
       "time": "2026-09-09T12:30:45+09:00",
       "ticker": "JP.6897",
@@ -1126,41 +1190,6 @@
       "side": "BUY",
       "qty": 26200.0,
       "price": 676.0
-    },
-    {
-      "time": "2026-09-08T09:21:34+09:00",
-      "ticker": "JP.4272",
-      "side": "BUY",
-      "qty": 8600.0,
-      "price": 2047.5
-    },
-    {
-      "time": "2026-09-07T11:13:31+09:00",
-      "ticker": "JP.4689",
-      "side": "SELL",
-      "qty": 32600.0,
-      "price": 521.6
-    },
-    {
-      "time": "2026-09-07T09:20:42+09:00",
-      "ticker": "JP.4062",
-      "side": "BUY",
-      "qty": 800.0,
-      "price": 21170.0
-    },
-    {
-      "time": "2026-09-07T09:17:40+09:00",
-      "ticker": "JP.2206",
-      "side": "SELL",
-      "qty": 3400.0,
-      "price": 5013.0
-    },
-    {
-      "time": "2026-09-07T09:17:39+09:00",
-      "ticker": "JP.2593",
-      "side": "SELL",
-      "qty": 5500.0,
-      "price": 3164.0
     }
   ],
   "notes": []
