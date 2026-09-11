@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-11T11:35:02.453262+09:00",
+  "generated_at": "2026-09-11T15:35:02.092880+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
@@ -11,11 +11,11 @@
     "initial_cash": 160000000.0,
     "cash": 67993930.96,
     "realized_pnl": 13108230.96,
-    "holding_value": 105902800.0,
-    "total_assets": 173896730.96,
-    "unrealized_pnl": 788500.0,
-    "total_pnl": 13896730.96,
-    "total_return_pct": 8.69
+    "holding_value": 105988100.0,
+    "total_assets": 173982030.96,
+    "unrealized_pnl": 873800.0,
+    "total_pnl": 13982030.96,
+    "total_return_pct": 8.74
   },
   "positions": [
     {
@@ -25,12 +25,12 @@
       "entered_at": "2026-09-02T09:22:15.647150+09:00",
       "entry_catalyst": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ． が 株式会社エス・エム・エス（JP.2175）の大量保有報告を提出 保有割合 22.38%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": 1.87,
+      "unrealized_pct": 2.66,
       "qty": 7100.0,
       "avg_cost": 2520.0,
-      "last_price": 2567.0,
-      "market_value": 18225700.0,
-      "unrealized_pnl": 333700.0
+      "last_price": 2587.0,
+      "market_value": 18367700.0,
+      "unrealized_pnl": 475700.0
     },
     {
       "ticker": "JP.2492",
@@ -39,12 +39,12 @@
       "entered_at": "2026-09-03T09:23:03.047113+09:00",
       "entry_catalyst": "インフォマート株が反発、2026年12月期通期は営業利益+75%予想。PERは53倍台(LIMO) 決算の数字が良くなることと、株価がその改善をどう受け取るかは別の話だ。1カ月で2割以上値上がりした銘柄を前にすると、その上げ幅が業績の改善に見合っているのかを確かめたくなる。 企業間取引の電子化を手",
       "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": 7.14,
+      "unrealized_pct": 6.23,
       "qty": 27000.0,
       "avg_cost": 658.0,
-      "last_price": 705.0,
-      "market_value": 19035000.0,
-      "unrealized_pnl": 1269000.0
+      "last_price": 699.0,
+      "market_value": 18873000.0,
+      "unrealized_pnl": 1107000.0
     },
     {
       "ticker": "JP.7743",
@@ -67,12 +67,12 @@
       "entered_at": "2026-09-07T09:17:36.619038+09:00",
       "entry_catalyst": "クスリのアオキＨＤ (3549) 自己株式の取得状況に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": -3.3,
+      "unrealized_pct": -3.66,
       "qty": 4200.0,
       "avg_cost": 4155.0,
-      "last_price": 4018.0,
-      "market_value": 16875600.0,
-      "unrealized_pnl": -575400.0
+      "last_price": 4003.0,
+      "market_value": 16812600.0,
+      "unrealized_pnl": -638400.0
     },
     {
       "ticker": "JP.9987",
@@ -81,12 +81,12 @@
       "entered_at": "2026-09-10T09:22:01.005486+09:00",
       "entry_catalyst": "シルチェスター・インターナショナル・インベスターズ・エルエルピー が 株式会社スズケン（JP.9987）の大量保有報告を提出 保有割合 9.27%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": -1.15,
+      "unrealized_pct": -0.5,
       "qty": 3300.0,
       "avg_cost": 5209.0,
-      "last_price": 5149.0,
-      "market_value": 16991700.0,
-      "unrealized_pnl": -198000.0
+      "last_price": 5183.0,
+      "market_value": 17103900.0,
+      "unrealized_pnl": -85800.0
     },
     {
       "ticker": "JP.1928",
@@ -95,12 +95,12 @@
       "entered_at": "2026-09-11T09:22:20.814053+09:00",
       "entry_catalyst": "積水ハウス、中間期で過去最高益 米国の一戸建て不振も国内好調(共同通信) 積水ハウスが10日公表した2026年7月中間連結決算は、純利益が前年同期比23.1％増の1250億円で、中間期として過去最高だった。売上高は2.5％減の1兆9656億円。米国の一戸建て住宅事業が住宅",
       "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": -0.24,
+      "unrealized_pct": 0.09,
       "qty": 5100.0,
       "avg_cost": 3348.0,
-      "last_price": 3340.0,
-      "market_value": 17034000.0,
-      "unrealized_pnl": -40800.0
+      "last_price": 3351.0,
+      "market_value": 17090100.0,
+      "unrealized_pnl": 15300.0
     }
   ],
   "equity_curve": [
@@ -554,10 +554,10 @@
     },
     {
       "date": "2026-09-11",
-      "index": 105.2948,
-      "total_assets": 173819930.96,
+      "index": 105.4041,
+      "total_assets": 174000330.96,
       "realized_pnl": 13108230.96,
-      "unrealized_pnl": 711700.0
+      "unrealized_pnl": 892100.0
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -827,10 +827,10 @@
         },
         {
           "date": "2026-09-11",
-          "index": 94.8903
+          "index": 95.6292
         }
       ],
-      "period_return_pct": -5.11,
+      "period_return_pct": -4.37,
       "filled_dates": []
     },
     {
@@ -1098,10 +1098,10 @@
         },
         {
           "date": "2026-09-11",
-          "index": 96.8473
+          "index": 96.6524
         }
       ],
-      "period_return_pct": -3.15,
+      "period_return_pct": -3.35,
       "filled_dates": [
         "2026-07-03",
         "2026-09-07",
@@ -1109,11 +1109,11 @@
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 154.497,
+      "fx_rate_last": 154.186,
       "fx_rate_last_date": "2026-09-11"
     }
   ],
-  "invested_ratio_pct": 60.9,
+  "invested_ratio_pct": 60.92,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
