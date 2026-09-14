@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-14T11:35:02.171888+09:00",
+  "generated_at": "2026-09-14T15:35:10.969089+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
@@ -11,11 +11,11 @@
     "initial_cash": 160000000.0,
     "cash": 124077130.96,
     "realized_pnl": 16458630.96,
-    "holding_value": 52095000.0,
-    "total_assets": 176172130.96,
-    "unrealized_pnl": -286500.0,
-    "total_pnl": 16172130.96,
-    "total_return_pct": 10.11
+    "holding_value": 52224000.0,
+    "total_assets": 176301130.96,
+    "unrealized_pnl": -157500.0,
+    "total_pnl": 16301130.96,
+    "total_return_pct": 10.19
   },
   "positions": [
     {
@@ -39,12 +39,12 @@
       "entered_at": "2026-09-07T09:17:36.619038+09:00",
       "entry_catalyst": "クスリのアオキＨＤ (3549) 自己株式の取得状況に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": -1.93,
+      "unrealized_pct": -1.56,
       "qty": 4200.0,
       "avg_cost": 4155.0,
-      "last_price": 4075.0,
-      "market_value": 17115000.0,
-      "unrealized_pnl": -336000.0
+      "last_price": 4090.0,
+      "market_value": 17178000.0,
+      "unrealized_pnl": -273000.0
     },
     {
       "ticker": "JP.9987",
@@ -53,12 +53,12 @@
       "entered_at": "2026-09-10T09:22:01.005486+09:00",
       "entry_catalyst": "シルチェスター・インターナショナル・インベスターズ・エルエルピー が 株式会社スズケン（JP.9987）の大量保有報告を提出 保有割合 9.27%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": 0.29,
+      "unrealized_pct": 0.67,
       "qty": 3300.0,
       "avg_cost": 5209.0,
-      "last_price": 5224.0,
-      "market_value": 17239200.0,
-      "unrealized_pnl": 49500.0
+      "last_price": 5244.0,
+      "market_value": 17305200.0,
+      "unrealized_pnl": 115500.0
     }
   ],
   "equity_curve": [
@@ -519,10 +519,10 @@
     },
     {
       "date": "2026-09-14",
-      "index": 106.6224,
-      "total_assets": 176011530.96,
-      "realized_pnl": 16396630.96,
-      "unrealized_pnl": -385100.0
+      "index": 106.7626,
+      "total_assets": 176242930.96,
+      "realized_pnl": 16458630.96,
+      "unrealized_pnl": -215700.0
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -796,10 +796,10 @@
         },
         {
           "date": "2026-09-14",
-          "index": 94.7794
+          "index": 95.0265
         }
       ],
-      "period_return_pct": -5.22,
+      "period_return_pct": -4.97,
       "filled_dates": []
     },
     {
@@ -1071,10 +1071,10 @@
         },
         {
           "date": "2026-09-14",
-          "index": 97.3298
+          "index": 97.5201
         }
       ],
-      "period_return_pct": -2.67,
+      "period_return_pct": -2.48,
       "filled_dates": [
         "2026-07-03",
         "2026-09-07",
@@ -1082,11 +1082,11 @@
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 153.943,
+      "fx_rate_last": 154.244,
       "fx_rate_last_date": "2026-09-14"
     }
   ],
-  "invested_ratio_pct": 29.57,
+  "invested_ratio_pct": 29.62,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
