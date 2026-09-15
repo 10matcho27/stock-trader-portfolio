@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-14T15:35:10.969089+09:00",
+  "generated_at": "2026-09-15T11:35:05.449561+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
@@ -9,13 +9,13 @@
     "currency": "JPY",
     "position_count": 3,
     "initial_cash": 160000000.0,
-    "cash": 124077130.96,
-    "realized_pnl": 16458630.96,
-    "holding_value": 52224000.0,
-    "total_assets": 176301130.96,
-    "unrealized_pnl": -157500.0,
-    "total_pnl": 16301130.96,
-    "total_return_pct": 10.19
+    "cash": 124272330.96,
+    "realized_pnl": 16653830.96,
+    "holding_value": 51960600.0,
+    "total_assets": 176232930.96,
+    "unrealized_pnl": -420900.0,
+    "total_pnl": 16232930.96,
+    "total_return_pct": 10.15
   },
   "positions": [
     {
@@ -39,12 +39,12 @@
       "entered_at": "2026-09-07T09:17:36.619038+09:00",
       "entry_catalyst": "クスリのアオキＨＤ (3549) 自己株式の取得状況に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": -1.56,
+      "unrealized_pct": -2.7,
       "qty": 4200.0,
       "avg_cost": 4155.0,
-      "last_price": 4090.0,
-      "market_value": 17178000.0,
-      "unrealized_pnl": -273000.0
+      "last_price": 4043.0,
+      "market_value": 16980600.0,
+      "unrealized_pnl": -470400.0
     },
     {
       "ticker": "JP.9987",
@@ -53,12 +53,12 @@
       "entered_at": "2026-09-10T09:22:01.005486+09:00",
       "entry_catalyst": "シルチェスター・インターナショナル・インベスターズ・エルエルピー が 株式会社スズケン（JP.9987）の大量保有報告を提出 保有割合 9.27%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": 0.67,
+      "unrealized_pct": 0.29,
       "qty": 3300.0,
       "avg_cost": 5209.0,
-      "last_price": 5244.0,
-      "market_value": 17305200.0,
-      "unrealized_pnl": 115500.0
+      "last_price": 5224.0,
+      "market_value": 17239200.0,
+      "unrealized_pnl": 49500.0
     }
   ],
   "equity_curve": [
@@ -523,6 +523,13 @@
       "total_assets": 176242930.96,
       "realized_pnl": 16458630.96,
       "unrealized_pnl": -215700.0
+    },
+    {
+      "date": "2026-09-15",
+      "index": 106.821,
+      "total_assets": 176339430.96,
+      "realized_pnl": 16653830.96,
+      "unrealized_pnl": -314400.0
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -796,10 +803,14 @@
         },
         {
           "date": "2026-09-14",
-          "index": 95.0265
+          "index": 94.8586
+        },
+        {
+          "date": "2026-09-15",
+          "index": 95.6045
         }
       ],
-      "period_return_pct": -4.97,
+      "period_return_pct": -4.4,
       "filled_dates": []
     },
     {
@@ -1071,22 +1082,26 @@
         },
         {
           "date": "2026-09-14",
-          "index": 97.5201
+          "index": 96.533
+        },
+        {
+          "date": "2026-09-15",
+          "index": 97.4447
         }
       ],
-      "period_return_pct": -2.48,
+      "period_return_pct": -2.56,
       "filled_dates": [
         "2026-07-03",
         "2026-09-07",
-        "2026-09-14"
+        "2026-09-15"
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 154.244,
-      "fx_rate_last_date": "2026-09-14"
+      "fx_rate_last": 154.873,
+      "fx_rate_last_date": "2026-09-15"
     }
   ],
-  "invested_ratio_pct": 29.62,
+  "invested_ratio_pct": 29.48,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
@@ -1095,6 +1110,27 @@
     "range": "all"
   },
   "recent_trades": [
+    {
+      "time": "2026-09-15T10:13:36+09:00",
+      "ticker": "JP.3565",
+      "side": "SELL",
+      "qty": 100.0,
+      "price": 465.0
+    },
+    {
+      "time": "2026-09-15T09:43:00+09:00",
+      "ticker": "JP.3565",
+      "side": "SELL",
+      "qty": 38800.0,
+      "price": 458.0
+    },
+    {
+      "time": "2026-09-15T09:21:46+09:00",
+      "ticker": "JP.3565",
+      "side": "BUY",
+      "qty": 38900.0,
+      "price": 453.0
+    },
     {
       "time": "2026-09-14T11:05:11+09:00",
       "ticker": "JP.456A",
@@ -1143,27 +1179,6 @@
       "side": "BUY",
       "qty": 12400.0,
       "price": 1400.0
-    },
-    {
-      "time": "2026-09-11T09:34:01+09:00",
-      "ticker": "JP.3105",
-      "side": "SELL",
-      "qty": 7600.0,
-      "price": 2148.0
-    },
-    {
-      "time": "2026-09-11T09:22:35+09:00",
-      "ticker": "JP.2875",
-      "side": "SELL",
-      "qty": 1700.0,
-      "price": 9928.0
-    },
-    {
-      "time": "2026-09-11T09:22:20+09:00",
-      "ticker": "JP.1928",
-      "side": "BUY",
-      "qty": 5100.0,
-      "price": 3348.0
     }
   ],
   "notes": []
