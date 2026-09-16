@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-16T11:35:03.309834+09:00",
+  "generated_at": "2026-09-16T15:35:03.379596+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
   "valuation_available": true,
   "summary": {
     "currency": "JPY",
-    "position_count": 4,
+    "position_count": 3,
     "initial_cash": 160000000.0,
-    "cash": 106703730.96,
-    "realized_pnl": 16653830.96,
-    "holding_value": 69741600.0,
-    "total_assets": 176445330.96,
-    "unrealized_pnl": -208500.0,
-    "total_pnl": 16445330.96,
-    "total_return_pct": 10.28
+    "cash": 124356930.96,
+    "realized_pnl": 16738430.96,
+    "holding_value": 51837900.0,
+    "total_assets": 176194830.96,
+    "unrealized_pnl": -543600.0,
+    "total_pnl": 16194830.96,
+    "total_return_pct": 10.12
   },
   "positions": [
     {
@@ -39,12 +39,12 @@
       "entered_at": "2026-09-07T09:17:36.619038+09:00",
       "entry_catalyst": "クスリのアオキＨＤ (3549) 自己株式の取得状況に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": -2.89,
+      "unrealized_pct": -3.68,
       "qty": 4200.0,
       "avg_cost": 4155.0,
-      "last_price": 4035.0,
-      "market_value": 16947000.0,
-      "unrealized_pnl": -504000.0
+      "last_price": 4002.0,
+      "market_value": 16808400.0,
+      "unrealized_pnl": -642600.0
     },
     {
       "ticker": "JP.9987",
@@ -53,26 +53,12 @@
       "entered_at": "2026-09-10T09:22:01.005486+09:00",
       "entry_catalyst": "シルチェスター・インターナショナル・インベスターズ・エルエルピー が 株式会社スズケン（JP.9987）の大量保有報告を提出 保有割合 9.27%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": 0.65,
+      "unrealized_pct": 0.58,
       "qty": 3300.0,
       "avg_cost": 5209.0,
-      "last_price": 5243.0,
-      "market_value": 17301900.0,
-      "unrealized_pnl": 112200.0
-    },
-    {
-      "ticker": "JP.2678",
-      "company_name": "アスクル",
-      "sector": "Consumer Cyclical",
-      "entered_at": "2026-09-16T09:22:21.650092+09:00",
-      "entry_catalyst": "アスクル (2678) 「2027年5月期 第1四半期決算概要」のお知らせ",
-      "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 1.04,
-      "qty": 14100.0,
-      "avg_cost": 1246.0,
-      "last_price": 1259.0,
-      "market_value": 17751900.0,
-      "unrealized_pnl": 183300.0
+      "last_price": 5239.0,
+      "market_value": 17288700.0,
+      "unrealized_pnl": 99000.0
     }
   ],
   "equity_curve": [
@@ -547,10 +533,10 @@
     },
     {
       "date": "2026-09-16",
-      "index": 106.8928,
-      "total_assets": 176457930.96,
-      "realized_pnl": 16653830.96,
-      "unrealized_pnl": -195900.0
+      "index": 106.746,
+      "total_assets": 176215530.96,
+      "realized_pnl": 16738430.96,
+      "unrealized_pnl": -522900.0
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -832,10 +818,10 @@
         },
         {
           "date": "2026-09-16",
-          "index": 94.5974
+          "index": 95.3763
         }
       ],
-      "period_return_pct": -5.4,
+      "period_return_pct": -4.62,
       "filled_dates": []
     },
     {
@@ -1115,10 +1101,10 @@
         },
         {
           "date": "2026-09-16",
-          "index": 97.271
+          "index": 96.701
         }
       ],
-      "period_return_pct": -2.73,
+      "period_return_pct": -3.3,
       "filled_dates": [
         "2026-07-03",
         "2026-09-07",
@@ -1126,11 +1112,11 @@
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 155.295,
-      "fx_rate_last_date": "2026-09-16"
+      "fx_rate_last": 154.385,
+      "fx_rate_last_date": "2026-09-15"
     }
   ],
-  "invested_ratio_pct": 39.53,
+  "invested_ratio_pct": 29.42,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
@@ -1139,6 +1125,13 @@
     "range": "all"
   },
   "recent_trades": [
+    {
+      "time": "2026-09-16T14:38:59+09:00",
+      "ticker": "JP.2678",
+      "side": "SELL",
+      "qty": 14100.0,
+      "price": 1252.0
+    },
     {
       "time": "2026-09-16T09:22:21+09:00",
       "ticker": "JP.2678",
@@ -1201,13 +1194,6 @@
       "side": "SELL",
       "qty": 9000.0,
       "price": 725.0
-    },
-    {
-      "time": "2026-09-14T09:18:59+09:00",
-      "ticker": "JP.2175",
-      "side": "SELL",
-      "qty": 2300.0,
-      "price": 2678.0
     }
   ],
   "notes": []
