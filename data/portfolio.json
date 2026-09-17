@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-17T11:35:01.900871+09:00",
+  "generated_at": "2026-09-17T15:35:02.364626+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
@@ -11,11 +11,11 @@
     "initial_cash": 160000000.0,
     "cash": 89392530.96,
     "realized_pnl": 16713430.96,
-    "holding_value": 87344900.0,
-    "total_assets": 176737430.96,
-    "unrealized_pnl": 24000.0,
-    "total_pnl": 16737430.96,
-    "total_return_pct": 10.46
+    "holding_value": 87543000.0,
+    "total_assets": 176935530.96,
+    "unrealized_pnl": 222100.0,
+    "total_pnl": 16935530.96,
+    "total_return_pct": 10.58
   },
   "positions": [
     {
@@ -39,12 +39,12 @@
       "entered_at": "2026-09-07T09:17:36.619038+09:00",
       "entry_catalyst": "クスリのアオキＨＤ (3549) 自己株式の取得状況に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": -1.95,
+      "unrealized_pct": -1.44,
       "qty": 4200.0,
       "avg_cost": 4155.0,
-      "last_price": 4074.0,
-      "market_value": 17110800.0,
-      "unrealized_pnl": -340200.0
+      "last_price": 4095.0,
+      "market_value": 17199000.0,
+      "unrealized_pnl": -252000.0
     },
     {
       "ticker": "JP.9987",
@@ -53,12 +53,12 @@
       "entered_at": "2026-09-10T09:22:01.005486+09:00",
       "entry_catalyst": "シルチェスター・インターナショナル・インベスターズ・エルエルピー が 株式会社スズケン（JP.9987）の大量保有報告を提出 保有割合 9.27%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": 1.42,
+      "unrealized_pct": 2.59,
       "qty": 3300.0,
       "avg_cost": 5209.0,
-      "last_price": 5283.0,
-      "market_value": 17433900.0,
-      "unrealized_pnl": 244200.0
+      "last_price": 5344.0,
+      "market_value": 17635200.0,
+      "unrealized_pnl": 445500.0
     },
     {
       "ticker": "JP.3989",
@@ -67,12 +67,12 @@
       "entered_at": "2026-09-17T09:23:03.525017+09:00",
       "entry_catalyst": "アセット・バリュー・インベスターズ・リミテッド が シェアリングテクノロジー株式会社（JP.3989）の大量保有報告を提出 保有割合 28.98%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": 0.0,
+      "unrealized_pct": -0.06,
       "qty": 11400.0,
       "avg_cost": 1546.0,
-      "last_price": 1546.0,
-      "market_value": 17624400.0,
-      "unrealized_pnl": 0.0
+      "last_price": 1545.0,
+      "market_value": 17613000.0,
+      "unrealized_pnl": -11400.0
     },
     {
       "ticker": "JP.6098",
@@ -81,12 +81,12 @@
       "entered_at": "2026-09-17T09:23:06.791962+09:00",
       "entry_catalyst": "リクルートHDが「隠れAI株」に浮上…求人は減っても増収増益の真価(ニューズウィーク日本版) 生成AIの急速な普及により「AIに仕事を奪われる」という懸念が現実のものとなって広がっています。それは、単純に仕事がなくなるということではなく、求められる業務の内容、あるいは企業が求める人材が変わるこ",
       "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": 0.69,
+      "unrealized_pct": 0.23,
       "qty": 1000.0,
       "avg_cost": 17315.0,
-      "last_price": 17435.0,
-      "market_value": 17435000.0,
-      "unrealized_pnl": 120000.0
+      "last_price": 17355.0,
+      "market_value": 17355000.0,
+      "unrealized_pnl": 40000.0
     }
   ],
   "equity_curve": [
@@ -568,10 +568,10 @@
     },
     {
       "date": "2026-09-17",
-      "index": 106.959,
-      "total_assets": 176567230.96,
-      "realized_pnl": 16738430.96,
-      "unrealized_pnl": -171200.0
+      "index": 107.2464,
+      "total_assets": 177041630.96,
+      "realized_pnl": 16713430.96,
+      "unrealized_pnl": 328200.0
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -857,10 +857,10 @@
         },
         {
           "date": "2026-09-17",
-          "index": 95.5834
+          "index": 95.596
         }
       ],
-      "period_return_pct": -4.42,
+      "period_return_pct": -4.4,
       "filled_dates": []
     },
     {
@@ -1159,7 +1159,7 @@
       "fx_rate_last_date": "2026-09-16"
     }
   ],
-  "invested_ratio_pct": 49.42,
+  "invested_ratio_pct": 49.48,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
