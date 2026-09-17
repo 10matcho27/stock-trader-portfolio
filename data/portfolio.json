@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-16T15:35:03.379596+09:00",
+  "generated_at": "2026-09-17T11:35:01.900871+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
   "valuation_available": true,
   "summary": {
     "currency": "JPY",
-    "position_count": 3,
+    "position_count": 5,
     "initial_cash": 160000000.0,
-    "cash": 124356930.96,
-    "realized_pnl": 16738430.96,
-    "holding_value": 51837900.0,
-    "total_assets": 176194830.96,
-    "unrealized_pnl": -543600.0,
-    "total_pnl": 16194830.96,
-    "total_return_pct": 10.12
+    "cash": 89392530.96,
+    "realized_pnl": 16713430.96,
+    "holding_value": 87344900.0,
+    "total_assets": 176737430.96,
+    "unrealized_pnl": 24000.0,
+    "total_pnl": 16737430.96,
+    "total_return_pct": 10.46
   },
   "positions": [
     {
@@ -39,12 +39,12 @@
       "entered_at": "2026-09-07T09:17:36.619038+09:00",
       "entry_catalyst": "クスリのアオキＨＤ (3549) 自己株式の取得状況に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": -3.68,
+      "unrealized_pct": -1.95,
       "qty": 4200.0,
       "avg_cost": 4155.0,
-      "last_price": 4002.0,
-      "market_value": 16808400.0,
-      "unrealized_pnl": -642600.0
+      "last_price": 4074.0,
+      "market_value": 17110800.0,
+      "unrealized_pnl": -340200.0
     },
     {
       "ticker": "JP.9987",
@@ -53,12 +53,40 @@
       "entered_at": "2026-09-10T09:22:01.005486+09:00",
       "entry_catalyst": "シルチェスター・インターナショナル・インベスターズ・エルエルピー が 株式会社スズケン（JP.9987）の大量保有報告を提出 保有割合 9.27%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": 0.58,
+      "unrealized_pct": 1.42,
       "qty": 3300.0,
       "avg_cost": 5209.0,
-      "last_price": 5239.0,
-      "market_value": 17288700.0,
-      "unrealized_pnl": 99000.0
+      "last_price": 5283.0,
+      "market_value": 17433900.0,
+      "unrealized_pnl": 244200.0
+    },
+    {
+      "ticker": "JP.3989",
+      "company_name": "シェアリングテクノロジー",
+      "sector": "Communication Services",
+      "entered_at": "2026-09-17T09:23:03.525017+09:00",
+      "entry_catalyst": "アセット・バリュー・インベスターズ・リミテッド が シェアリングテクノロジー株式会社（JP.3989）の大量保有報告を提出 保有割合 28.98%",
+      "hold_rationale": "official filing: edinet",
+      "unrealized_pct": 0.0,
+      "qty": 11400.0,
+      "avg_cost": 1546.0,
+      "last_price": 1546.0,
+      "market_value": 17624400.0,
+      "unrealized_pnl": 0.0
+    },
+    {
+      "ticker": "JP.6098",
+      "company_name": "リクルートホールディングス",
+      "sector": "Communication Services",
+      "entered_at": "2026-09-17T09:23:06.791962+09:00",
+      "entry_catalyst": "リクルートHDが「隠れAI株」に浮上…求人は減っても増収増益の真価(ニューズウィーク日本版) 生成AIの急速な普及により「AIに仕事を奪われる」という懸念が現実のものとなって広がっています。それは、単純に仕事がなくなるということではなく、求められる業務の内容、あるいは企業が求める人材が変わるこ",
+      "hold_rationale": "fundamental catalyst: earnings",
+      "unrealized_pct": 0.69,
+      "qty": 1000.0,
+      "avg_cost": 17315.0,
+      "last_price": 17435.0,
+      "market_value": 17435000.0,
+      "unrealized_pnl": 120000.0
     }
   ],
   "equity_curve": [
@@ -537,6 +565,13 @@
       "total_assets": 176215530.96,
       "realized_pnl": 16738430.96,
       "unrealized_pnl": -522900.0
+    },
+    {
+      "date": "2026-09-17",
+      "index": 106.959,
+      "total_assets": 176567230.96,
+      "realized_pnl": 16738430.96,
+      "unrealized_pnl": -171200.0
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -818,10 +853,14 @@
         },
         {
           "date": "2026-09-16",
-          "index": 95.3763
+          "index": 95.5011
+        },
+        {
+          "date": "2026-09-17",
+          "index": 95.5834
         }
       ],
-      "period_return_pct": -4.62,
+      "period_return_pct": -4.42,
       "filled_dates": []
     },
     {
@@ -1101,22 +1140,26 @@
         },
         {
           "date": "2026-09-16",
-          "index": 96.701
+          "index": 96.818
+        },
+        {
+          "date": "2026-09-17",
+          "index": 96.818
         }
       ],
-      "period_return_pct": -3.3,
+      "period_return_pct": -3.18,
       "filled_dates": [
         "2026-07-03",
         "2026-09-07",
-        "2026-09-16"
+        "2026-09-17"
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 154.385,
-      "fx_rate_last_date": "2026-09-15"
+      "fx_rate_last": 155.266,
+      "fx_rate_last_date": "2026-09-16"
     }
   ],
-  "invested_ratio_pct": 29.42,
+  "invested_ratio_pct": 49.42,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
@@ -1125,6 +1168,34 @@
     "range": "all"
   },
   "recent_trades": [
+    {
+      "time": "2026-09-17T11:14:08+09:00",
+      "ticker": "JP.3167",
+      "side": "SELL",
+      "qty": 12500.0,
+      "price": 1401.0
+    },
+    {
+      "time": "2026-09-17T09:23:06+09:00",
+      "ticker": "JP.6098",
+      "side": "BUY",
+      "qty": 1000.0,
+      "price": 17315.0
+    },
+    {
+      "time": "2026-09-17T09:23:03+09:00",
+      "ticker": "JP.3989",
+      "side": "BUY",
+      "qty": 11400.0,
+      "price": 1546.0
+    },
+    {
+      "time": "2026-09-17T09:23:02+09:00",
+      "ticker": "JP.3167",
+      "side": "BUY",
+      "qty": 12500.0,
+      "price": 1403.0
+    },
     {
       "time": "2026-09-16T14:38:59+09:00",
       "ticker": "JP.2678",
@@ -1166,34 +1237,6 @@
       "side": "SELL",
       "qty": 12400.0,
       "price": 1405.0
-    },
-    {
-      "time": "2026-09-14T10:11:21+09:00",
-      "ticker": "JP.1928",
-      "side": "SELL",
-      "qty": 5100.0,
-      "price": 3404.0
-    },
-    {
-      "time": "2026-09-14T09:20:01+09:00",
-      "ticker": "JP.2175",
-      "side": "SELL",
-      "qty": 4800.0,
-      "price": 2693.0
-    },
-    {
-      "time": "2026-09-14T09:19:59+09:00",
-      "ticker": "JP.2492",
-      "side": "SELL",
-      "qty": 18000.0,
-      "price": 725.0
-    },
-    {
-      "time": "2026-09-14T09:19:11+09:00",
-      "ticker": "JP.2492",
-      "side": "SELL",
-      "qty": 9000.0,
-      "price": 725.0
     }
   ],
   "notes": []
