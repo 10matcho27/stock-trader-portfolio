@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-18T11:35:02.536695+09:00",
+  "generated_at": "2026-09-18T15:35:04.006716+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
@@ -9,13 +9,13 @@
     "currency": "JPY",
     "position_count": 5,
     "initial_cash": 160000000.0,
-    "cash": 89392530.96,
-    "realized_pnl": 16713430.96,
-    "holding_value": 87040800.0,
-    "total_assets": 176433330.96,
-    "unrealized_pnl": -280100.0,
-    "total_pnl": 16433330.96,
-    "total_return_pct": 10.27
+    "cash": 88634730.96,
+    "realized_pnl": 16146430.96,
+    "holding_value": 88373000.0,
+    "total_assets": 177007730.96,
+    "unrealized_pnl": 861300.0,
+    "total_pnl": 17007730.96,
+    "total_return_pct": 10.63
   },
   "positions": [
     {
@@ -33,32 +33,18 @@
       "unrealized_pnl": 0.0
     },
     {
-      "ticker": "JP.3549",
-      "company_name": "クスリのアオキホールディングス",
-      "sector": "Healthcare",
-      "entered_at": "2026-09-07T09:17:36.619038+09:00",
-      "entry_catalyst": "クスリのアオキＨＤ (3549) 自己株式の取得状況に関するお知らせ",
-      "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": -3.01,
-      "qty": 4200.0,
-      "avg_cost": 4155.0,
-      "last_price": 4030.0,
-      "market_value": 16926000.0,
-      "unrealized_pnl": -525000.0
-    },
-    {
       "ticker": "JP.9987",
       "company_name": "スズケン",
       "sector": "Healthcare",
       "entered_at": "2026-09-10T09:22:01.005486+09:00",
       "entry_catalyst": "シルチェスター・インターナショナル・インベスターズ・エルエルピー が 株式会社スズケン（JP.9987）の大量保有報告を提出 保有割合 9.27%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": 1.98,
+      "unrealized_pct": 1.48,
       "qty": 3300.0,
       "avg_cost": 5209.0,
-      "last_price": 5312.0,
-      "market_value": 17529600.0,
-      "unrealized_pnl": 339900.0
+      "last_price": 5286.0,
+      "market_value": 17443800.0,
+      "unrealized_pnl": 254100.0
     },
     {
       "ticker": "JP.3989",
@@ -81,12 +67,25 @@
       "entered_at": "2026-09-17T09:23:06.791962+09:00",
       "entry_catalyst": "リクルートHDが「隠れAI株」に浮上…求人は減っても増収増益の真価(ニューズウィーク日本版) 生成AIの急速な普及により「AIに仕事を奪われる」という懸念が現実のものとなって広がっています。それは、単純に仕事がなくなるということではなく、求められる業務の内容、あるいは企業が求める人材が変わるこ",
       "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": -0.55,
+      "unrealized_pct": 0.95,
       "qty": 1000.0,
       "avg_cost": 17315.0,
-      "last_price": 17220.0,
-      "market_value": 17220000.0,
-      "unrealized_pnl": -95000.0
+      "last_price": 17480.0,
+      "market_value": 17480000.0,
+      "unrealized_pnl": 165000.0
+    },
+    {
+      "ticker": "JP.7380",
+      "company_name": "十六フィナンシャルグループ",
+      "entered_at": "2026-09-18T15:02:05.005003+09:00",
+      "entry_catalyst": "2027年３月期中間配当予想の修正（設立５周年記念配当）に関するお知らせ",
+      "hold_rationale": "official filing: tdnet",
+      "unrealized_pct": 2.51,
+      "qty": 6600.0,
+      "avg_cost": 2673.0,
+      "last_price": 2740.0,
+      "market_value": 18084000.0,
+      "unrealized_pnl": 442200.0
     }
   ],
   "equity_curve": [
@@ -575,10 +574,10 @@
     },
     {
       "date": "2026-09-18",
-      "index": 106.8662,
-      "total_assets": 176414030.96,
-      "realized_pnl": 16713430.96,
-      "unrealized_pnl": -299400.0
+      "index": 106.9508,
+      "total_assets": 176553630.96,
+      "realized_pnl": 16146430.96,
+      "unrealized_pnl": 407200.0
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -868,10 +867,10 @@
         },
         {
           "date": "2026-09-18",
-          "index": 96.5508
+          "index": 97.3702
         }
       ],
-      "period_return_pct": -3.45,
+      "period_return_pct": -2.63,
       "filled_dates": []
     },
     {
@@ -1159,10 +1158,10 @@
         },
         {
           "date": "2026-09-18",
-          "index": 98.4723
+          "index": 99.0784
         }
       ],
-      "period_return_pct": -1.53,
+      "period_return_pct": -0.92,
       "filled_dates": [
         "2026-07-03",
         "2026-09-07",
@@ -1170,11 +1169,11 @@
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 156.142,
+      "fx_rate_last": 157.103,
       "fx_rate_last_date": "2026-09-18"
     }
   ],
-  "invested_ratio_pct": 49.33,
+  "invested_ratio_pct": 49.93,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
@@ -1183,6 +1182,20 @@
     "range": "all"
   },
   "recent_trades": [
+    {
+      "time": "2026-09-18T15:02:05+09:00",
+      "ticker": "JP.7380",
+      "side": "BUY",
+      "qty": 6600.0,
+      "price": 2673.0
+    },
+    {
+      "time": "2026-09-18T14:00:50+09:00",
+      "ticker": "JP.3549",
+      "side": "SELL",
+      "qty": 4200.0,
+      "price": 4020.0
+    },
     {
       "time": "2026-09-17T11:14:08+09:00",
       "ticker": "JP.3167",
@@ -1238,20 +1251,6 @@
       "side": "SELL",
       "qty": 38800.0,
       "price": 458.0
-    },
-    {
-      "time": "2026-09-15T09:21:46+09:00",
-      "ticker": "JP.3565",
-      "side": "BUY",
-      "qty": 38900.0,
-      "price": 453.0
-    },
-    {
-      "time": "2026-09-14T11:05:11+09:00",
-      "ticker": "JP.456A",
-      "side": "SELL",
-      "qty": 12400.0,
-      "price": 1405.0
     }
   ],
   "notes": []
