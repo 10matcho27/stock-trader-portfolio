@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-24T11:35:03.216749+09:00",
+  "generated_at": "2026-09-24T15:35:02.084792+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
@@ -11,11 +11,11 @@
     "initial_cash": 160000000.0,
     "cash": 106317130.96,
     "realized_pnl": 16558930.96,
-    "holding_value": 69740000.0,
-    "total_assets": 176057130.96,
-    "unrealized_pnl": -501800.0,
-    "total_pnl": 16057130.96,
-    "total_return_pct": 10.04
+    "holding_value": 69274000.0,
+    "total_assets": 175591130.96,
+    "unrealized_pnl": -967800.0,
+    "total_pnl": 15591130.96,
+    "total_return_pct": 9.74
   },
   "positions": [
     {
@@ -25,12 +25,12 @@
       "entered_at": "2026-09-03T09:23:06.216158+09:00",
       "entry_catalyst": "中国EMS大手が日本のコンタクトレンズを欲しがるワケ…老舗メーカー｢シード｣の株式公開買い付けを進める真の狙い | ビジネス | 東洋経済オンライン 巧妙な買収スキームの裏側を徹底解説します。このクロスボーダーM&amp;Aの真意とは？",
       "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": 0.0,
+      "unrealized_pct": 0.13,
       "qty": 22400.0,
       "avg_cost": 792.0,
-      "last_price": 792.0,
-      "market_value": 17740800.0,
-      "unrealized_pnl": 0.0
+      "last_price": 793.0,
+      "market_value": 17763200.0,
+      "unrealized_pnl": 22400.0
     },
     {
       "ticker": "JP.3989",
@@ -53,12 +53,12 @@
       "entered_at": "2026-09-17T09:23:06.791962+09:00",
       "entry_catalyst": "リクルートHDが「隠れAI株」に浮上…求人は減っても増収増益の真価(ニューズウィーク日本版) 生成AIの急速な普及により「AIに仕事を奪われる」という懸念が現実のものとなって広がっています。それは、単純に仕事がなくなるということではなく、求められる業務の内容、あるいは企業が求める人材が変わるこ",
       "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": -4.3,
+      "unrealized_pct": -6.44,
       "qty": 1000.0,
       "avg_cost": 17315.0,
-      "last_price": 16570.0,
-      "market_value": 16570000.0,
-      "unrealized_pnl": -745000.0
+      "last_price": 16200.0,
+      "market_value": 16200000.0,
+      "unrealized_pnl": -1115000.0
     },
     {
       "ticker": "JP.6501",
@@ -67,12 +67,12 @@
       "entered_at": "2026-09-24T09:17:28.733388+09:00",
       "entry_catalyst": "日立、鉄道でM＆A意欲 新市場開拓へ「厳選」構え(共同通信) 【ベルリン共同】日立製作所で鉄道事業を統括するジュゼッペ・マリノ執行役専務は22日、共同通信のインタビューで、成長が続く鉄道事業の強化に向けて、新たな企業の合併・買収（M＆A）に意欲を示した。新市場",
       "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": 1.38,
+      "unrealized_pct": 0.71,
       "qty": 3200.0,
       "avg_cost": 5488.0,
-      "last_price": 5564.0,
-      "market_value": 17804800.0,
-      "unrealized_pnl": 243200.0
+      "last_price": 5527.0,
+      "market_value": 17686400.0,
+      "unrealized_pnl": 124800.0
     }
   ],
   "equity_curve": [
@@ -568,10 +568,10 @@
     },
     {
       "date": "2026-09-24",
-      "index": 106.7611,
-      "total_assets": 176240530.96,
+      "index": 106.411,
+      "total_assets": 175662530.96,
       "realized_pnl": 16558930.96,
-      "unrealized_pnl": -318400.0
+      "unrealized_pnl": -896400.0
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -865,10 +865,10 @@
         },
         {
           "date": "2026-09-24",
-          "index": 98.4502
+          "index": 98.1184
         }
       ],
-      "period_return_pct": -1.55,
+      "period_return_pct": -1.88,
       "filled_dates": []
     },
     {
@@ -1160,10 +1160,10 @@
         },
         {
           "date": "2026-09-24",
-          "index": 100.4501
+          "index": 100.1937
         }
       ],
-      "period_return_pct": 0.45,
+      "period_return_pct": 0.19,
       "filled_dates": [
         "2026-07-03",
         "2026-09-07",
@@ -1171,11 +1171,11 @@
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 157.867,
-      "fx_rate_last_date": "2026-09-24"
+      "fx_rate_last": 157.464,
+      "fx_rate_last_date": "2026-09-23"
     }
   ],
-  "invested_ratio_pct": 39.61,
+  "invested_ratio_pct": 39.45,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
