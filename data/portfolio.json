@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-24T15:35:02.084792+09:00",
+  "generated_at": "2026-09-25T11:35:01.907945+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
@@ -9,13 +9,13 @@
     "currency": "JPY",
     "position_count": 4,
     "initial_cash": 160000000.0,
-    "cash": 106317130.96,
-    "realized_pnl": 16558930.96,
-    "holding_value": 69274000.0,
-    "total_assets": 175591130.96,
-    "unrealized_pnl": -967800.0,
-    "total_pnl": 15591130.96,
-    "total_return_pct": 9.74
+    "cash": 105316380.96,
+    "realized_pnl": 15272730.96,
+    "holding_value": 70042200.0,
+    "total_assets": 175358580.96,
+    "unrealized_pnl": 85850.0,
+    "total_pnl": 15358580.96,
+    "total_return_pct": 9.6
   },
   "positions": [
     {
@@ -39,40 +39,40 @@
       "entered_at": "2026-09-17T09:23:03.525017+09:00",
       "entry_catalyst": "アセット・バリュー・インベスターズ・リミテッド が シェアリングテクノロジー株式会社（JP.3989）の大量保有報告を提出 保有割合 28.98%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": 0.0,
+      "unrealized_pct": -0.06,
       "qty": 11400.0,
       "avg_cost": 1546.0,
-      "last_price": 1546.0,
-      "market_value": 17624400.0,
-      "unrealized_pnl": 0.0
+      "last_price": 1545.0,
+      "market_value": 17613000.0,
+      "unrealized_pnl": -11400.0
     },
     {
-      "ticker": "JP.6098",
-      "company_name": "リクルートホールディングス",
-      "sector": "Communication Services",
-      "entered_at": "2026-09-17T09:23:06.791962+09:00",
-      "entry_catalyst": "リクルートHDが「隠れAI株」に浮上…求人は減っても増収増益の真価(ニューズウィーク日本版) 生成AIの急速な普及により「AIに仕事を奪われる」という懸念が現実のものとなって広がっています。それは、単純に仕事がなくなるということではなく、求められる業務の内容、あるいは企業が求める人材が変わるこ",
-      "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": -6.44,
-      "qty": 1000.0,
-      "avg_cost": 17315.0,
-      "last_price": 16200.0,
-      "market_value": 16200000.0,
-      "unrealized_pnl": -1115000.0
-    },
-    {
-      "ticker": "JP.6501",
-      "company_name": "日立製作所",
+      "ticker": "JP.6104",
+      "company_name": "芝浦機械(株)",
       "sector": "Industrials",
-      "entered_at": "2026-09-24T09:17:28.733388+09:00",
-      "entry_catalyst": "日立、鉄道でM＆A意欲 新市場開拓へ「厳選」構え(共同通信) 【ベルリン共同】日立製作所で鉄道事業を統括するジュゼッペ・マリノ執行役専務は22日、共同通信のインタビューで、成長が続く鉄道事業の強化に向けて、新たな企業の合併・買収（M＆A）に意欲を示した。新市場",
-      "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": 0.71,
-      "qty": 3200.0,
-      "avg_cost": 5488.0,
-      "last_price": 5527.0,
-      "market_value": 17686400.0,
-      "unrealized_pnl": 124800.0
+      "entered_at": "2026-09-25T09:22:02.992043+09:00",
+      "entry_catalyst": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ． が 芝浦機械株式会社（JP.6104）の大量保有報告を提出 保有割合 9.02%",
+      "hold_rationale": "official filing: edinet",
+      "unrealized_pct": 0.32,
+      "qty": 3700.0,
+      "avg_cost": 4630.0,
+      "last_price": 4645.0,
+      "market_value": 17186500.0,
+      "unrealized_pnl": 55500.0
+    },
+    {
+      "ticker": "JP.9009",
+      "company_name": "京成電鉄",
+      "sector": "Industrials",
+      "entered_at": "2026-09-25T09:22:04.551988+09:00",
+      "entry_catalyst": "京成 (9009) 千葉日石株式会社の株式取得（子会社化）に関するお知らせ",
+      "hold_rationale": "official filing: tdnet",
+      "unrealized_pct": 0.11,
+      "qty": 12900.0,
+      "avg_cost": 1353.5,
+      "last_price": 1355.0,
+      "market_value": 17479500.0,
+      "unrealized_pnl": 19350.0
     }
   ],
   "equity_curve": [
@@ -572,6 +572,13 @@
       "total_assets": 175662530.96,
       "realized_pnl": 16558930.96,
       "unrealized_pnl": -896400.0
+    },
+    {
+      "date": "2026-09-25",
+      "index": 106.3137,
+      "total_assets": 175501830.96,
+      "realized_pnl": 15272730.96,
+      "unrealized_pnl": 229100.0
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -865,10 +872,14 @@
         },
         {
           "date": "2026-09-24",
-          "index": 98.1184
+          "index": 97.878
+        },
+        {
+          "date": "2026-09-25",
+          "index": 99.0546
         }
       ],
-      "period_return_pct": -1.88,
+      "period_return_pct": -0.95,
       "filled_dates": []
     },
     {
@@ -1160,22 +1171,26 @@
         },
         {
           "date": "2026-09-24",
-          "index": 100.1937
+          "index": 100.6785
+        },
+        {
+          "date": "2026-09-25",
+          "index": 100.6785
         }
       ],
-      "period_return_pct": 0.19,
+      "period_return_pct": 0.68,
       "filled_dates": [
         "2026-07-03",
         "2026-09-07",
-        "2026-09-24"
+        "2026-09-25"
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 157.464,
-      "fx_rate_last_date": "2026-09-23"
+      "fx_rate_last": 158.265,
+      "fx_rate_last_date": "2026-09-24"
     }
   ],
-  "invested_ratio_pct": 39.45,
+  "invested_ratio_pct": 39.94,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
@@ -1184,6 +1199,34 @@
     "range": "all"
   },
   "recent_trades": [
+    {
+      "time": "2026-09-25T09:22:04+09:00",
+      "ticker": "JP.9009",
+      "side": "BUY",
+      "qty": 12900.0,
+      "price": 1353.5
+    },
+    {
+      "time": "2026-09-25T09:22:02+09:00",
+      "ticker": "JP.6104",
+      "side": "BUY",
+      "qty": 3700.0,
+      "price": 4630.0
+    },
+    {
+      "time": "2026-09-25T09:00:25+09:00",
+      "ticker": "JP.6098",
+      "side": "SELL",
+      "qty": 1000.0,
+      "price": 16000.0
+    },
+    {
+      "time": "2026-09-25T09:00:24+09:00",
+      "ticker": "JP.6501",
+      "side": "SELL",
+      "qty": 3200.0,
+      "price": 5497.0
+    },
     {
       "time": "2026-09-24T10:15:31+09:00",
       "ticker": "JP.7380",
@@ -1225,34 +1268,6 @@
       "side": "SELL",
       "qty": 12500.0,
       "price": 1401.0
-    },
-    {
-      "time": "2026-09-17T09:23:06+09:00",
-      "ticker": "JP.6098",
-      "side": "BUY",
-      "qty": 1000.0,
-      "price": 17315.0
-    },
-    {
-      "time": "2026-09-17T09:23:03+09:00",
-      "ticker": "JP.3989",
-      "side": "BUY",
-      "qty": 11400.0,
-      "price": 1546.0
-    },
-    {
-      "time": "2026-09-17T09:23:02+09:00",
-      "ticker": "JP.3167",
-      "side": "BUY",
-      "qty": 12500.0,
-      "price": 1403.0
-    },
-    {
-      "time": "2026-09-16T14:38:59+09:00",
-      "ticker": "JP.2678",
-      "side": "SELL",
-      "qty": 14100.0,
-      "price": 1252.0
     }
   ],
   "notes": []
