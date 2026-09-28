@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-25T15:35:02.543692+09:00",
+  "generated_at": "2026-09-28T11:35:21.753530+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
   "valuation_available": true,
   "summary": {
     "currency": "JPY",
-    "position_count": 4,
+    "position_count": 5,
     "initial_cash": 160000000.0,
-    "cash": 105316380.96,
+    "cash": 87972580.96,
     "realized_pnl": 15272730.96,
-    "holding_value": 70134700.0,
-    "total_assets": 175451080.96,
-    "unrealized_pnl": 178350.0,
-    "total_pnl": 15451080.96,
-    "total_return_pct": 9.66
+    "holding_value": 87872150.0,
+    "total_assets": 175844730.96,
+    "unrealized_pnl": 572000.0,
+    "total_pnl": 15844730.96,
+    "total_return_pct": 9.9
   },
   "positions": [
     {
@@ -33,32 +33,18 @@
       "unrealized_pnl": 22400.0
     },
     {
-      "ticker": "JP.3989",
-      "company_name": "シェアリングテクノロジー",
-      "sector": "Communication Services",
-      "entered_at": "2026-09-17T09:23:03.525017+09:00",
-      "entry_catalyst": "アセット・バリュー・インベスターズ・リミテッド が シェアリングテクノロジー株式会社（JP.3989）の大量保有報告を提出 保有割合 28.98%",
-      "hold_rationale": "official filing: edinet",
-      "unrealized_pct": -0.06,
-      "qty": 11400.0,
-      "avg_cost": 1546.0,
-      "last_price": 1545.0,
-      "market_value": 17613000.0,
-      "unrealized_pnl": -11400.0
-    },
-    {
       "ticker": "JP.6104",
       "company_name": "芝浦機械(株)",
       "sector": "Industrials",
       "entered_at": "2026-09-25T09:22:02.992043+09:00",
       "entry_catalyst": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ． が 芝浦機械株式会社（JP.6104）の大量保有報告を提出 保有割合 9.02%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": 0.86,
+      "unrealized_pct": 2.81,
       "qty": 3700.0,
       "avg_cost": 4630.0,
-      "last_price": 4670.0,
-      "market_value": 17279000.0,
-      "unrealized_pnl": 148000.0
+      "last_price": 4760.0,
+      "market_value": 17612000.0,
+      "unrealized_pnl": 481000.0
     },
     {
       "ticker": "JP.9009",
@@ -67,12 +53,40 @@
       "entered_at": "2026-09-25T09:22:04.551988+09:00",
       "entry_catalyst": "京成 (9009) 千葉日石株式会社の株式取得（子会社化）に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 0.11,
+      "unrealized_pct": -0.15,
       "qty": 12900.0,
       "avg_cost": 1353.5,
-      "last_price": 1355.0,
-      "market_value": 17479500.0,
-      "unrealized_pnl": 19350.0
+      "last_price": 1351.5,
+      "market_value": 17434350.0,
+      "unrealized_pnl": -25800.0
+    },
+    {
+      "ticker": "JP.2413",
+      "company_name": "エムスリー",
+      "sector": "Healthcare",
+      "entered_at": "2026-09-28T09:17:30.549289+09:00",
+      "entry_catalyst": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ． が エムスリー株式会社（JP.2413）の大量保有報告を提出 保有割合 8.46%",
+      "hold_rationale": "official filing: edinet",
+      "unrealized_pct": 0.68,
+      "qty": 9900.0,
+      "avg_cost": 1773.0,
+      "last_price": 1785.0,
+      "market_value": 17671500.0,
+      "unrealized_pnl": 118800.0
+    },
+    {
+      "ticker": "JP.2612",
+      "company_name": "かどや製油",
+      "sector": "Consumer Defensive",
+      "entered_at": "2026-09-28T09:17:32.149370+09:00",
+      "entry_catalyst": "ごま油最大手｢かどや製油｣が投資ファンドによるTOBに賛同した背景 近年はグローバル化も加速 | 政治・経済・投資 | 東洋経済オンライン ごま油の国内最大手のかどや製油は9月14日､投資ファンドのTOBを受けると発表しました。その背景とは？",
+      "hold_rationale": "fundamental catalyst: mna",
+      "unrealized_pct": -0.14,
+      "qty": 6100.0,
+      "avg_cost": 2855.0,
+      "last_price": 2851.0,
+      "market_value": 17391100.0,
+      "unrealized_pnl": -24400.0
     }
   ],
   "equity_curve": [
@@ -579,6 +593,13 @@
       "total_assets": 175483530.96,
       "realized_pnl": 15272730.96,
       "unrealized_pnl": 210800.0
+    },
+    {
+      "date": "2026-09-28",
+      "index": 106.4859,
+      "total_assets": 175786130.96,
+      "realized_pnl": 15272730.96,
+      "unrealized_pnl": 513400.0
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -876,10 +897,14 @@
         },
         {
           "date": "2026-09-25",
-          "index": 99.1725
+          "index": 99.1482
+        },
+        {
+          "date": "2026-09-28",
+          "index": 99.1358
         }
       ],
-      "period_return_pct": -0.83,
+      "period_return_pct": -0.86,
       "filled_dates": []
     },
     {
@@ -1175,22 +1200,26 @@
         },
         {
           "date": "2026-09-25",
-          "index": 100.6785
+          "index": 101.541
+        },
+        {
+          "date": "2026-09-28",
+          "index": 100.8639
         }
       ],
-      "period_return_pct": 0.68,
+      "period_return_pct": 0.86,
       "filled_dates": [
         "2026-07-03",
         "2026-09-07",
-        "2026-09-25"
+        "2026-09-28"
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 158.265,
-      "fx_rate_last_date": "2026-09-24"
+      "fx_rate_last": 157.752,
+      "fx_rate_last_date": "2026-09-28"
     }
   ],
-  "invested_ratio_pct": 39.97,
+  "invested_ratio_pct": 49.97,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
@@ -1199,6 +1228,34 @@
     "range": "all"
   },
   "recent_trades": [
+    {
+      "time": "2026-09-28T09:53:46+09:00",
+      "ticker": "JP.3989",
+      "side": "SELL",
+      "qty": 5700.0,
+      "price": 1546.0
+    },
+    {
+      "time": "2026-09-28T09:23:11+09:00",
+      "ticker": "JP.3989",
+      "side": "SELL",
+      "qty": 5700.0,
+      "price": 1546.0
+    },
+    {
+      "time": "2026-09-28T09:17:32+09:00",
+      "ticker": "JP.2612",
+      "side": "BUY",
+      "qty": 6100.0,
+      "price": 2855.0
+    },
+    {
+      "time": "2026-09-28T09:17:30+09:00",
+      "ticker": "JP.2413",
+      "side": "BUY",
+      "qty": 9900.0,
+      "price": 1773.0
+    },
     {
       "time": "2026-09-25T09:22:04+09:00",
       "ticker": "JP.9009",
@@ -1240,34 +1297,6 @@
       "side": "BUY",
       "qty": 3200.0,
       "price": 5488.0
-    },
-    {
-      "time": "2026-09-24T09:00:32+09:00",
-      "ticker": "JP.9987",
-      "side": "SELL",
-      "qty": 3300.0,
-      "price": 5268.0
-    },
-    {
-      "time": "2026-09-18T15:02:05+09:00",
-      "ticker": "JP.7380",
-      "side": "BUY",
-      "qty": 6600.0,
-      "price": 2673.0
-    },
-    {
-      "time": "2026-09-18T14:00:50+09:00",
-      "ticker": "JP.3549",
-      "side": "SELL",
-      "qty": 4200.0,
-      "price": 4020.0
-    },
-    {
-      "time": "2026-09-17T11:14:08+09:00",
-      "ticker": "JP.3167",
-      "side": "SELL",
-      "qty": 12500.0,
-      "price": 1401.0
     }
   ],
   "notes": []
