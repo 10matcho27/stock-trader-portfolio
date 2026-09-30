@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-29T15:35:02.554903+09:00",
+  "generated_at": "2026-09-30T11:35:02.805642+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
@@ -9,13 +9,13 @@
     "currency": "JPY",
     "position_count": 4,
     "initial_cash": 160000000.0,
-    "cash": 114712880.96,
-    "realized_pnl": 15853080.96,
-    "holding_value": 61240800.0,
-    "total_assets": 175953680.96,
-    "unrealized_pnl": 100600.0,
-    "total_pnl": 15953680.96,
-    "total_return_pct": 9.97
+    "cash": 118999880.96,
+    "realized_pnl": 16046880.96,
+    "holding_value": 56855900.0,
+    "total_assets": 175855780.96,
+    "unrealized_pnl": -191100.0,
+    "total_pnl": 15855780.96,
+    "total_return_pct": 9.91
   },
   "positions": [
     {
@@ -39,12 +39,12 @@
       "entered_at": "2026-09-28T09:17:30.549289+09:00",
       "entry_catalyst": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ． が エムスリー株式会社（JP.2413）の大量保有報告を提出 保有割合 8.46%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": -0.23,
-      "qty": 4900.0,
+      "unrealized_pct": -1.02,
+      "qty": 2500.0,
       "avg_cost": 1773.0,
-      "last_price": 1769.0,
-      "market_value": 8668100.0,
-      "unrealized_pnl": -19600.0
+      "last_price": 1755.0,
+      "market_value": 4387500.0,
+      "unrealized_pnl": -45000.0
     },
     {
       "ticker": "JP.2612",
@@ -53,26 +53,26 @@
       "entered_at": "2026-09-28T09:17:32.149370+09:00",
       "entry_catalyst": "ごま油最大手｢かどや製油｣が投資ファンドによるTOBに賛同した背景 近年はグローバル化も加速 | 政治・経済・投資 | 東洋経済オンライン ごま油の国内最大手のかどや製油は9月14日､投資ファンドのTOBを受けると発表しました。その背景とは？",
       "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": -1.05,
+      "unrealized_pct": -0.6,
       "qty": 6100.0,
       "avg_cost": 2855.0,
-      "last_price": 2825.0,
-      "market_value": 17232500.0,
-      "unrealized_pnl": -183000.0
+      "last_price": 2838.0,
+      "market_value": 17311800.0,
+      "unrealized_pnl": -103700.0
     },
     {
       "ticker": "JP.8227",
       "company_name": "しまむら",
       "sector": "Consumer Cyclical",
-      "entered_at": "2026-09-29T09:22:42.031119+09:00",
-      "entry_catalyst": "しまむら (8227) 2027年２月期　（第２四半期）決算短信〔日本基準〕（連結）",
-      "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 1.62,
+      "entered_at": "2026-09-30T09:22:32.950929+09:00",
+      "entry_catalyst": "藤田ニコル、しまむらのベビー&子供服「バースデイ」の顔に。同社2〜8月期は純利益最高、株価は決算発表翌日に反発(ハフポスト日本版) しまむらは9月24日、グループのベビー・子供用品専門店「バースデイ」のアンバサダーにタレントの藤田ニコルさんが就任したと発表した。「もっとお得に、もっとハッピーに、毎日がバースデイ」をコンセプトに、藤",
+      "hold_rationale": "fundamental catalyst: earnings",
+      "unrealized_pct": -0.37,
       "qty": 5400.0,
-      "avg_cost": 3203.0,
-      "last_price": 3255.0,
-      "market_value": 17577000.0,
-      "unrealized_pnl": 280800.0
+      "avg_cost": 3233.0,
+      "last_price": 3221.0,
+      "market_value": 17393400.0,
+      "unrealized_pnl": -64800.0
     }
   ],
   "equity_curve": [
@@ -593,6 +593,13 @@
       "total_assets": 175846580.96,
       "realized_pnl": 15853080.96,
       "unrealized_pnl": -6500.0
+    },
+    {
+      "date": "2026-09-30",
+      "index": 106.5176,
+      "total_assets": 175838530.96,
+      "realized_pnl": 16046880.96,
+      "unrealized_pnl": -208350.0
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -898,10 +905,14 @@
         },
         {
           "date": "2026-09-29",
-          "index": 97.4475
+          "index": 97.8291
+        },
+        {
+          "date": "2026-09-30",
+          "index": 99.1096
         }
       ],
-      "period_return_pct": -2.55,
+      "period_return_pct": -0.89,
       "filled_dates": []
     },
     {
@@ -1205,22 +1216,26 @@
         },
         {
           "date": "2026-09-29",
-          "index": 99.8404
+          "index": 99.6709
+        },
+        {
+          "date": "2026-09-30",
+          "index": 99.1199
         }
       ],
-      "period_return_pct": -0.16,
+      "period_return_pct": -0.88,
       "filled_dates": [
         "2026-07-03",
         "2026-09-07",
-        "2026-09-29"
+        "2026-09-30"
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 157.365,
-      "fx_rate_last_date": "2026-09-29"
+      "fx_rate_last": 156.491,
+      "fx_rate_last_date": "2026-09-30"
     }
   ],
-  "invested_ratio_pct": 34.81,
+  "invested_ratio_pct": 32.33,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
@@ -1229,6 +1244,41 @@
     "range": "all"
   },
   "recent_trades": [
+    {
+      "time": "2026-09-30T09:22:56+09:00",
+      "ticker": "JP.3050",
+      "side": "SELL",
+      "qty": 11500.0,
+      "price": 1519.0
+    },
+    {
+      "time": "2026-09-30T09:22:32+09:00",
+      "ticker": "JP.8227",
+      "side": "BUY",
+      "qty": 5400.0,
+      "price": 3233.0
+    },
+    {
+      "time": "2026-09-30T09:22:30+09:00",
+      "ticker": "JP.3050",
+      "side": "BUY",
+      "qty": 11500.0,
+      "price": 1519.0
+    },
+    {
+      "time": "2026-09-30T09:00:10+09:00",
+      "ticker": "JP.2413",
+      "side": "SELL",
+      "qty": 2400.0,
+      "price": 1770.5
+    },
+    {
+      "time": "2026-09-30T09:00:08+09:00",
+      "ticker": "JP.8227",
+      "side": "SELL",
+      "qty": 5400.0,
+      "price": 3240.0
+    },
     {
       "time": "2026-09-29T09:22:42+09:00",
       "ticker": "JP.8227",
@@ -1263,41 +1313,6 @@
       "side": "BUY",
       "qty": 11500.0,
       "price": 1527.0
-    },
-    {
-      "time": "2026-09-28T13:40:10+09:00",
-      "ticker": "JP.6104",
-      "side": "SELL",
-      "qty": 2500.0,
-      "price": 4810.0
-    },
-    {
-      "time": "2026-09-28T13:39:50+09:00",
-      "ticker": "JP.6104",
-      "side": "SELL",
-      "qty": 1200.0,
-      "price": 4810.0
-    },
-    {
-      "time": "2026-09-28T09:53:46+09:00",
-      "ticker": "JP.3989",
-      "side": "SELL",
-      "qty": 5700.0,
-      "price": 1546.0
-    },
-    {
-      "time": "2026-09-28T09:23:11+09:00",
-      "ticker": "JP.3989",
-      "side": "SELL",
-      "qty": 5700.0,
-      "price": 1546.0
-    },
-    {
-      "time": "2026-09-28T09:17:32+09:00",
-      "ticker": "JP.2612",
-      "side": "BUY",
-      "qty": 6100.0,
-      "price": 2855.0
     }
   ],
   "notes": []
