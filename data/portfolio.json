@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-01T11:35:02.578457+09:00",
+  "generated_at": "2026-10-01T15:35:02.670578+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
   "valuation_available": true,
   "summary": {
     "currency": "JPY",
-    "position_count": 3,
+    "position_count": 4,
     "initial_cash": 160000000.0,
-    "cash": 137581680.96,
+    "cash": 119914780.96,
     "realized_pnl": 17170480.96,
-    "holding_value": 39608850.0,
-    "total_assets": 177190530.96,
-    "unrealized_pnl": 20050.0,
-    "total_pnl": 17190530.96,
-    "total_return_pct": 10.74
+    "holding_value": 57483550.0,
+    "total_assets": 177398330.96,
+    "unrealized_pnl": 227850.0,
+    "total_pnl": 17398330.96,
+    "total_return_pct": 10.87
   },
   "positions": [
     {
@@ -39,12 +39,12 @@
       "entered_at": "2026-09-28T09:17:30.549289+09:00",
       "entry_catalyst": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ． が エムスリー株式会社（JP.2413）の大量保有報告を提出 保有割合 8.46%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": 0.08,
+      "unrealized_pct": 1.44,
       "qty": 2500.0,
       "avg_cost": 1773.0,
-      "last_price": 1774.5,
-      "market_value": 4436250.0,
-      "unrealized_pnl": 3750.0
+      "last_price": 1798.5,
+      "market_value": 4496250.0,
+      "unrealized_pnl": 63750.0
     },
     {
       "ticker": "JP.2612",
@@ -53,12 +53,26 @@
       "entered_at": "2026-09-28T09:17:32.149370+09:00",
       "entry_catalyst": "ごま油最大手｢かどや製油｣が投資ファンドによるTOBに賛同した背景 近年はグローバル化も加速 | 政治・経済・投資 | 東洋経済オンライン ごま油の国内最大手のかどや製油は9月14日､投資ファンドのTOBを受けると発表しました。その背景とは？",
       "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": -0.04,
+      "unrealized_pct": 0.18,
       "qty": 6100.0,
       "avg_cost": 2855.0,
-      "last_price": 2854.0,
-      "market_value": 17409400.0,
-      "unrealized_pnl": -6100.0
+      "last_price": 2860.0,
+      "market_value": 17446000.0,
+      "unrealized_pnl": 30500.0
+    },
+    {
+      "ticker": "JP.3179",
+      "company_name": "シュッピン",
+      "sector": "Consumer Cyclical",
+      "entered_at": "2026-10-01T12:40:48.486231+09:00",
+      "entry_catalyst": "ＭＩＲＩ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　ＬＬＣ が シュッピン株式会社（JP.3179）の大量保有報告を提出 保有割合 9.16%",
+      "hold_rationale": "official filing: edinet",
+      "unrealized_pct": 0.63,
+      "qty": 13900.0,
+      "avg_cost": 1271.0,
+      "last_price": 1279.0,
+      "market_value": 17778100.0,
+      "unrealized_pnl": 111200.0
     }
   ],
   "equity_curve": [
@@ -589,10 +603,10 @@
     },
     {
       "date": "2026-10-01",
-      "index": 107.3218,
-      "total_assets": 177166130.96,
+      "index": 107.4665,
+      "total_assets": 177404980.96,
       "realized_pnl": 17170480.96,
-      "unrealized_pnl": -4350.0
+      "unrealized_pnl": 234500.0
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -906,10 +920,10 @@
         },
         {
           "date": "2026-10-01",
-          "index": 101.9772
+          "index": 102.9998
         }
       ],
-      "period_return_pct": 1.98,
+      "period_return_pct": 3.0,
       "filled_dates": []
     },
     {
@@ -1221,10 +1235,10 @@
         },
         {
           "date": "2026-10-01",
-          "index": 99.9092
+          "index": 99.4473
         }
       ],
-      "period_return_pct": -0.09,
+      "period_return_pct": -0.55,
       "filled_dates": [
         "2026-07-03",
         "2026-09-07",
@@ -1232,11 +1246,11 @@
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 158.135,
-      "fx_rate_last_date": "2026-10-01"
+      "fx_rate_last": 157.404,
+      "fx_rate_last_date": "2026-09-30"
     }
   ],
-  "invested_ratio_pct": 22.35,
+  "invested_ratio_pct": 32.4,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
@@ -1245,6 +1259,27 @@
     "range": "all"
   },
   "recent_trades": [
+    {
+      "time": "2026-10-01T12:41:19+09:00",
+      "ticker": "JP.2685",
+      "side": "SELL",
+      "qty": 5800.0,
+      "price": 3040.0
+    },
+    {
+      "time": "2026-10-01T12:41:12+09:00",
+      "ticker": "JP.2685",
+      "side": "BUY",
+      "qty": 5800.0,
+      "price": 3040.0
+    },
+    {
+      "time": "2026-10-01T12:40:48+09:00",
+      "ticker": "JP.3179",
+      "side": "BUY",
+      "qty": 13900.0,
+      "price": 1271.0
+    },
     {
       "time": "2026-10-01T10:42:15+09:00",
       "ticker": "JP.6255",
@@ -1293,27 +1328,6 @@
       "side": "SELL",
       "qty": 12400.0,
       "price": 711.0
-    },
-    {
-      "time": "2026-10-01T09:00:07+09:00",
-      "ticker": "JP.8227",
-      "side": "SELL",
-      "qty": 2700.0,
-      "price": 3277.0
-    },
-    {
-      "time": "2026-09-30T14:41:49+09:00",
-      "ticker": "JP.6255",
-      "side": "BUY",
-      "qty": 24800.0,
-      "price": 710.0
-    },
-    {
-      "time": "2026-09-30T09:22:56+09:00",
-      "ticker": "JP.3050",
-      "side": "SELL",
-      "qty": 11500.0,
-      "price": 1519.0
     }
   ],
   "notes": []
