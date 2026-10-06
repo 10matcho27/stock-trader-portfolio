@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-05T15:35:02.387541+09:00",
+  "generated_at": "2026-10-06T11:35:02.257552+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
   "valuation_available": true,
   "summary": {
     "currency": "JPY",
-    "position_count": 6,
+    "position_count": 9,
     "initial_cash": 160000000.0,
-    "cash": 85752080.96,
-    "realized_pnl": 18090280.96,
-    "holding_value": 91730700.0,
-    "total_assets": 177482780.96,
-    "unrealized_pnl": -607500.0,
-    "total_pnl": 17482780.96,
-    "total_return_pct": 10.93
+    "cash": 41378880.96,
+    "realized_pnl": 17970280.96,
+    "holding_value": 136487050.0,
+    "total_assets": 177865930.96,
+    "unrealized_pnl": -104350.0,
+    "total_pnl": 17865930.96,
+    "total_return_pct": 11.17
   },
   "positions": [
     {
@@ -39,12 +39,12 @@
       "entered_at": "2026-09-28T09:17:30.549289+09:00",
       "entry_catalyst": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ． が エムスリー株式会社（JP.2413）の大量保有報告を提出 保有割合 8.46%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": 0.0,
+      "unrealized_pct": 1.49,
       "qty": 2500.0,
       "avg_cost": 1773.0,
-      "last_price": 1773.0,
-      "market_value": 4432500.0,
-      "unrealized_pnl": 0.0
+      "last_price": 1799.5,
+      "market_value": 4498750.0,
+      "unrealized_pnl": 66250.0
     },
     {
       "ticker": "JP.2612",
@@ -53,12 +53,12 @@
       "entered_at": "2026-09-28T09:17:32.149370+09:00",
       "entry_catalyst": "ごま油最大手｢かどや製油｣が投資ファンドによるTOBに賛同した背景 近年はグローバル化も加速 | 政治・経済・投資 | 東洋経済オンライン ごま油の国内最大手のかどや製油は9月14日､投資ファンドのTOBを受けると発表しました。その背景とは？",
       "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": -0.6,
+      "unrealized_pct": -0.28,
       "qty": 6100.0,
       "avg_cost": 2855.0,
-      "last_price": 2838.0,
-      "market_value": 17311800.0,
-      "unrealized_pnl": -103700.0
+      "last_price": 2847.0,
+      "market_value": 17366700.0,
+      "unrealized_pnl": -48800.0
     },
     {
       "ticker": "JP.3179",
@@ -67,12 +67,12 @@
       "entered_at": "2026-10-01T12:40:48.486231+09:00",
       "entry_catalyst": "ＭＩＲＩ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　ＬＬＣ が シュッピン株式会社（JP.3179）の大量保有報告を提出 保有割合 9.16%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": -1.65,
+      "unrealized_pct": 2.28,
       "qty": 13900.0,
       "avg_cost": 1271.0,
-      "last_price": 1250.0,
-      "market_value": 17375000.0,
-      "unrealized_pnl": -291900.0
+      "last_price": 1300.0,
+      "market_value": 18070000.0,
+      "unrealized_pnl": 403100.0
     },
     {
       "ticker": "JP.6104",
@@ -81,12 +81,12 @@
       "entered_at": "2026-10-02T09:21:55.996348+09:00",
       "entry_catalyst": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ． が 芝浦機械株式会社（JP.6104）の大量保有報告を提出 保有割合 10.14%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": 0.6,
+      "unrealized_pct": 0.4,
       "qty": 3500.0,
       "avg_cost": 4990.0,
-      "last_price": 5020.0,
-      "market_value": 17570000.0,
-      "unrealized_pnl": 105000.0
+      "last_price": 5010.0,
+      "market_value": 17535000.0,
+      "unrealized_pnl": 70000.0
     },
     {
       "ticker": "JP.8343",
@@ -95,12 +95,54 @@
       "entered_at": "2026-10-05T09:17:36.625958+09:00",
       "entry_catalyst": "秋田銀 (8343) 株式会社プロクレアホールディングス（株式会社青森みちのく銀行）、株式会社秋田銀行、株式会社岩手銀行の経営統合に関する検討開始について",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": -1.93,
+      "unrealized_pct": -1.83,
       "qty": 8700.0,
       "avg_cost": 2025.0,
-      "last_price": 1986.0,
-      "market_value": 17278200.0,
-      "unrealized_pnl": -339300.0
+      "last_price": 1988.0,
+      "market_value": 17295600.0,
+      "unrealized_pnl": -321900.0
+    },
+    {
+      "ticker": "JP.2492",
+      "company_name": "インフォマート",
+      "sector": "Technology",
+      "entered_at": "2026-10-06T09:22:50.547522+09:00",
+      "entry_catalyst": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ． が 株式会社インフォマート（JP.2492）の大量保有報告を提出 保有割合 22.60%",
+      "hold_rationale": "official filing: edinet",
+      "unrealized_pct": -0.79,
+      "qty": 23400.0,
+      "avg_cost": 757.0,
+      "last_price": 751.0,
+      "market_value": 17573400.0,
+      "unrealized_pnl": -140400.0
+    },
+    {
+      "ticker": "JP.3498",
+      "company_name": "霞ヶ関キャピタル",
+      "sector": "Industrials",
+      "entered_at": "2026-10-06T09:22:51.888590+09:00",
+      "entry_catalyst": "霞ヶ関キャピタル (3498) 2026年8月期 決算短信〔日本基準〕（連結）",
+      "hold_rationale": "official filing: tdnet",
+      "unrealized_pct": -2.19,
+      "qty": 1200.0,
+      "avg_cost": 7310.0,
+      "last_price": 7150.0,
+      "market_value": 8580000.0,
+      "unrealized_pnl": -192000.0
+    },
+    {
+      "ticker": "JP.4612",
+      "company_name": "日本ペイントホールディングス",
+      "sector": "Basic Materials",
+      "entered_at": "2026-10-06T09:22:53.709841+09:00",
+      "entry_catalyst": "日ペHD、蘭大手から事業買収 東南アジアの建築用塗料(共同通信) 日本ペイントホールディングス（HD）は5日、オランダの塗料大手アクゾノーベルから、東南アジアなど7カ国の建築用塗料事業を買収すると発表した。取得額は13億5千万ドル（約2160億円）。知名度があるアク",
+      "hold_rationale": "fundamental catalyst: mna",
+      "unrealized_pct": 0.21,
+      "qty": 14800.0,
+      "avg_cost": 1200.5,
+      "last_price": 1203.0,
+      "market_value": 17804400.0,
+      "unrealized_pnl": 37000.0
     }
   ],
   "equity_curve": [
@@ -649,6 +691,13 @@
       "total_assets": 177442880.96,
       "realized_pnl": 18090280.96,
       "unrealized_pnl": -647400.0
+    },
+    {
+      "date": "2026-10-06",
+      "index": 107.7259,
+      "total_assets": 177833130.96,
+      "realized_pnl": 17970280.96,
+      "unrealized_pnl": -137150.0
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -970,10 +1019,14 @@
         },
         {
           "date": "2026-10-05",
-          "index": 104.4426
+          "index": 104.5007
+        },
+        {
+          "date": "2026-10-06",
+          "index": 104.7607
         }
       ],
-      "period_return_pct": 4.44,
+      "period_return_pct": 4.76,
       "filled_dates": []
     },
     {
@@ -1293,22 +1346,26 @@
         },
         {
           "date": "2026-10-05",
-          "index": 100.6307
+          "index": 101.2501
+        },
+        {
+          "date": "2026-10-06",
+          "index": 101.3682
         }
       ],
-      "period_return_pct": 0.63,
+      "period_return_pct": 1.37,
       "filled_dates": [
         "2026-07-03",
         "2026-09-07",
-        "2026-10-05"
+        "2026-10-06"
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 157.809,
-      "fx_rate_last_date": "2026-10-05"
+      "fx_rate_last": 157.918,
+      "fx_rate_last_date": "2026-10-06"
     }
   ],
-  "invested_ratio_pct": 51.68,
+  "invested_ratio_pct": 76.74,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
@@ -1317,6 +1374,34 @@
     "range": "all"
   },
   "recent_trades": [
+    {
+      "time": "2026-10-06T10:11:36+09:00",
+      "ticker": "JP.3498",
+      "side": "SELL",
+      "qty": 1200.0,
+      "price": 7210.0
+    },
+    {
+      "time": "2026-10-06T09:22:53+09:00",
+      "ticker": "JP.4612",
+      "side": "BUY",
+      "qty": 14800.0,
+      "price": 1200.5
+    },
+    {
+      "time": "2026-10-06T09:22:51+09:00",
+      "ticker": "JP.3498",
+      "side": "BUY",
+      "qty": 2400.0,
+      "price": 7310.0
+    },
+    {
+      "time": "2026-10-06T09:22:50+09:00",
+      "ticker": "JP.2492",
+      "side": "BUY",
+      "qty": 23400.0,
+      "price": 757.0
+    },
     {
       "time": "2026-10-05T09:17:36+09:00",
       "ticker": "JP.8343",
@@ -1358,34 +1443,6 @@
       "side": "SELL",
       "qty": 5800.0,
       "price": 3040.0
-    },
-    {
-      "time": "2026-10-01T12:41:12+09:00",
-      "ticker": "JP.2685",
-      "side": "BUY",
-      "qty": 5800.0,
-      "price": 3040.0
-    },
-    {
-      "time": "2026-10-01T12:40:48+09:00",
-      "ticker": "JP.3179",
-      "side": "BUY",
-      "qty": 13900.0,
-      "price": 1271.0
-    },
-    {
-      "time": "2026-10-01T10:42:15+09:00",
-      "ticker": "JP.6255",
-      "side": "SELL",
-      "qty": 16100.0,
-      "price": 765.0
-    },
-    {
-      "time": "2026-10-01T09:53:28+09:00",
-      "ticker": "JP.6255",
-      "side": "SELL",
-      "qty": 8000.0,
-      "price": 757.0
     }
   ],
   "notes": []
