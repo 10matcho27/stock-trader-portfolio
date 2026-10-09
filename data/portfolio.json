@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-09T11:35:05.740724+09:00",
+  "generated_at": "2026-10-09T15:35:02.838859+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
@@ -11,11 +11,11 @@
     "initial_cash": 160000000.0,
     "cash": 58392780.96,
     "realized_pnl": 15060580.96,
-    "holding_value": 117559600.0,
-    "total_assets": 175952380.96,
-    "unrealized_pnl": 891800.0,
-    "total_pnl": 15952380.96,
-    "total_return_pct": 9.97
+    "holding_value": 117460400.0,
+    "total_assets": 175853180.96,
+    "unrealized_pnl": 792600.0,
+    "total_pnl": 15853180.96,
+    "total_return_pct": 9.91
   },
   "positions": [
     {
@@ -25,12 +25,12 @@
       "entered_at": "2026-09-28T09:17:32.149370+09:00",
       "entry_catalyst": "ごま油最大手｢かどや製油｣が投資ファンドによるTOBに賛同した背景 近年はグローバル化も加速 | 政治・経済・投資 | 東洋経済オンライン ごま油の国内最大手のかどや製油は9月14日､投資ファンドのTOBを受けると発表しました。その背景とは？",
       "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": 0.07,
+      "unrealized_pct": 0.46,
       "qty": 6100.0,
       "avg_cost": 2855.0,
-      "last_price": 2857.0,
-      "market_value": 17427700.0,
-      "unrealized_pnl": 12200.0
+      "last_price": 2868.0,
+      "market_value": 17494800.0,
+      "unrealized_pnl": 79300.0
     },
     {
       "ticker": "JP.2492",
@@ -53,12 +53,12 @@
       "entered_at": "2026-10-06T09:22:53.709841+09:00",
       "entry_catalyst": "日ペHD、蘭大手から事業買収 東南アジアの建築用塗料(共同通信) 日本ペイントホールディングス（HD）は5日、オランダの塗料大手アクゾノーベルから、東南アジアなど7カ国の建築用塗料事業を買収すると発表した。取得額は13億5千万ドル（約2160億円）。知名度があるアク",
       "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": 3.08,
+      "unrealized_pct": 3.54,
       "qty": 14800.0,
       "avg_cost": 1200.5,
-      "last_price": 1237.5,
-      "market_value": 18315000.0,
-      "unrealized_pnl": 547600.0
+      "last_price": 1243.0,
+      "market_value": 18396400.0,
+      "unrealized_pnl": 629000.0
     },
     {
       "ticker": "JP.4967",
@@ -67,12 +67,12 @@
       "entered_at": "2026-10-08T09:23:28.148692+09:00",
       "entry_catalyst": "《買収総額5000億超か》小林製薬 創業家に香港ファンドが「ノー」を突きつけた！《前会長には毎月200万円の報酬》(文春オンライン) 小林製薬は9月25日、国内投資ファンドの日本産業推進機構と英投資ファンドのCVCキャピタル・パートナーズから共同で、TOB（株式公開買い付け）を通じた買収提案を受けていることを明らかにした。「小林製薬",
       "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": 0.6,
+      "unrealized_pct": 0.98,
       "qty": 2400.0,
       "avg_cost": 7155.0,
-      "last_price": 7198.0,
-      "market_value": 17275200.0,
-      "unrealized_pnl": 103200.0
+      "last_price": 7225.0,
+      "market_value": 17340000.0,
+      "unrealized_pnl": 168000.0
     },
     {
       "ticker": "JP.5932",
@@ -81,12 +81,12 @@
       "entered_at": "2026-10-08T09:35:09.874607+09:00",
       "entry_catalyst": "三協立山 (5932) 2027年5月期 第1四半期決算短信〔日本基準〕(連結)",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 5.23,
+      "unrealized_pct": 4.94,
       "qty": 16400.0,
       "avg_cost": 708.0,
-      "last_price": 745.0,
-      "market_value": 12218000.0,
-      "unrealized_pnl": 606800.0
+      "last_price": 743.0,
+      "market_value": 12185200.0,
+      "unrealized_pnl": 574000.0
     },
     {
       "ticker": "JP.7818",
@@ -95,12 +95,12 @@
       "entered_at": "2026-10-09T09:21:21.783725+09:00",
       "entry_catalyst": "トランザクション (7818) 通期業績予想の修正及び配当予想の修正（増配）に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 0.42,
+      "unrealized_pct": -0.08,
       "qty": 14600.0,
       "avg_cost": 1196.0,
-      "last_price": 1201.0,
-      "market_value": 17534600.0,
-      "unrealized_pnl": 73000.0
+      "last_price": 1195.0,
+      "market_value": 17447000.0,
+      "unrealized_pnl": -14600.0
     },
     {
       "ticker": "JP.7740",
@@ -109,12 +109,12 @@
       "entered_at": "2026-10-09T09:21:23.611607+09:00",
       "entry_catalyst": "エフィッシモ　キャピタル　マネージメント　ピーティーイー　エルティーディー（Ｅｆｆｉｓｓｉｍｏ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｐｔｅ　Ｌｔｄ） が 株式会社タムロン（JP.7740）の大量保有報告を提出 保有割合 18.54%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": 1.03,
+      "unrealized_pct": -0.06,
       "qty": 11300.0,
       "avg_cost": 1551.0,
-      "last_price": 1567.0,
-      "market_value": 17707100.0,
-      "unrealized_pnl": 180800.0
+      "last_price": 1550.0,
+      "market_value": 17515000.0,
+      "unrealized_pnl": -11300.0
     }
   ],
   "equity_curve": [
@@ -687,10 +687,10 @@
     },
     {
       "date": "2026-10-09",
-      "index": 106.358,
-      "total_assets": 175574980.96,
+      "index": 106.5,
+      "total_assets": 175809480.96,
       "realized_pnl": 15060580.96,
-      "unrealized_pnl": 514400.0
+      "unrealized_pnl": 748900.0
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -1028,10 +1028,10 @@
         },
         {
           "date": "2026-10-09",
-          "index": 102.326
+          "index": 103.2681
         }
       ],
-      "period_return_pct": 2.33,
+      "period_return_pct": 3.27,
       "filled_dates": []
     },
     {
@@ -1367,10 +1367,10 @@
         },
         {
           "date": "2026-10-09",
-          "index": 101.3197
+          "index": 101.4543
         }
       ],
-      "period_return_pct": 1.32,
+      "period_return_pct": 1.45,
       "filled_dates": [
         "2026-07-03",
         "2026-09-07",
@@ -1378,11 +1378,11 @@
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 158.017,
+      "fx_rate_last": 158.227,
       "fx_rate_last_date": "2026-10-09"
     }
   ],
-  "invested_ratio_pct": 66.81,
+  "invested_ratio_pct": 66.79,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
