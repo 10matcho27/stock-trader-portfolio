@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-12T11:35:02.786370+09:00",
+  "generated_at": "2026-10-13T11:35:02.663938+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
   "valuation_available": true,
   "summary": {
     "currency": "JPY",
-    "position_count": 7,
+    "position_count": 11,
     "initial_cash": 160000000.0,
-    "cash": 58392780.96,
-    "realized_pnl": 15060580.96,
-    "holding_value": 117567200.0,
-    "total_assets": 175959980.96,
-    "unrealized_pnl": 899400.0,
-    "total_pnl": 15959980.96,
-    "total_return_pct": 9.97
+    "cash": 9825480.96,
+    "realized_pnl": 15312930.96,
+    "holding_value": 166221250.0,
+    "total_assets": 176046730.96,
+    "unrealized_pnl": 733800.0,
+    "total_pnl": 16046730.96,
+    "total_return_pct": 10.03
   },
   "positions": [
     {
@@ -25,12 +25,12 @@
       "entered_at": "2026-09-28T09:17:32.149370+09:00",
       "entry_catalyst": "ごま油最大手｢かどや製油｣が投資ファンドによるTOBに賛同した背景 近年はグローバル化も加速 | 政治・経済・投資 | 東洋経済オンライン ごま油の国内最大手のかどや製油は9月14日､投資ファンドのTOBを受けると発表しました。その背景とは？",
       "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": 0.6,
+      "unrealized_pct": -0.56,
       "qty": 6100.0,
       "avg_cost": 2855.0,
-      "last_price": 2872.0,
-      "market_value": 17519200.0,
-      "unrealized_pnl": 103700.0
+      "last_price": 2839.0,
+      "market_value": 17317900.0,
+      "unrealized_pnl": -97600.0
     },
     {
       "ticker": "JP.2492",
@@ -39,12 +39,12 @@
       "entered_at": "2026-10-06T09:22:50.547522+09:00",
       "entry_catalyst": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ． が 株式会社インフォマート（JP.2492）の大量保有報告を提出 保有割合 22.60%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": -3.57,
+      "unrealized_pct": -3.04,
       "qty": 23400.0,
       "avg_cost": 757.0,
-      "last_price": 730.0,
-      "market_value": 17082000.0,
-      "unrealized_pnl": -631800.0
+      "last_price": 734.0,
+      "market_value": 17175600.0,
+      "unrealized_pnl": -538200.0
     },
     {
       "ticker": "JP.4612",
@@ -53,12 +53,12 @@
       "entered_at": "2026-10-06T09:22:53.709841+09:00",
       "entry_catalyst": "日ペHD、蘭大手から事業買収 東南アジアの建築用塗料(共同通信) 日本ペイントホールディングス（HD）は5日、オランダの塗料大手アクゾノーベルから、東南アジアなど7カ国の建築用塗料事業を買収すると発表した。取得額は13億5千万ドル（約2160億円）。知名度があるアク",
       "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": 3.54,
-      "qty": 14800.0,
+      "unrealized_pct": 4.5,
+      "qty": 9900.0,
       "avg_cost": 1200.5,
-      "last_price": 1243.0,
-      "market_value": 18396400.0,
-      "unrealized_pnl": 629000.0
+      "last_price": 1254.5,
+      "market_value": 12419550.0,
+      "unrealized_pnl": 534600.0
     },
     {
       "ticker": "JP.4967",
@@ -67,12 +67,12 @@
       "entered_at": "2026-10-08T09:23:28.148692+09:00",
       "entry_catalyst": "《買収総額5000億超か》小林製薬 創業家に香港ファンドが「ノー」を突きつけた！《前会長には毎月200万円の報酬》(文春オンライン) 小林製薬は9月25日、国内投資ファンドの日本産業推進機構と英投資ファンドのCVCキャピタル・パートナーズから共同で、TOB（株式公開買い付け）を通じた買収提案を受けていることを明らかにした。「小林製薬",
       "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": 1.16,
+      "unrealized_pct": 0.61,
       "qty": 2400.0,
       "avg_cost": 7155.0,
-      "last_price": 7238.0,
-      "market_value": 17371200.0,
-      "unrealized_pnl": 199200.0
+      "last_price": 7199.0,
+      "market_value": 17277600.0,
+      "unrealized_pnl": 105600.0
     },
     {
       "ticker": "JP.5932",
@@ -81,12 +81,12 @@
       "entered_at": "2026-10-08T09:35:09.874607+09:00",
       "entry_catalyst": "三協立山 (5932) 2027年5月期 第1四半期決算短信〔日本基準〕(連結)",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 4.38,
+      "unrealized_pct": 5.93,
       "qty": 16400.0,
       "avg_cost": 708.0,
-      "last_price": 739.0,
-      "market_value": 12119600.0,
-      "unrealized_pnl": 508400.0
+      "last_price": 750.0,
+      "market_value": 12300000.0,
+      "unrealized_pnl": 688800.0
     },
     {
       "ticker": "JP.7818",
@@ -95,12 +95,12 @@
       "entered_at": "2026-10-09T09:21:21.783725+09:00",
       "entry_catalyst": "トランザクション (7818) 通期業績予想の修正及び配当予想の修正（増配）に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 0.59,
+      "unrealized_pct": 0.84,
       "qty": 14600.0,
       "avg_cost": 1196.0,
-      "last_price": 1203.0,
-      "market_value": 17563800.0,
-      "unrealized_pnl": 102200.0
+      "last_price": 1206.0,
+      "market_value": 17607600.0,
+      "unrealized_pnl": 146000.0
     },
     {
       "ticker": "JP.7740",
@@ -109,12 +109,68 @@
       "entered_at": "2026-10-09T09:21:23.611607+09:00",
       "entry_catalyst": "エフィッシモ　キャピタル　マネージメント　ピーティーイー　エルティーディー（Ｅｆｆｉｓｓｉｍｏ　Ｃａｐｉｔａｌ　Ｍａｎａｇｅｍｅｎｔ　Ｐｔｅ　Ｌｔｄ） が 株式会社タムロン（JP.7740）の大量保有報告を提出 保有割合 18.54%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": -0.06,
+      "unrealized_pct": -1.16,
       "qty": 11300.0,
       "avg_cost": 1551.0,
-      "last_price": 1550.0,
-      "market_value": 17515000.0,
-      "unrealized_pnl": -11300.0
+      "last_price": 1533.0,
+      "market_value": 17322900.0,
+      "unrealized_pnl": -203400.0
+    },
+    {
+      "ticker": "JP.6264",
+      "company_name": "(株)マルマエ",
+      "sector": "Industrials",
+      "entered_at": "2026-10-13T09:17:59.083503+09:00",
+      "entry_catalyst": "マルマエ (6264) 2026年８月期配当予想の修正(増配)に関するお知らせ",
+      "hold_rationale": "official filing: tdnet",
+      "unrealized_pct": 0.27,
+      "qty": 7900.0,
+      "avg_cost": 2206.0,
+      "last_price": 2212.0,
+      "market_value": 17474800.0,
+      "unrealized_pnl": 47400.0
+    },
+    {
+      "ticker": "JP.6504",
+      "company_name": "富士電機",
+      "sector": "Industrials",
+      "entered_at": "2026-10-13T09:18:01.331978+09:00",
+      "entry_catalyst": "「核融合の実用化へ一歩踏み出す、象徴的な前進だ」…富士電機、ヘリカルフュージョンと提携(ニュースイッチ) 富士電機は8日、核融合開発を手がけるスタートアップのヘリカルフュージョン（東京都千代田区、田口昂哉最高経営責任者〈CEO〉）に出資し業務提携したと発表した。出資金額や比率は非公開。富士電機は2025年",
+      "hold_rationale": "sentiment: put_call_ratio_bearish (ratio=2.18, basis=open_interest)",
+      "unrealized_pct": -1.02,
+      "qty": 1100.0,
+      "avg_cost": 14715.0,
+      "last_price": 14565.0,
+      "market_value": 16021500.0,
+      "unrealized_pnl": -165000.0
+    },
+    {
+      "ticker": "JP.6645",
+      "company_name": "オムロン",
+      "sector": "Technology",
+      "entered_at": "2026-10-13T09:18:03.870396+09:00",
+      "entry_catalyst": "オムロン(6645) 産業用PCの開発・製造・販売を手掛ける米国OnLogic社及びその親会社（Interlogic, Inc.）の買収合意に関するお知らせ",
+      "hold_rationale": "fundamental catalyst: mna",
+      "unrealized_pct": 1.35,
+      "qty": 2800.0,
+      "avg_cost": 6281.0,
+      "last_price": 6366.0,
+      "market_value": 17824800.0,
+      "unrealized_pnl": 238000.0
+    },
+    {
+      "ticker": "JP.3395",
+      "company_name": "サンマルクホールディングス",
+      "sector": "Consumer Cyclical",
+      "entered_at": "2026-10-13T09:18:05.504029+09:00",
+      "entry_catalyst": "サンマルクHDが和食に照準、「牛カツ」の次は「うどん」で130億円近い大型買収 「サンマルクカフェ」、「鎌倉パスタ」などを展開する外食大手のサンマルクホールディングス（HD）が事業ポートフォリオの強化を旗印に、100億円超えの大型M＆Aを連発中だ。2024年以降、その数は3件。これまでの2件はいずれも牛カツ専門店をターゲットとしたが、今回はうどん専門店の買収に動いた。アフターコロナ到来を受け、外食[&#8230;]",
+      "hold_rationale": "fundamental catalyst: mna",
+      "unrealized_pct": -0.64,
+      "qty": 1400.0,
+      "avg_cost": 2501.0,
+      "last_price": 2485.0,
+      "market_value": 3479000.0,
+      "unrealized_pnl": -22400.0
     }
   ],
   "equity_curve": [
@@ -691,6 +747,13 @@
       "total_assets": 175809480.96,
       "realized_pnl": 15060580.96,
       "unrealized_pnl": 748900.0
+    },
+    {
+      "date": "2026-10-13",
+      "index": 106.5656,
+      "total_assets": 175917730.96,
+      "realized_pnl": 15312930.96,
+      "unrealized_pnl": 604800.0
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -1029,9 +1092,13 @@
         {
           "date": "2026-10-09",
           "index": 103.1323
+        },
+        {
+          "date": "2026-10-13",
+          "index": 100.5304
         }
       ],
-      "period_return_pct": 3.13,
+      "period_return_pct": 0.53,
       "filled_dates": []
     },
     {
@@ -1368,20 +1435,25 @@
         {
           "date": "2026-10-09",
           "index": 101.9519
+        },
+        {
+          "date": "2026-10-13",
+          "index": 102.0015
         }
       ],
-      "period_return_pct": 1.95,
+      "period_return_pct": 2.0,
       "filled_dates": [
         "2026-07-03",
-        "2026-09-07"
+        "2026-09-07",
+        "2026-10-13"
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 158.063,
-      "fx_rate_last_date": "2026-10-09"
+      "fx_rate_last": 158.227,
+      "fx_rate_last_date": "2026-10-13"
     }
   ],
-  "invested_ratio_pct": 66.81,
+  "invested_ratio_pct": 94.42,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
@@ -1390,6 +1462,48 @@
     "range": "all"
   },
   "recent_trades": [
+    {
+      "time": "2026-10-13T09:30:04+09:00",
+      "ticker": "JP.4612",
+      "side": "SELL",
+      "qty": 4900.0,
+      "price": 1252.0
+    },
+    {
+      "time": "2026-10-13T09:18:35+09:00",
+      "ticker": "JP.3395",
+      "side": "SELL",
+      "qty": 1400.0,
+      "price": 2501.0
+    },
+    {
+      "time": "2026-10-13T09:18:05+09:00",
+      "ticker": "JP.3395",
+      "side": "BUY",
+      "qty": 2800.0,
+      "price": 2501.0
+    },
+    {
+      "time": "2026-10-13T09:18:03+09:00",
+      "ticker": "JP.6645",
+      "side": "BUY",
+      "qty": 2800.0,
+      "price": 6281.0
+    },
+    {
+      "time": "2026-10-13T09:18:01+09:00",
+      "ticker": "JP.6504",
+      "side": "BUY",
+      "qty": 1100.0,
+      "price": 14715.0
+    },
+    {
+      "time": "2026-10-13T09:17:59+09:00",
+      "ticker": "JP.6264",
+      "side": "BUY",
+      "qty": 7900.0,
+      "price": 2206.0
+    },
     {
       "time": "2026-10-09T10:07:25+09:00",
       "ticker": "JP.2413",
@@ -1417,48 +1531,6 @@
       "side": "BUY",
       "qty": 14600.0,
       "price": 1196.0
-    },
-    {
-      "time": "2026-10-09T09:21:19+09:00",
-      "ticker": "JP.5932",
-      "side": "SELL",
-      "qty": 8100.0,
-      "price": 735.0
-    },
-    {
-      "time": "2026-10-08T11:29:27+09:00",
-      "ticker": "JP.6255",
-      "side": "SELL",
-      "qty": 11800.0,
-      "price": 691.0
-    },
-    {
-      "time": "2026-10-08T09:35:09+09:00",
-      "ticker": "JP.5932",
-      "side": "BUY",
-      "qty": 24500.0,
-      "price": 708.0
-    },
-    {
-      "time": "2026-10-08T09:34:05+09:00",
-      "ticker": "JP.6255",
-      "side": "SELL",
-      "qty": 11800.0,
-      "price": 706.0
-    },
-    {
-      "time": "2026-10-08T09:23:28+09:00",
-      "ticker": "JP.4967",
-      "side": "BUY",
-      "qty": 2400.0,
-      "price": 7155.0
-    },
-    {
-      "time": "2026-10-08T09:22:26+09:00",
-      "ticker": "JP.6255",
-      "side": "BUY",
-      "qty": 23600.0,
-      "price": 741.0
     }
   ],
   "notes": []
