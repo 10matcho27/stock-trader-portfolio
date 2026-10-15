@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-15T11:35:05.864672+09:00",
+  "generated_at": "2026-10-15T15:35:06.871455+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
@@ -9,13 +9,13 @@
     "currency": "JPY",
     "position_count": 10,
     "initial_cash": 160000000.0,
-    "cash": 59929980.96,
-    "realized_pnl": 12717630.96,
-    "holding_value": 114985650.0,
-    "total_assets": 174915630.96,
-    "unrealized_pnl": 2198000.0,
-    "total_pnl": 14915630.96,
-    "total_return_pct": 9.32
+    "cash": 68908980.96,
+    "realized_pnl": 12965830.96,
+    "holding_value": 106285150.0,
+    "total_assets": 175194130.96,
+    "unrealized_pnl": 2228300.0,
+    "total_pnl": 15194130.96,
+    "total_return_pct": 9.5
   },
   "positions": [
     {
@@ -25,12 +25,12 @@
       "entered_at": "2026-09-28T09:17:32.149370+09:00",
       "entry_catalyst": "ごま油最大手｢かどや製油｣が投資ファンドによるTOBに賛同した背景 近年はグローバル化も加速 | 政治・経済・投資 | 東洋経済オンライン ごま油の国内最大手のかどや製油は9月14日､投資ファンドのTOBを受けると発表しました。その背景とは？",
       "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": 0.32,
+      "unrealized_pct": 1.19,
       "qty": 6100.0,
       "avg_cost": 2855.0,
-      "last_price": 2864.0,
-      "market_value": 17470400.0,
-      "unrealized_pnl": 54900.0
+      "last_price": 2889.0,
+      "market_value": 17622900.0,
+      "unrealized_pnl": 207400.0
     },
     {
       "ticker": "JP.2492",
@@ -39,12 +39,12 @@
       "entered_at": "2026-10-06T09:22:50.547522+09:00",
       "entry_catalyst": "Ｏａｓｉｓ　Ｍａｎａｇｅｍｅｎｔ　Ｃｏｍｐａｎｙ　Ｌｔｄ． が 株式会社インフォマート（JP.2492）の大量保有報告を提出 保有割合 22.60%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": -2.77,
+      "unrealized_pct": -2.91,
       "qty": 23400.0,
       "avg_cost": 757.0,
-      "last_price": 736.0,
-      "market_value": 17222400.0,
-      "unrealized_pnl": -491400.0
+      "last_price": 735.0,
+      "market_value": 17199000.0,
+      "unrealized_pnl": -514800.0
     },
     {
       "ticker": "JP.4612",
@@ -53,12 +53,12 @@
       "entered_at": "2026-10-06T09:22:53.709841+09:00",
       "entry_catalyst": "日ペHD、蘭大手から事業買収 東南アジアの建築用塗料(共同通信) 日本ペイントホールディングス（HD）は5日、オランダの塗料大手アクゾノーベルから、東南アジアなど7カ国の建築用塗料事業を買収すると発表した。取得額は13億5千万ドル（約2160億円）。知名度があるアク",
       "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": 4.25,
+      "unrealized_pct": 5.16,
       "qty": 9900.0,
       "avg_cost": 1200.5,
-      "last_price": 1251.5,
-      "market_value": 12389850.0,
-      "unrealized_pnl": 504900.0
+      "last_price": 1262.5,
+      "market_value": 12498750.0,
+      "unrealized_pnl": 613800.0
     },
     {
       "ticker": "JP.4967",
@@ -67,12 +67,12 @@
       "entered_at": "2026-10-08T09:23:28.148692+09:00",
       "entry_catalyst": "《買収総額5000億超か》小林製薬 創業家に香港ファンドが「ノー」を突きつけた！《前会長には毎月200万円の報酬》(文春オンライン) 小林製薬は9月25日、国内投資ファンドの日本産業推進機構と英投資ファンドのCVCキャピタル・パートナーズから共同で、TOB（株式公開買い付け）を通じた買収提案を受けていることを明らかにした。「小林製薬",
       "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": 2.42,
+      "unrealized_pct": 2.31,
       "qty": 2400.0,
       "avg_cost": 7155.0,
-      "last_price": 7328.0,
-      "market_value": 17587200.0,
-      "unrealized_pnl": 415200.0
+      "last_price": 7320.0,
+      "market_value": 17568000.0,
+      "unrealized_pnl": 396000.0
     },
     {
       "ticker": "JP.5932",
@@ -81,12 +81,12 @@
       "entered_at": "2026-10-08T09:35:09.874607+09:00",
       "entry_catalyst": "三協立山 (5932) 2027年5月期 第1四半期決算短信〔日本基準〕(連結)",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 4.66,
+      "unrealized_pct": 5.51,
       "qty": 16400.0,
       "avg_cost": 708.0,
-      "last_price": 741.0,
-      "market_value": 12152400.0,
-      "unrealized_pnl": 541200.0
+      "last_price": 747.0,
+      "market_value": 12250800.0,
+      "unrealized_pnl": 639600.0
     },
     {
       "ticker": "JP.7818",
@@ -95,12 +95,12 @@
       "entered_at": "2026-10-09T09:21:21.783725+09:00",
       "entry_catalyst": "トランザクション (7818) 通期業績予想の修正及び配当予想の修正（増配）に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 3.18,
-      "qty": 14600.0,
+      "unrealized_pct": 3.51,
+      "qty": 7300.0,
       "avg_cost": 1196.0,
-      "last_price": 1234.0,
-      "market_value": 18016400.0,
-      "unrealized_pnl": 554800.0
+      "last_price": 1238.0,
+      "market_value": 9037400.0,
+      "unrealized_pnl": 306600.0
     },
     {
       "ticker": "JP.3395",
@@ -109,12 +109,12 @@
       "entered_at": "2026-10-13T09:18:05.504029+09:00",
       "entry_catalyst": "サンマルクHDが和食に照準、「牛カツ」の次は「うどん」で130億円近い大型買収 「サンマルクカフェ」、「鎌倉パスタ」などを展開する外食大手のサンマルクホールディングス（HD）が事業ポートフォリオの強化を旗印に、100億円超えの大型M＆Aを連発中だ。2024年以降、その数は3件。これまでの2件はいずれも牛カツ専門店をターゲットとしたが、今回はうどん専門店の買収に動いた。アフターコロナ到来を受け、外食[&#8230;]",
       "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": 1.76,
+      "unrealized_pct": 2.28,
       "qty": 1400.0,
       "avg_cost": 2501.0,
-      "last_price": 2545.0,
-      "market_value": 3563000.0,
-      "unrealized_pnl": 61600.0
+      "last_price": 2558.0,
+      "market_value": 3581200.0,
+      "unrealized_pnl": 79800.0
     },
     {
       "ticker": "JP.7085",
@@ -123,12 +123,12 @@
       "entered_at": "2026-10-14T09:22:40.095508+09:00",
       "entry_catalyst": "カーブスＨＤ、今期経常は14％増で4期連続最高益、2円増配へ",
       "hold_rationale": "fundamental catalyst: earnings",
-      "unrealized_pct": 6.78,
+      "unrealized_pct": 6.15,
       "qty": 6800.0,
       "avg_cost": 959.0,
-      "last_price": 1024.0,
-      "market_value": 6963200.0,
-      "unrealized_pnl": 442000.0
+      "last_price": 1018.0,
+      "market_value": 6922400.0,
+      "unrealized_pnl": 401200.0
     },
     {
       "ticker": "JP.4714",
@@ -151,12 +151,12 @@
       "entered_at": "2026-10-15T09:23:53.190243+09:00",
       "entry_catalyst": "良品計画 (7453) 2026年８月期　決算短信〔日本基準〕（連結）",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 3.51,
+      "unrealized_pct": 3.02,
       "qty": 700.0,
       "avg_cost": 4676.0,
-      "last_price": 4840.0,
-      "market_value": 3388000.0,
-      "unrealized_pnl": 114800.0
+      "last_price": 4817.0,
+      "market_value": 3371900.0,
+      "unrealized_pnl": 98700.0
     }
   ],
   "equity_curve": [
@@ -750,10 +750,10 @@
     },
     {
       "date": "2026-10-15",
-      "index": 106.0682,
-      "total_assets": 175096630.96,
-      "realized_pnl": 13493130.96,
-      "unrealized_pnl": 1603500.0
+      "index": 106.0131,
+      "total_assets": 175005630.96,
+      "realized_pnl": 12965830.96,
+      "unrealized_pnl": 2039800.0
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -1103,10 +1103,10 @@
         },
         {
           "date": "2026-10-15",
-          "index": 96.7601
+          "index": 96.5293
         }
       ],
-      "period_return_pct": -3.24,
+      "period_return_pct": -3.47,
       "filled_dates": []
     },
     {
@@ -1454,10 +1454,10 @@
         },
         {
           "date": "2026-10-15",
-          "index": 100.5056
+          "index": 100.9084
         }
       ],
-      "period_return_pct": 0.51,
+      "period_return_pct": 0.91,
       "filled_dates": [
         "2026-07-03",
         "2026-09-07",
@@ -1465,11 +1465,11 @@
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 157.69,
-      "fx_rate_last_date": "2026-10-15"
+      "fx_rate_last": 158.322,
+      "fx_rate_last_date": "2026-10-14"
     }
   ],
-  "invested_ratio_pct": 65.74,
+  "invested_ratio_pct": 60.67,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
@@ -1478,6 +1478,13 @@
     "range": "all"
   },
   "recent_trades": [
+    {
+      "time": "2026-10-15T12:55:48+09:00",
+      "ticker": "JP.7818",
+      "side": "SELL",
+      "qty": 7300.0,
+      "price": 1230.0
+    },
     {
       "time": "2026-10-15T11:05:56+09:00",
       "ticker": "JP.6504",
@@ -1540,13 +1547,6 @@
       "side": "BUY",
       "qty": 10200.0,
       "price": 959.0
-    },
-    {
-      "time": "2026-10-13T09:30:04+09:00",
-      "ticker": "JP.4612",
-      "side": "SELL",
-      "qty": 4900.0,
-      "price": 1252.0
     }
   ],
   "notes": []
