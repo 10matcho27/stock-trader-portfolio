@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-12T11:35:05.097538+09:00",
+  "generated_at": "2026-11-12T15:35:09.725326+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
   "valuation_available": true,
   "summary": {
     "currency": "JPY",
-    "position_count": 19,
+    "position_count": 20,
     "initial_cash": 160000000.0,
-    "cash": 8915111.76,
-    "realized_pnl": 11027330.96,
-    "holding_value": 163998930.8,
-    "total_assets": 172914042.56,
-    "unrealized_pnl": 1886711.6,
-    "total_pnl": 12914042.56,
-    "total_return_pct": 8.07
+    "cash": 1743011.76,
+    "realized_pnl": 11093830.96,
+    "holding_value": 172039650.0,
+    "total_assets": 173782661.76,
+    "unrealized_pnl": 2688830.8,
+    "total_pnl": 13782661.76,
+    "total_return_pct": 8.61
   },
   "positions": [
     {
@@ -25,12 +25,12 @@
       "entered_at": "2026-09-28T09:17:32.149370+09:00",
       "entry_catalyst": "ごま油最大手｢かどや製油｣が投資ファンドによるTOBに賛同した背景 近年はグローバル化も加速 | 政治・経済・投資 | 東洋経済オンライン ごま油の国内最大手のかどや製油は9月14日､投資ファンドのTOBを受けると発表しました。その背景とは？",
       "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": 8.58,
+      "unrealized_pct": 8.06,
       "qty": 2100.0,
       "avg_cost": 2855.0,
-      "last_price": 3100.0,
-      "market_value": 6510000.0,
-      "unrealized_pnl": 514500.0
+      "last_price": 3085.0,
+      "market_value": 6478500.0,
+      "unrealized_pnl": 483000.0
     },
     {
       "ticker": "JP.4714",
@@ -39,12 +39,12 @@
       "entered_at": "2026-10-14T09:44:48.143838+09:00",
       "entry_catalyst": "リソー教育Ｇ (4714) 2027年２月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 0.0,
+      "unrealized_pct": 0.34,
       "qty": 21200.0,
       "avg_cost": 294.0,
-      "last_price": 294.0,
-      "market_value": 6232800.0,
-      "unrealized_pnl": 0.0
+      "last_price": 295.0,
+      "market_value": 6254000.0,
+      "unrealized_pnl": 21200.0
     },
     {
       "ticker": "JP.3023",
@@ -53,12 +53,12 @@
       "entered_at": "2026-10-26T09:21:34.851580+09:00",
       "entry_catalyst": "ラサ商事が２７年３月期業績予想を上方修正",
       "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": 12.96,
+      "unrealized_pct": 10.7,
       "qty": 1200.0,
       "avg_cost": 2037.0,
-      "last_price": 2301.0,
-      "market_value": 2761200.0,
-      "unrealized_pnl": 316800.0
+      "last_price": 2255.0,
+      "market_value": 2706000.0,
+      "unrealized_pnl": 261600.0
     },
     {
       "ticker": "JP.2002",
@@ -67,12 +67,12 @@
       "entered_at": "2026-10-29T09:27:19.902432+09:00",
       "entry_catalyst": "日清製粉グループ 第２四半期（中間期）連結決算、通期連結業績予想",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 10.49,
+      "unrealized_pct": 12.64,
       "qty": 2800.0,
       "avg_cost": 2136.0,
-      "last_price": 2360.0,
-      "market_value": 6608000.0,
-      "unrealized_pnl": 627200.0
+      "last_price": 2406.0,
+      "market_value": 6736800.0,
+      "unrealized_pnl": 756000.0
     },
     {
       "ticker": "JP.4832",
@@ -81,12 +81,12 @@
       "entered_at": "2026-10-29T09:27:27.168175+09:00",
       "entry_catalyst": "剰余金の配当（中間配当）および期末配当予想の修正に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 1.73,
+      "unrealized_pct": 1.95,
       "qty": 700.0,
       "avg_cost": 1845.0,
-      "last_price": 1877.0,
-      "market_value": 1313900.0,
-      "unrealized_pnl": 22400.0
+      "last_price": 1881.0,
+      "market_value": 1316700.0,
+      "unrealized_pnl": 25200.0
     },
     {
       "ticker": "JP.7947",
@@ -95,12 +95,12 @@
       "entered_at": "2026-10-30T15:02:47.693542+09:00",
       "entry_catalyst": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 8.26,
+      "unrealized_pct": 9.31,
       "qty": 2000.0,
       "avg_cost": 2868.0,
-      "last_price": 3105.0,
-      "market_value": 6210000.0,
-      "unrealized_pnl": 474000.0
+      "last_price": 3135.0,
+      "market_value": 6270000.0,
+      "unrealized_pnl": 534000.0
     },
     {
       "ticker": "JP.2001",
@@ -109,12 +109,12 @@
       "entered_at": "2026-11-09T09:22:07.613959+09:00",
       "entry_catalyst": "(株)ニップン　中間期の連結業績および通期連結業績予想",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 1.04,
+      "unrealized_pct": 2.52,
       "qty": 6000.0,
       "avg_cost": 2892.0,
-      "last_price": 2922.0,
-      "market_value": 17532000.0,
-      "unrealized_pnl": 180000.0
+      "last_price": 2965.0,
+      "market_value": 17790000.0,
+      "unrealized_pnl": 438000.0
     },
     {
       "ticker": "JP.4767",
@@ -123,12 +123,12 @@
       "entered_at": "2026-11-09T09:23:19.651796+09:00",
       "entry_catalyst": "株式会社ＭＩ２ が 株式会社テー・オー・ダブリュー（JP.4767）の大量保有報告を提出 保有割合 8.67%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": 3.43,
+      "unrealized_pct": 3.69,
       "qty": 15300.0,
       "avg_cost": 379.0,
-      "last_price": 392.0,
-      "market_value": 5997600.0,
-      "unrealized_pnl": 198900.0
+      "last_price": 393.0,
+      "market_value": 6012900.0,
+      "unrealized_pnl": 214200.0
     },
     {
       "ticker": "JP.3834",
@@ -137,12 +137,12 @@
       "entered_at": "2026-11-09T09:26:07.658230+09:00",
       "entry_catalyst": "剰余金の配当（中間配当）及び期末配当予想の修正に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 1.1,
+      "unrealized_pct": 2.01,
       "qty": 16000.0,
       "avg_cost": 546.0,
-      "last_price": 552.0,
-      "market_value": 8832000.0,
-      "unrealized_pnl": 96000.0
+      "last_price": 557.0,
+      "market_value": 8912000.0,
+      "unrealized_pnl": 176000.0
     },
     {
       "ticker": "JP.2681",
@@ -151,12 +151,12 @@
       "entered_at": "2026-11-09T09:36:02.348194+09:00",
       "entry_catalyst": "通期連結業績予想の修正に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 2.42,
+      "unrealized_pct": 2.88,
       "qty": 2500.0,
       "avg_cost": 2187.0,
-      "last_price": 2240.0,
-      "market_value": 5600000.0,
-      "unrealized_pnl": 132500.0
+      "last_price": 2250.0,
+      "market_value": 5625000.0,
+      "unrealized_pnl": 157500.0
     },
     {
       "ticker": "JP.4521",
@@ -165,12 +165,12 @@
       "entered_at": "2026-11-10T09:21:51.464209+09:00",
       "entry_catalyst": "2027年3月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 0.4,
+      "unrealized_pct": 1.19,
       "qty": 2300.0,
       "avg_cost": 3795.0,
-      "last_price": 3810.0,
-      "market_value": 8763000.0,
-      "unrealized_pnl": 34500.0
+      "last_price": 3840.0,
+      "market_value": 8832000.0,
+      "unrealized_pnl": 103500.0
     },
     {
       "ticker": "JP.9119",
@@ -179,12 +179,12 @@
       "entered_at": "2026-11-10T09:22:04.227951+09:00",
       "entry_catalyst": "飯野海運、通期業績予想を上方修正 ケミカルタンカー・ドライバルク船の堅調な市況が寄与",
       "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": 0.38,
+      "unrealized_pct": 1.69,
       "qty": 11000.0,
       "avg_cost": 1599.0,
-      "last_price": 1605.0,
-      "market_value": 17655000.0,
-      "unrealized_pnl": 66000.0
+      "last_price": 1626.0,
+      "market_value": 17886000.0,
+      "unrealized_pnl": 297000.0
     },
     {
       "ticker": "JP.8934",
@@ -193,12 +193,12 @@
       "entered_at": "2026-11-10T09:24:11.509740+09:00",
       "entry_catalyst": "サンフロンティア (8934) 2027年３月期第２四半期（中間期）決算短信〔日本基準〕(連結)",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 2.67,
-      "qty": 2100.0,
+      "unrealized_pct": 4.34,
+      "qty": 1400.0,
       "avg_cost": 2282.0,
-      "last_price": 2343.0,
-      "market_value": 4920300.0,
-      "unrealized_pnl": 128100.0
+      "last_price": 2381.0,
+      "market_value": 3333400.0,
+      "unrealized_pnl": 138600.0
     },
     {
       "ticker": "JP.6208",
@@ -207,12 +207,12 @@
       "entered_at": "2026-11-10T09:44:12.291654+09:00",
       "entry_catalyst": "2027年３月期　第２四半期（中間期）連結業績予想と実績値との差異に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 5.71,
+      "unrealized_pct": 3.56,
       "qty": 800.0,
       "avg_cost": 1575.0,
-      "last_price": 1665.0,
-      "market_value": 1332000.0,
-      "unrealized_pnl": 72000.0
+      "last_price": 1631.0,
+      "market_value": 1304800.0,
+      "unrealized_pnl": 44800.0
     },
     {
       "ticker": "JP.4689",
@@ -221,12 +221,12 @@
       "entered_at": "2026-11-11T09:23:32.226497+09:00",
       "entry_catalyst": "LINEヤフーが株主優待新設、5000株以上でヤフショ商品券。中間期は売上過去最高、通期上方修正・増配で株価上昇(ハフポスト日本版)",
       "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": -3.66,
+      "unrealized_pct": -2.44,
       "qty": 32700.0,
       "avg_cost": 537.6,
-      "last_price": 517.9,
-      "market_value": 16935330.8,
-      "unrealized_pnl": -644188.4
+      "last_price": 524.5,
+      "market_value": 17151150.0,
+      "unrealized_pnl": -428369.2
     },
     {
       "ticker": "JP.6418",
@@ -235,12 +235,12 @@
       "entered_at": "2026-11-11T09:45:52.867197+09:00",
       "entry_catalyst": "日金銭 (6418) 2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": -0.81,
+      "unrealized_pct": -2.63,
       "qty": 3000.0,
       "avg_cost": 1485.0,
-      "last_price": 1473.0,
-      "market_value": 4419000.0,
-      "unrealized_pnl": -36000.0
+      "last_price": 1446.0,
+      "market_value": 4338000.0,
+      "unrealized_pnl": -117000.0
     },
     {
       "ticker": "JP.8151",
@@ -249,12 +249,12 @@
       "entered_at": "2026-11-12T09:23:15.044389+09:00",
       "entry_catalyst": "2026年9月期  決算短信〔日本基準〕（連結）",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": -0.54,
+      "unrealized_pct": -1.28,
       "qty": 4600.0,
       "avg_cost": 1868.0,
-      "last_price": 1858.0,
-      "market_value": 8546800.0,
-      "unrealized_pnl": -46000.0
+      "last_price": 1844.0,
+      "market_value": 8482400.0,
+      "unrealized_pnl": -110400.0
     },
     {
       "ticker": "JP.6098",
@@ -263,12 +263,12 @@
       "entered_at": "2026-11-12T09:31:40.987716+09:00",
       "entry_catalyst": "リクルートＨＤ (6098) 2027年3月期 第2四半期(中間期)決算短信〔IFRS〕(連結)",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": -2.28,
+      "unrealized_pct": -1.84,
       "qty": 1000.0,
       "avg_cost": 17125.0,
-      "last_price": 16735.0,
-      "market_value": 16735000.0,
-      "unrealized_pnl": -390000.0
+      "last_price": 16810.0,
+      "market_value": 16810000.0,
+      "unrealized_pnl": -315000.0
     },
     {
       "ticker": "JP.9684",
@@ -277,12 +277,26 @@
       "entered_at": "2026-11-12T09:42:17.706442+09:00",
       "entry_catalyst": "スクエニＨＤ (9684) 2027年3月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 0.83,
+      "unrealized_pct": 1.33,
       "qty": 5000.0,
       "avg_cost": 3391.0,
-      "last_price": 3419.0,
-      "market_value": 17095000.0,
-      "unrealized_pnl": 140000.0
+      "last_price": 3436.0,
+      "market_value": 17180000.0,
+      "unrealized_pnl": 225000.0
+    },
+    {
+      "ticker": "JP.3696",
+      "company_name": "セレス",
+      "sector": "Industrials",
+      "entered_at": "2026-11-12T12:54:39.332362+09:00",
+      "entry_catalyst": "2026年12月期 第３四半期決算短信〔日本基準〕（連結）",
+      "hold_rationale": "official filing: tdnet",
+      "unrealized_pct": -2.44,
+      "qty": 4000.0,
+      "avg_cost": 2209.0,
+      "last_price": 2155.0,
+      "market_value": 8620000.0,
+      "unrealized_pnl": -216000.0
     }
   ],
   "equity_curve": [
@@ -1009,10 +1023,10 @@
     },
     {
       "date": "2026-11-12",
-      "index": 104.6276,
-      "total_assets": 172718480.96,
-      "realized_pnl": 11027330.96,
-      "unrealized_pnl": 1691150.0
+      "index": 105.0653,
+      "total_assets": 173441130.96,
+      "realized_pnl": 11093830.96,
+      "unrealized_pnl": 2347300.0
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -1438,10 +1452,10 @@
         },
         {
           "date": "2026-11-12",
-          "index": 92.3082
+          "index": 90.7924
         }
       ],
-      "period_return_pct": -7.69,
+      "period_return_pct": -9.21,
       "filled_dates": []
     },
     {
@@ -1865,10 +1879,10 @@
         },
         {
           "date": "2026-11-12",
-          "index": 100.4738
+          "index": 100.5418
         }
       ],
-      "period_return_pct": 0.47,
+      "period_return_pct": 0.54,
       "filled_dates": [
         "2026-07-03",
         "2026-09-07",
@@ -1876,11 +1890,11 @@
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 159.7,
+      "fx_rate_last": 159.808,
       "fx_rate_last_date": "2026-11-12"
     }
   ],
-  "invested_ratio_pct": 94.84,
+  "invested_ratio_pct": 99.0,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
@@ -1889,6 +1903,20 @@
     "range": "all"
   },
   "recent_trades": [
+    {
+      "time": "2026-11-12T13:42:01+09:00",
+      "ticker": "JP.8934",
+      "side": "SELL",
+      "qty": 700.0,
+      "price": 2377.0
+    },
+    {
+      "time": "2026-11-12T12:54:39+09:00",
+      "ticker": "JP.3696",
+      "side": "BUY",
+      "qty": 4000.0,
+      "price": 2209.0
+    },
     {
       "time": "2026-11-12T09:51:54+09:00",
       "ticker": "JP.8715",
@@ -1944,20 +1972,6 @@
       "side": "SELL",
       "qty": 11800.0,
       "price": 1443.0
-    },
-    {
-      "time": "2026-11-11T15:15:42+09:00",
-      "ticker": "JP.6480",
-      "side": "BUY",
-      "qty": 11800.0,
-      "price": 1458.0
-    },
-    {
-      "time": "2026-11-11T14:47:21+09:00",
-      "ticker": "JP.3034",
-      "side": "SELL",
-      "qty": 5000.0,
-      "price": 2382.0
     }
   ],
   "notes": []
