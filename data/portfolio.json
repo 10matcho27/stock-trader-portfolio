@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T11:35:14.032958+09:00",
+  "generated_at": "2026-11-25T15:35:02.677071+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
@@ -11,11 +11,11 @@
     "initial_cash": 160000000.0,
     "cash": 83235011.66,
     "realized_pnl": 6887111.66,
-    "holding_value": 86219500.0,
-    "total_assets": 169454511.66,
-    "unrealized_pnl": 2567400.0,
-    "total_pnl": 9454511.66,
-    "total_return_pct": 5.91
+    "holding_value": 86639500.0,
+    "total_assets": 169874511.66,
+    "unrealized_pnl": 2987400.0,
+    "total_pnl": 9874511.66,
+    "total_return_pct": 6.17
   },
   "positions": [
     {
@@ -25,12 +25,12 @@
       "entered_at": "2026-10-29T09:27:19.902432+09:00",
       "entry_catalyst": "日清製粉グループ 第２四半期（中間期）連結決算、通期連結業績予想",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 13.69,
+      "unrealized_pct": 13.83,
       "qty": 2800.0,
       "avg_cost": 2136.0,
-      "last_price": 2428.5,
-      "market_value": 6799800.0,
-      "unrealized_pnl": 819000.0
+      "last_price": 2431.5,
+      "market_value": 6808200.0,
+      "unrealized_pnl": 827400.0
     },
     {
       "ticker": "JP.2001",
@@ -39,12 +39,12 @@
       "entered_at": "2026-11-09T09:22:07.613959+09:00",
       "entry_catalyst": "(株)ニップン　中間期の連結業績および通期連結業績予想",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 6.85,
+      "unrealized_pct": 7.19,
       "qty": 4000.0,
       "avg_cost": 2892.0,
-      "last_price": 3090.0,
-      "market_value": 12360000.0,
-      "unrealized_pnl": 792000.0
+      "last_price": 3100.0,
+      "market_value": 12400000.0,
+      "unrealized_pnl": 832000.0
     },
     {
       "ticker": "JP.4521",
@@ -53,12 +53,12 @@
       "entered_at": "2026-11-10T09:21:51.464209+09:00",
       "entry_catalyst": "2027年3月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 1.05,
+      "unrealized_pct": 1.19,
       "qty": 2300.0,
       "avg_cost": 3795.0,
-      "last_price": 3835.0,
-      "market_value": 8820500.0,
-      "unrealized_pnl": 92000.0
+      "last_price": 3840.0,
+      "market_value": 8832000.0,
+      "unrealized_pnl": 103500.0
     },
     {
       "ticker": "JP.9119",
@@ -67,12 +67,12 @@
       "entered_at": "2026-11-10T09:22:04.227951+09:00",
       "entry_catalyst": "飯野海運、通期業績予想を上方修正 ケミカルタンカー・ドライバルク船の堅調な市況が寄与",
       "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": -0.38,
+      "unrealized_pct": -0.06,
       "qty": 5500.0,
       "avg_cost": 1599.0,
-      "last_price": 1593.0,
-      "market_value": 8761500.0,
-      "unrealized_pnl": -33000.0
+      "last_price": 1598.0,
+      "market_value": 8789000.0,
+      "unrealized_pnl": -5500.0
     },
     {
       "ticker": "JP.8934",
@@ -81,12 +81,12 @@
       "entered_at": "2026-11-10T09:24:11.509740+09:00",
       "entry_catalyst": "サンフロンティア (8934) 2027年３月期第２四半期（中間期）決算短信〔日本基準〕(連結)",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 0.7,
+      "unrealized_pct": 1.75,
       "qty": 1400.0,
       "avg_cost": 2282.0,
-      "last_price": 2298.0,
-      "market_value": 3217200.0,
-      "unrealized_pnl": 22400.0
+      "last_price": 2322.0,
+      "market_value": 3250800.0,
+      "unrealized_pnl": 56000.0
     },
     {
       "ticker": "JP.9684",
@@ -95,12 +95,12 @@
       "entered_at": "2026-11-12T09:42:17.706442+09:00",
       "entry_catalyst": "スクエニＨＤ (9684) 2027年3月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 7.23,
+      "unrealized_pct": 8.64,
       "qty": 3400.0,
       "avg_cost": 3391.0,
-      "last_price": 3636.0,
-      "market_value": 12362400.0,
-      "unrealized_pnl": 833000.0
+      "last_price": 3684.0,
+      "market_value": 12525600.0,
+      "unrealized_pnl": 996200.0
     },
     {
       "ticker": "JP.8016",
@@ -109,12 +109,12 @@
       "entered_at": "2026-11-18T09:27:21.095842+09:00",
       "entry_catalyst": "オンワードHDが福岡のセキミキ・グループを買収 ウィメンズアパレル「グレディブリリアン」など展開(WWDJAPAN.com)",
       "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": 1.78,
+      "unrealized_pct": 2.41,
       "qty": 21700.0,
       "avg_cost": 787.0,
-      "last_price": 801.0,
-      "market_value": 17381700.0,
-      "unrealized_pnl": 303800.0
+      "last_price": 806.0,
+      "market_value": 17490200.0,
+      "unrealized_pnl": 412300.0
     },
     {
       "ticker": "JP.6908",
@@ -123,12 +123,12 @@
       "entered_at": "2026-11-19T09:27:16.806350+09:00",
       "entry_catalyst": "株式会社シティインデックスイレブンス代表取締役　福島啓修 が イリソ電子工業株式会社（JP.6908）の大量保有報告を提出 保有割合 5.39%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": -2.07,
+      "unrealized_pct": -2.85,
       "qty": 3100.0,
       "avg_cost": 2704.0,
-      "last_price": 2648.0,
-      "market_value": 8208800.0,
-      "unrealized_pnl": -173600.0
+      "last_price": 2627.0,
+      "market_value": 8143700.0,
+      "unrealized_pnl": -238700.0
     },
     {
       "ticker": "JP.4443",
@@ -137,12 +137,12 @@
       "entered_at": "2026-11-24T09:22:10.411010+09:00",
       "entry_catalyst": "株式会社KiteRaの株式の取得（子会社化）に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": -1.05,
+      "unrealized_pct": 0.05,
       "qty": 4200.0,
       "avg_cost": 1999.0,
-      "last_price": 1978.0,
-      "market_value": 8307600.0,
-      "unrealized_pnl": -88200.0
+      "last_price": 2000.0,
+      "market_value": 8400000.0,
+      "unrealized_pnl": 4200.0
     }
   ],
   "equity_curve": [
@@ -925,10 +925,10 @@
     },
     {
       "date": "2026-11-25",
-      "index": 102.6285,
-      "total_assets": 169418411.66,
+      "index": 102.7759,
+      "total_assets": 169661711.66,
       "realized_pnl": 6887111.66,
-      "unrealized_pnl": 2531300.0
+      "unrealized_pnl": 2774600.0
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -1386,10 +1386,10 @@
         },
         {
           "date": "2026-11-25",
-          "index": 84.5179
+          "index": 85.4436
         }
       ],
-      "period_return_pct": -15.48,
+      "period_return_pct": -14.56,
       "filled_dates": []
     },
     {
@@ -1845,10 +1845,10 @@
         },
         {
           "date": "2026-11-25",
-          "index": 94.6809
+          "index": 94.7588
         }
       ],
-      "period_return_pct": -5.32,
+      "period_return_pct": -5.24,
       "filled_dates": [
         "2026-07-03",
         "2026-09-07",
@@ -1856,11 +1856,11 @@
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 159.234,
+      "fx_rate_last": 159.365,
       "fx_rate_last_date": "2026-11-25"
     }
   ],
-  "invested_ratio_pct": 50.88,
+  "invested_ratio_pct": 51.0,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
