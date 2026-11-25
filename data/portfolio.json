@@ -1,51 +1,23 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T15:35:02.464320+09:00",
+  "generated_at": "2026-11-25T11:35:14.032958+09:00",
   "detail_level": "full",
   "market": "JP",
   "source": "runtime_api",
   "valuation_available": true,
   "summary": {
     "currency": "JPY",
-    "position_count": 12,
+    "position_count": 9,
     "initial_cash": 160000000.0,
-    "cash": 54052411.66,
-    "realized_pnl": 6729731.77,
-    "holding_value": 114067259.78,
-    "total_assets": 168119671.44,
-    "unrealized_pnl": 1389939.67,
-    "total_pnl": 8119671.44,
-    "total_return_pct": 5.07
+    "cash": 83235011.66,
+    "realized_pnl": 6887111.66,
+    "holding_value": 86219500.0,
+    "total_assets": 169454511.66,
+    "unrealized_pnl": 2567400.0,
+    "total_pnl": 9454511.66,
+    "total_return_pct": 5.91
   },
   "positions": [
-    {
-      "ticker": "JP.2612",
-      "company_name": "かどや製油",
-      "sector": "Consumer Defensive",
-      "entered_at": "2026-09-28T09:17:32.149370+09:00",
-      "entry_catalyst": "ごま油最大手｢かどや製油｣が投資ファンドによるTOBに賛同した背景 近年はグローバル化も加速 | 政治・経済・投資 | 東洋経済オンライン ごま油の国内最大手のかどや製油は9月14日､投資ファンドのTOBを受けると発表しました。その背景とは？",
-      "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": 8.58,
-      "qty": 2100.0,
-      "avg_cost": 2855.0,
-      "last_price": 3100.0,
-      "market_value": 6510000.0,
-      "unrealized_pnl": 514500.0
-    },
-    {
-      "ticker": "JP.4714",
-      "company_name": "リソー教育グループ",
-      "sector": "Consumer Defensive",
-      "entered_at": "2026-10-14T09:44:48.143838+09:00",
-      "entry_catalyst": "リソー教育Ｇ (4714) 2027年２月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
-      "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 0.34,
-      "qty": 21200.0,
-      "avg_cost": 294.0,
-      "last_price": 295.0,
-      "market_value": 6254000.0,
-      "unrealized_pnl": 21200.0
-    },
     {
       "ticker": "JP.2002",
       "company_name": "日清製粉グループ本社",
@@ -53,12 +25,12 @@
       "entered_at": "2026-10-29T09:27:19.902432+09:00",
       "entry_catalyst": "日清製粉グループ 第２四半期（中間期）連結決算、通期連結業績予想",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 9.27,
+      "unrealized_pct": 13.69,
       "qty": 2800.0,
       "avg_cost": 2136.0,
-      "last_price": 2334.0,
-      "market_value": 6535200.0,
-      "unrealized_pnl": 554400.0
+      "last_price": 2428.5,
+      "market_value": 6799800.0,
+      "unrealized_pnl": 819000.0
     },
     {
       "ticker": "JP.2001",
@@ -67,12 +39,12 @@
       "entered_at": "2026-11-09T09:22:07.613959+09:00",
       "entry_catalyst": "(株)ニップン　中間期の連結業績および通期連結業績予想",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 2.8,
+      "unrealized_pct": 6.85,
       "qty": 4000.0,
       "avg_cost": 2892.0,
-      "last_price": 2973.0,
-      "market_value": 11892000.0,
-      "unrealized_pnl": 324000.0
+      "last_price": 3090.0,
+      "market_value": 12360000.0,
+      "unrealized_pnl": 792000.0
     },
     {
       "ticker": "JP.4521",
@@ -81,12 +53,12 @@
       "entered_at": "2026-11-10T09:21:51.464209+09:00",
       "entry_catalyst": "2027年3月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": -0.53,
+      "unrealized_pct": 1.05,
       "qty": 2300.0,
       "avg_cost": 3795.0,
-      "last_price": 3775.0,
-      "market_value": 8682500.0,
-      "unrealized_pnl": -46000.0
+      "last_price": 3835.0,
+      "market_value": 8820500.0,
+      "unrealized_pnl": 92000.0
     },
     {
       "ticker": "JP.9119",
@@ -95,12 +67,12 @@
       "entered_at": "2026-11-10T09:22:04.227951+09:00",
       "entry_catalyst": "飯野海運、通期業績予想を上方修正 ケミカルタンカー・ドライバルク船の堅調な市況が寄与",
       "hold_rationale": "fundamental catalyst: guidance",
-      "unrealized_pct": -0.44,
+      "unrealized_pct": -0.38,
       "qty": 5500.0,
       "avg_cost": 1599.0,
-      "last_price": 1592.0,
-      "market_value": 8756000.0,
-      "unrealized_pnl": -38500.0
+      "last_price": 1593.0,
+      "market_value": 8761500.0,
+      "unrealized_pnl": -33000.0
     },
     {
       "ticker": "JP.8934",
@@ -109,12 +81,12 @@
       "entered_at": "2026-11-10T09:24:11.509740+09:00",
       "entry_catalyst": "サンフロンティア (8934) 2027年３月期第２四半期（中間期）決算短信〔日本基準〕(連結)",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": -1.23,
+      "unrealized_pct": 0.7,
       "qty": 1400.0,
       "avg_cost": 2282.0,
-      "last_price": 2254.0,
-      "market_value": 3155600.0,
-      "unrealized_pnl": -39200.0
+      "last_price": 2298.0,
+      "market_value": 3217200.0,
+      "unrealized_pnl": 22400.0
     },
     {
       "ticker": "JP.9684",
@@ -123,12 +95,12 @@
       "entered_at": "2026-11-12T09:42:17.706442+09:00",
       "entry_catalyst": "スクエニＨＤ (9684) 2027年3月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 4.69,
+      "unrealized_pct": 7.23,
       "qty": 3400.0,
       "avg_cost": 3391.0,
-      "last_price": 3550.0,
-      "market_value": 12070000.0,
-      "unrealized_pnl": 540600.0
+      "last_price": 3636.0,
+      "market_value": 12362400.0,
+      "unrealized_pnl": 833000.0
     },
     {
       "ticker": "JP.8016",
@@ -137,12 +109,12 @@
       "entered_at": "2026-11-18T09:27:21.095842+09:00",
       "entry_catalyst": "オンワードHDが福岡のセキミキ・グループを買収 ウィメンズアパレル「グレディブリリアン」など展開(WWDJAPAN.com)",
       "hold_rationale": "fundamental catalyst: mna",
-      "unrealized_pct": -1.02,
+      "unrealized_pct": 1.78,
       "qty": 21700.0,
       "avg_cost": 787.0,
-      "last_price": 779.0,
-      "market_value": 16904300.0,
-      "unrealized_pnl": -173600.0
+      "last_price": 801.0,
+      "market_value": 17381700.0,
+      "unrealized_pnl": 303800.0
     },
     {
       "ticker": "JP.6908",
@@ -151,12 +123,12 @@
       "entered_at": "2026-11-19T09:27:16.806350+09:00",
       "entry_catalyst": "株式会社シティインデックスイレブンス代表取締役　福島啓修 が イリソ電子工業株式会社（JP.6908）の大量保有報告を提出 保有割合 5.39%",
       "hold_rationale": "official filing: edinet",
-      "unrealized_pct": -0.63,
+      "unrealized_pct": -2.07,
       "qty": 3100.0,
       "avg_cost": 2704.0,
-      "last_price": 2687.0,
-      "market_value": 8329700.0,
-      "unrealized_pnl": -52700.0
+      "last_price": 2648.0,
+      "market_value": 8208800.0,
+      "unrealized_pnl": -173600.0
     },
     {
       "ticker": "JP.4443",
@@ -165,26 +137,12 @@
       "entered_at": "2026-11-24T09:22:10.411010+09:00",
       "entry_catalyst": "株式会社KiteRaの株式の取得（子会社化）に関するお知らせ",
       "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": -1.3,
-      "qty": 8400.0,
+      "unrealized_pct": -1.05,
+      "qty": 4200.0,
       "avg_cost": 1999.0,
-      "last_price": 1973.0,
-      "market_value": 16573200.0,
-      "unrealized_pnl": -218400.0
-    },
-    {
-      "ticker": "JP.6471",
-      "company_name": "日本精工",
-      "sector": "Consumer Cyclical",
-      "entered_at": "2026-11-24T09:22:19.567313+09:00",
-      "entry_catalyst": "日本精工株式会社とＮＴＮ株式会社との共同持株会社設立（株式移転）に関する最終契約書の締結について",
-      "hold_rationale": "official filing: tdnet",
-      "unrealized_pct": 0.04,
-      "qty": 9100.0,
-      "avg_cost": 923.2,
-      "last_price": 923.6,
-      "market_value": 8404759.78,
-      "unrealized_pnl": 3639.67
+      "last_price": 1978.0,
+      "market_value": 8307600.0,
+      "unrealized_pnl": -88200.0
     }
   ],
   "equity_curve": [
@@ -960,10 +918,17 @@
     },
     {
       "date": "2026-11-24",
-      "index": 102.0357,
-      "total_assets": 168439751.88,
+      "index": 101.8505,
+      "total_assets": 168134131.77,
       "realized_pnl": 6729731.77,
-      "unrealized_pnl": 1710020.11
+      "unrealized_pnl": 1404400.0
+    },
+    {
+      "date": "2026-11-25",
+      "index": 102.6285,
+      "total_assets": 169418411.66,
+      "realized_pnl": 6887111.66,
+      "unrealized_pnl": 2531300.0
     }
   ],
   "benchmark_baseline_date": "2026-06-01",
@@ -1417,10 +1382,14 @@
         },
         {
           "date": "2026-11-24",
-          "index": 87.4212
+          "index": 87.6152
+        },
+        {
+          "date": "2026-11-25",
+          "index": 84.5179
         }
       ],
-      "period_return_pct": -12.58,
+      "period_return_pct": -15.48,
       "filled_dates": []
     },
     {
@@ -1872,22 +1841,26 @@
         },
         {
           "date": "2026-11-24",
-          "index": 95.1864
+          "index": 94.5471
+        },
+        {
+          "date": "2026-11-25",
+          "index": 94.6809
         }
       ],
-      "period_return_pct": -4.81,
+      "period_return_pct": -5.32,
       "filled_dates": [
         "2026-07-03",
         "2026-09-07",
-        "2026-11-24"
+        "2026-11-25"
       ],
       "quote_currency": "USD",
       "fx_symbol": "USDJPY=X",
-      "fx_rate_last": 159.286,
-      "fx_rate_last_date": "2026-11-24"
+      "fx_rate_last": 159.234,
+      "fx_rate_last_date": "2026-11-25"
     }
   ],
-  "invested_ratio_pct": 67.85,
+  "invested_ratio_pct": 50.88,
   "ui_defaults": {
     "visible_benchmark_keys": [
       "n225",
@@ -1896,6 +1869,34 @@
     "range": "all"
   },
   "recent_trades": [
+    {
+      "time": "2026-11-25T10:57:01+09:00",
+      "ticker": "JP.2612",
+      "side": "SELL",
+      "qty": 2100.0,
+      "price": 3105.0
+    },
+    {
+      "time": "2026-11-25T09:53:10+09:00",
+      "ticker": "JP.6471",
+      "side": "SELL",
+      "qty": 9100.0,
+      "price": 899.0
+    },
+    {
+      "time": "2026-11-25T09:53:09+09:00",
+      "ticker": "JP.4443",
+      "side": "SELL",
+      "qty": 4200.0,
+      "price": 1974.0
+    },
+    {
+      "time": "2026-11-25T09:25:23+09:00",
+      "ticker": "JP.4714",
+      "side": "SELL",
+      "qty": 21200.0,
+      "price": 292.0
+    },
     {
       "time": "2026-11-24T13:22:48+09:00",
       "ticker": "JP.1720",
@@ -1937,34 +1938,6 @@
       "side": "SELL",
       "qty": 15400.0,
       "price": 1090.0
-    },
-    {
-      "time": "2026-11-20T14:16:43+09:00",
-      "ticker": "JP.7947",
-      "side": "SELL",
-      "qty": 2000.0,
-      "price": 3010.0
-    },
-    {
-      "time": "2026-11-20T12:47:48+09:00",
-      "ticker": "JP.4689",
-      "side": "SELL",
-      "qty": 16300.0,
-      "price": 500.6
-    },
-    {
-      "time": "2026-11-20T12:47:00+09:00",
-      "ticker": "JP.8725",
-      "side": "SELL",
-      "qty": 3200.0,
-      "price": 5162.0
-    },
-    {
-      "time": "2026-11-20T10:30:11+09:00",
-      "ticker": "JP.1976",
-      "side": "SELL",
-      "qty": 5200.0,
-      "price": 1595.0
     }
   ],
   "notes": []
